@@ -7,7 +7,7 @@
        An alternative to eSearchTerm is to specify specific GI numbers or Primary Accessions 
        to retrieve. See ncbiImporterGiNumbers.xml and ncbiImporterPrimaryAccessions.xml for syntax examples -->
   <eSearchTerm>
-    "Dengue virus"[Organism] AND 500:5999[SLEN]
+    "Chikungunya virus"[Organism] AND 500:5999[SLEN]
   </eSearchTerm>
   
   <!-- This specifies the field of the GenBank document which will be used as the GLUE sequence ID. The options are:

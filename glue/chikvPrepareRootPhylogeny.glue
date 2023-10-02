@@ -5,9 +5,10 @@
   create module -f modules/chikvPhyloUtility.xml
 
   module chikvFigTreeAnnotationExporter 
-    export figtree-annotation AL_UNC_CHIKV_ROOT \     
-      -f trees/chikvReferenceFigtreeAnnotations.txt
+    export figtree-annotation AL_UNC_CHIKV_ROOT \
+    -f trees/chikvReferenceFigtreeAnnotations.txt
     exit
+
     
   module chikvPhyloUtility 
 	# midpoint rooting

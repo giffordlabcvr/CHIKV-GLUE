@@ -19,9 +19,9 @@ project chikv
   module chikvGenbankXmlPopulator populate -w "source.name = 'ncbi-refseqs'"
 
   # Load tabular data
-  #module chikvSideDataImporter
-  #  populate -f tabular/chikv_reference_data.tsv
-  #  exit
+  module chikvSideDataImporter
+    populate -f tabular/chikv_reference_data.tsv
+    exit
 
   # Define references
   run file glue/chikvReferences.glue
@@ -39,11 +39,11 @@ project chikv
   run file glue/chikvExplicitFeatureLocations.glue
   
   # inherit feature locations across other references
-  #run script glue/chikvRefseqsInheritFeatureLocations.js
-  #run script glue/chikvValidateRefseqFeatureLocations.js
+  run script glue/chikvRefseqsInheritFeatureLocations.js
+  run script glue/chikvValidateRefseqFeatureLocations.js
 
   # import the reference phylogeny into the alignment tree
-  #run file glue/chikvImportPhylogenies.glue
+  #run file glue/chikvImportPhylogeny.glue
   
   # Validate
   validate

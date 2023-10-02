@@ -1,0 +1,47 @@
+taxon	sequenceID	genotype	isolate	country	collection_year
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AB455494	AB455494	-	SL10571	-	2006
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AM258991	AM258991	-	05-209	Seychelles	-
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AM258992	AM258992	-	06-021	Reunion	-
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AM258993	AM258993	-	06-027	Reunion	-
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/DQ443544	DQ443544	-	LR2006_OPY1	Reunion	-
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF012359	EF012359	-	D570/06	Mauritius	-
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027134	EF027134	-	IND-06-AP3	India	-
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027138	EF027138	-	IND-06-TN1	India	-
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027140	EF027140	-	IND-63-WB1	India	-
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027141	EF027141	-	IND-73-MH5	India	-
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EU244823	EU244823	-	ITA07-RA1	Italy	2007
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EU564334	EU564334	-	TM25	Mauritius	2006
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445426	FJ445426	-	-	Sri Lanka	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445427	FJ445427	-	-	Sri Lanka	2007
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445430	FJ445430	-	-	Singapore	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445443	FJ445443	-	-	Singapore	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445510	FJ445510	-	-	Singapore	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ513675	FJ513675	-	-	Sri Lanka	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807896	FJ807896	-	0611aTw	Singapore	2006
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807897	FJ807897	-	0706aTw	Indonesia	2007
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807898	FJ807898	-	0810aTw	Bangladesh	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807899	FJ807899	-	0810bTw	Malaysia	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FN295483	FN295483	-	-	Malaysia:Perak	2006
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FN295485	FN295485	-	-	Malaysia:Johor	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FN295487	FN295487	-	-	Malaysia:Johor	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GQ428211	GQ428211	-	RGCB05/KL06	India	2006
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GQ428215	GQ428215	-	RGCB356/KL08	India	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU199352	GU199352	-	FD080178	China	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU199353	GU199353	-	FD080231	China	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU301780	GU301780	-	-	Thailand	2008
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU301781	GU301781	-	-	Thailand	2009
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045784	HM045784	-	DakAr B 16878	Central African Republic	1984
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045785	HM045785	-	PM2951	Senegal	1966
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045786	HM045786	-	IbH35	Nigeria	1964
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045790	HM045790	-	PhH15483	Philippines	1985
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045792	HM045792	-	Vereeniging	South Africa	1956
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045811	HM045811	-	Ross low-psg	Tanzania	1953
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045813	HM045813	-	Gibbs 63-263	India	1963
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045815	HM045815	-	ArD 30237	Senegal	1979
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045816	HM045816	-	SH 3013	Senegal	1966
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045817	HM045817	-	HD 180760	Senegal	2005
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045818	HM045818	-	ArA 2657	Cote d'Ivoire	1981
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045819	HM045819	-	ArD 93229	Senegal	1993
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045820	HM045820	-	ArA 30548	Cote d'Ivoire	1993
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045821	HM045821	-	A301	Senegal	1963
+alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045822	HM045822	-	HB78	Central African Republic	1978
