@@ -1,0 +1,5 @@
+# Build the base project
+run file chikvBaseProject.glue
+
+# Build the extension project
+run file chikvExtensionProject.glue

@@ -1,0 +1,65 @@
+<ncbiImporter>
+  <sequenceFormat>GENBANK_XML</sequenceFormat>
+  
+  <specificPrimaryAccessions>
+
+    <!-- Master reference sequence -->  
+    <primaryAccession>NC_004162</primaryAccession>
+
+    <!-- Asian and Caribbean -->  
+	<primaryAccession>HM045813</primaryAccession>
+	<primaryAccession>EF027141</primaryAccession>
+	<primaryAccession>EF027140</primaryAccession>
+	<primaryAccession>FN295483</primaryAccession>
+	<primaryAccession>FJ807897</primaryAccession>
+	<primaryAccession>HM045790</primaryAccession>
+
+    <!-- East-Central-South-African -->  
+	<primaryAccession>FJ445426</primaryAccession>
+	<primaryAccession>FJ513675</primaryAccession>
+	<primaryAccession>EF027134</primaryAccession>
+	<primaryAccession>FJ445510</primaryAccession>
+	<primaryAccession>GQ428211</primaryAccession>
+	<primaryAccession>FJ445427</primaryAccession>
+	<primaryAccession>AB455494</primaryAccession>
+	<primaryAccession>GU301781</primaryAccession>
+	<primaryAccession>FJ445430</primaryAccession>
+	<primaryAccession>FJ445443</primaryAccession>
+	<primaryAccession>GU199352</primaryAccession>
+	<primaryAccession>GU199353</primaryAccession>
+	<primaryAccession>FN295485</primaryAccession>
+	<primaryAccession>FN295487</primaryAccession>
+	<primaryAccession>FJ807899</primaryAccession>
+	<primaryAccession>GU301780</primaryAccession>
+	<primaryAccession>EU244823</primaryAccession>
+	<primaryAccession>EF027138</primaryAccession>
+	<primaryAccession>FJ807896</primaryAccession>
+	<primaryAccession>FJ807898</primaryAccession>
+	<primaryAccession>GQ428215</primaryAccession>
+	<primaryAccession>AM258993</primaryAccession>
+	<primaryAccession>DQ443544</primaryAccession>
+	<primaryAccession>EU564334</primaryAccession>
+	<primaryAccession>EF012359</primaryAccession>
+	<primaryAccession>AM258992</primaryAccession>
+	<primaryAccession>AM258991</primaryAccession>
+	<primaryAccession>HM045784</primaryAccession>
+	<primaryAccession>HM045822</primaryAccession>
+	<primaryAccession>HM045792</primaryAccession>
+	<primaryAccession>HM045811</primaryAccession>
+	<primaryAccession>HM045821</primaryAccession>
+ 
+    <!-- West African -->  
+	<primaryAccession>HM045785</primaryAccession>
+	<primaryAccession>HM045816</primaryAccession>
+	<primaryAccession>HM045815</primaryAccession>
+	<primaryAccession>HM045818</primaryAccession>
+	<primaryAccession>HM045820</primaryAccession>
+	<primaryAccession>HM045817</primaryAccession>
+	<primaryAccession>HM045786</primaryAccession>
+	<primaryAccession>HM045819</primaryAccession>
+
+  </specificPrimaryAccessions>
+  
+  <sequenceIdField>PRIMARY_ACCESSION</sequenceIdField>
+  <sourceName>ncbi-refseqs</sourceName>
+</ncbiImporter>

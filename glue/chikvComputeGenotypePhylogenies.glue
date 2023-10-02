@@ -1,0 +1,24 @@
+  # Clean-up
+  
+  # Delete modules
+  delete module chikvNucsRaxmlPhylogenyGenerator
+  
+  # Create all the modules we need
+  create module -f modules/chikvNucsRaxmlPhylogenyGenerator.xml
+
+  # Create the phylogeny (without outgroup)
+  module chikvNucsRaxmlPhylogenyGenerator
+    
+    generate nucleotide phylogeny AL_UNC_CHIKV1 -r REF_MASTER_CHIKV1 -f precursor_polyprotein \
+    -a -o trees/chikv1ReferencePhylogeny.tree NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_UNC_CHIKV2 -r REF_MASTER_CHIKV2 -f precursor_polyprotein \
+    -a -o trees/chikv2ReferencePhylogeny.tree NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_UNC_CHIKV3 -r REF_MASTER_CHIKV3 -f precursor_polyprotein \
+    -a -o trees/chikv3ReferencePhylogeny.tree NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_UNC_CHIKV4 -r REF_MASTER_CHIKV4 -f precursor_polyprotein \
+    -a -o trees/chikv4ReferencePhylogeny.tree NEWICK_BOOTSTRAPS
+      
+    exit    

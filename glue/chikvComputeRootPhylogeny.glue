@@ -1,0 +1,23 @@
+  # Clean-up
+  
+  # Delete modules
+  delete module chikvNucsRaxmlPhylogenyGenerator
+  
+  # Delete alignment
+  delete alignment AL_UNC_REFSEQS_Chikv
+
+  module unconstrainedAlignmentImporter
+    import AL_UNC_REFSEQS_Chikv -f alignments/chikv-reference-aln.fna
+    exit
+  
+  # Create all the modules we need
+  create module -f modules/chikvNucsRaxmlPhylogenyGenerator.xml
+
+  # Create the phylogeny (without outgroup)
+  module chikvNucsRaxmlPhylogenyGenerator
+    
+    generate nucleotide phylogeny AL_UNC_REFSEQS_Chikv \
+      -a -o trees/chikvReferencePhylogeny.tree \
+      NEWICK_BOOTSTRAPS
+      
+    exit    

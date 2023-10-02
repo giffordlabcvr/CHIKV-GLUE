@@ -1,0 +1,51 @@
+delete project chikv
+
+create project chikv "A GLUE project for chikungunya virus (CHIKV)" --minVersion 1.1.107
+
+run file glue/chikvSchemaExtensions.glue
+ 
+project chikv
+
+  run file glue/chikvProjectSettings.glue
+  run file glue/chikvModules.glue
+
+  # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
+  import source sources/ncbi-refseqs
+ 
+  # Link sequence table entries to isolate table
+  run script glue/chikvLoadIsolateData.js 
+  
+  # Populate refseq + outgroup metadata from GenBank XML
+  module chikvGenbankXmlPopulator populate -w "source.name = 'ncbi-refseqs'"
+
+  # Load tabular data
+  #module chikvSideDataImporter
+  #  populate -f tabular/chikv_reference_data.tsv
+  #  exit
+
+  # Define references
+  run file glue/chikvReferences.glue
+
+  # Import unconstrained alignment
+  run file glue/chikvUnconstrainedAlignments.glue
+
+  # Define alignment tree
+  #run file glue/chikvAlignmentTree.glue
+
+  # Define features
+  run file glue/chikvFeatures.glue
+  
+  # Define feature locations on master references
+  run file glue/chikvExplicitFeatureLocations.glue
+  
+  # inherit feature locations across other references
+  #run script glue/chikvRefseqsInheritFeatureLocations.js
+  #run script glue/chikvValidateRefseqFeatureLocations.js
+
+  # import the reference phylogeny into the alignment tree
+  #run file glue/chikvImportPhylogenies.glue
+  
+  # Validate
+  validate
+
+exit

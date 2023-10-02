@@ -1,0 +1,27 @@
+delete module chikvPhyloImporter
+create module -f modules/chikvPhyloImporter.xml
+
+module chikvPhyloImporter
+
+  import phylogeny AL_CHIKV1 \
+  --recursive \
+  --anyAlignment \
+  --whereClause "sequence.source.name = 'ncbi-refseqs' and referenceMember = false" \
+  --inputFile trees/chikv1ReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  --fieldName phylogeny
+
+  import phylogeny AL_CHIKV2 \
+  --recursive \
+  --anyAlignment \
+  --whereClause "sequence.source.name = 'ncbi-refseqs' and referenceMember = false" \
+  --inputFile trees/chikv2ReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  --fieldName phylogeny
+
+  import phylogeny AL_CHIKV3 \
+  --recursive \
+  --anyAlignment \
+  --whereClause "sequence.source.name = 'ncbi-refseqs' and referenceMember = false" \
+  --inputFile trees/chikv3ReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  --fieldName phylogeny
+
+  exit

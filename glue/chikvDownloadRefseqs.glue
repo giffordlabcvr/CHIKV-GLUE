@@ -1,0 +1,11 @@
+# Clean-up
+delete module chikvNcbiImporterReferences
+
+# Create modules
+create module -f modules/chikvNcbiImporterReferences.xml chikvNcbiImporterReferences
+
+# Download NCBI sequences 
+module chikvNcbiImporterReferences import
+
+# Export sources
+export source ncbi-refseqs

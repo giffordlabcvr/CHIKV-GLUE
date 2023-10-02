@@ -1,0 +1,70 @@
+  # Genotype 1 Master reference
+  reference REF_MASTER_CHIKV
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 11826
+      exit
+
+    add feature-location 5UTR
+    feature-location 5UTR
+      add segment 1 76
+      exit
+
+    add feature-location non_structural_polyprotein
+    feature-location non_structural_polyprotein
+      add segment 77 7501
+      exit
+
+    add feature-location nsP1
+    feature-location nsP1
+      add segment 77 1681
+      exit
+
+    add feature-location nsP2
+    feature-location nsP2
+      add segment 1682 4075
+      exit
+
+    add feature-location nsP3
+    feature-location nsP3
+      add segment 4076 5665
+      exit
+
+    add feature-location nsP4
+    feature-location nsP4
+      add segment 5666 7501
+      exit
+
+    add feature-location structural_polyprotein
+    feature-location structural_polyprotein
+      add segment 7567 11313
+      exit
+
+    add feature-location E3
+    feature-location E3
+      add segment 7567 7896
+      exit
+
+    add feature-location capsid
+    feature-location capsid
+      add segment 7897 8349
+      exit
+
+    add feature-location E2
+    feature-location E2
+      add segment 8554 9810
+      exit
+
+    add feature-location E1
+    feature-location E1
+      add segment 9994 11310
+      exit
+
+    add feature-location 3UTR
+    feature-location 3UTR
+      add segment 11311 11826
+      exit
+    
+  exit 
+

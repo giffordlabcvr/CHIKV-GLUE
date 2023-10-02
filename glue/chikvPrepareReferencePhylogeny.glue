@@ -1,0 +1,20 @@
+  delete module chikvPhyloUtility
+  delete module chikvFigTreeAnnotationExporter
+
+  create module -f modules/chikvFigTreeAnnotationExporter.xml
+  create module -f modules/chikvPhyloUtility.xml
+
+  module chikvFigTreeAnnotationExporter 
+    export figtree-annotation AL_UNC_CHIKV_ROOT \     
+      -f trees/chikvReferenceFigtreeAnnotations.txt
+    exit
+    
+  module chikvPhyloUtility 
+	# midpoint rooting
+	reroot-phylogeny \
+      --inputFile trees/chikvReferencePhylogeny.tree NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/chikvReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS
+      
+    exit
+    

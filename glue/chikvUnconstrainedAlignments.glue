@@ -1,0 +1,8 @@
+delete alignment AL_UNC_CHIKV_ROOT
+
+module unconstrainedAlignmentImporter
+
+  import AL_UNC_CHIKV_ROOT -f alignments/chikv-reference-aln.fna
+
+  exit
+

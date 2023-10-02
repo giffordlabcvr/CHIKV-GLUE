@@ -1,0 +1,7 @@
+# Basic modules
+create module --fileName modules/chikvGenbankXmlPopulator.xml
+create module --fileName modules/unconstrainedAlignmentImporter.xml
+
+create module -f modules/chikvTabularUtility.xml
+create module -f modules/chikvSideDataImporter.xml
+

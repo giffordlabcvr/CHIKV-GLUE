@@ -1,0 +1,76 @@
+  create feature whole_genome "Whole genome"
+  feature whole_genome set field displayName "Whole genome"
+  feature whole_genome set metatag INCLUDE_IN_SUMMARY true
+
+  ### Non-coding features 5' end
+
+  create feature 5UTR -p whole_genome "5' untranslated region"
+  feature 5UTR set field displayName "5' UTR"
+
+  ### Coding features
+
+  create feature non_structural_polyprotein -p whole_genome "Non-structural polyprotein"
+  feature non_structural_polyprotein set field displayName "Non-structural proteins"
+  feature non_structural_polyprotein set metatag OWN_CODON_NUMBERING true
+  feature non_structural_polyprotein set metatag CODES_AMINO_ACIDS true
+
+  create feature structural_polyprotein -p whole_genome "Structural polyprotein"
+  feature structural_polyprotein set field displayName "Structural proteins"
+  feature structural_polyprotein set metatag OWN_CODON_NUMBERING true
+  feature structural_polyprotein set metatag CODES_AMINO_ACIDS true
+
+  ### Non-structural proteins
+  
+  create feature nsP1 -p non_structural_polyprotein "Non-structural protein 1"
+  feature nsP1 set metatag OWN_CODON_NUMBERING true
+  feature nsP1 set metatag INCLUDE_IN_SUMMARY true
+  feature nsP1 set metatag CODES_AMINO_ACIDS true
+
+  create feature nsP2 -p non_structural_polyprotein "Non-structural protein 2 (helicase)"
+  feature nsP2 set metatag OWN_CODON_NUMBERING true
+  feature nsP2 set metatag INCLUDE_IN_SUMMARY true
+  feature nsP2 set metatag CODES_AMINO_ACIDS true
+
+  create feature nsP3 -p non_structural_polyprotein "Non-structural protein 3"
+  feature nsP3 set metatag OWN_CODON_NUMBERING true
+  feature nsP3 set metatag INCLUDE_IN_SUMMARY true
+  feature nsP3 set metatag CODES_AMINO_ACIDS true
+
+  create feature nsP4 -p non_structural_polyprotein "Non-structural protein 4 (RdRp)"
+  feature nsP4 set metatag OWN_CODON_NUMBERING true
+  feature nsP4 set metatag INCLUDE_IN_SUMMARY true
+  feature nsP4 set metatag CODES_AMINO_ACIDS true
+
+  ### Structural proteins
+
+  create feature capsid -p structural_polyprotein "Capsid"
+  feature capsid set metatag OWN_CODON_NUMBERING true
+  feature capsid set metatag INCLUDE_IN_SUMMARY true
+  feature capsid set metatag CODES_AMINO_ACIDS true
+
+  create feature E3 -p structural_polyprotein "Envelope protein E3"
+  feature E3 set metatag OWN_CODON_NUMBERING true
+  feature E3 set metatag INCLUDE_IN_SUMMARY true
+  feature E3 set metatag CODES_AMINO_ACIDS true
+
+  create feature E2 -p structural_polyprotein "Envelope protein E2"
+  feature E2 set metatag OWN_CODON_NUMBERING true
+  feature E2 set metatag INCLUDE_IN_SUMMARY true
+  feature E2 set metatag CODES_AMINO_ACIDS true
+
+  create feature 6K -p structural_polyprotein "6K"
+  feature 6K set metatag OWN_CODON_NUMBERING true
+  feature 6K set metatag INCLUDE_IN_SUMMARY true
+  feature 6K set metatag CODES_AMINO_ACIDS true
+
+  create feature E1 -p structural_polyprotein "Envelope protein E1"
+  feature E1 set metatag OWN_CODON_NUMBERING true
+  feature E1 set metatag INCLUDE_IN_SUMMARY true
+  feature E1 set metatag CODES_AMINO_ACIDS true
+
+  ### Non-coding features 3' end
+
+  create feature 3UTR -p whole_genome "3' untranslated region"
+  feature 3UTR set field displayName "3' UTR"
+
+

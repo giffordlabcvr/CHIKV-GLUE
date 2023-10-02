@@ -1,0 +1,33 @@
+#### Chikungunya reference sequences
+
+# Master references
+create reference  REF_MASTER_CHIKV ncbi-refseqs NC_004162 
+
+# Asian and Caribbean
+create reference  REF_Asian_HM045813_India_1963      ncbi-refseqs HM045813 
+create reference  REF_Asian_EF027141_India_1973      ncbi-refseqs EF027141 
+create reference  REF_Asian_EF027140_India_1963      ncbi-refseqs EF027140 
+create reference  REF_Asian_FN295483_Malaysia_2006   ncbi-refseqs FN295483 
+create reference  REF_Asian_FJ807897_Taiwan_2007     ncbi-refseqs FJ807897 
+create reference  REFAsian_HM045790_Phil_1985        ncbi-refseqs HM045790 
+
+# East-Central-South-African
+create reference  REF_ECSA_IN_AB455494_Japan_2006    ncbi-refseqs AB455494 
+create reference  REF_ECSA_IN_EU244823_Italy_2007    ncbi-refseqs EU244823 
+create reference  REF_ECSA_IN_FJ445426_SriLanka_2008 ncbi-refseqs FJ445426 
+create reference  REF_ECSA_IN_FN295485_Malaysia_2008 ncbi-refseqs FN295485 
+create reference  REF_ECSA_IN_GU301781_Thailand_2009 ncbi-refseqs GU301781 
+create reference  REF_ESCA_IOC_AM258993_Reunion_2005 ncbi-refseqs AM258993 
+create reference  REF_ESCA_IOC_EF012359_Mauri_2006   ncbi-refseqs EF012359 
+create reference  REF_ECSA_IOC_AM258991_Seyche_2005  ncbi-refseqs AM258991 
+create reference  REF_ECSA_HM045792_South            ncbi-refseqs HM045792 
+create reference  REF_ECSA_HM045811_Tanzania_1953    ncbi-refseqs HM045811 
+create reference  REF_ECSA_HM045821_Senegal_1963     ncbi-refseqs HM045821 
+
+# West African
+create reference  REF_WestAfr_HM045785_Senegal_1966  ncbi-refseqs HM045785 
+create reference  REF_WestAfr_HM045815_Senegal_1979  ncbi-refseqs HM045815 
+create reference  REF_WestAfr_HM045818_Ivory         ncbi-refseqs HM045818 
+create reference  REF_WestAfr_HM045820_Ivory         ncbi-refseqs HM045820 
+create reference  REF_WestAfr_HM045817_Senegal_2005  ncbi-refseqs HM045817 
+create reference  REF_WestAfr_HM045786_Nigeria_1964  ncbi-refseqs HM045786 
