@@ -27,7 +27,7 @@ _.each(ncbiCurated, function(ncbiCurated) {
 	var genotypeRow = genotypeRows[0].value;
 	var genotypeResult = genotypeRow[1]
 
-	glue.log("INFO", "Genotype 1 RESULT WAS ", genotypeResult);
+	glue.log("INFO", "Genotype RESULT WAS ", genotypeResult);
 
 	if (genotypeResult) {
 
