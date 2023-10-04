@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MT877207</GBSeq_locus>
+    <GBSeq_length>11149</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>07-NOV-2020</GBSeq_update-date>
+    <GBSeq_create-date>07-NOV-2020</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus isolate 8L, partial genome</GBSeq_definition>
+    <GBSeq_primary-accession>MT877207</GBSeq_primary-accession>
+    <GBSeq_accession-version>MT877207.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MT877207.1|</GBSeqid>
+      <GBSeqid>gi|1927761118</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..11149</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lima,S.T.S.</GBAuthor>
+          <GBAuthor>Souza,W.M.</GBAuthor>
+          <GBAuthor>Cavalcante,J.W.</GBAuthor>
+          <GBAuthor>da Silva Candido,D.</GBAuthor>
+          <GBAuthor>Fumagalli,M.J.</GBAuthor>
+          <GBAuthor>Carrera,J.P.</GBAuthor>
+          <GBAuthor>Simoes Mello,L.M.</GBAuthor>
+          <GBAuthor>de Carvalho Araujo,F.M.</GBAuthor>
+          <GBAuthor>Cavalcante Ramalho,I.L.</GBAuthor>
+          <GBAuthor>de Almeida Barreto,F.K.</GBAuthor>
+          <GBAuthor>de Melo Braga,D.N.</GBAuthor>
+          <GBAuthor>Simiao,A.R.</GBAuthor>
+          <GBAuthor>Miranda da Silva,M.J.</GBAuthor>
+          <GBAuthor>Oliveira,R.M.A.B.</GBAuthor>
+          <GBAuthor>Lima,C.P.S.</GBAuthor>
+          <GBAuthor>Sousa Lins,C.</GBAuthor>
+          <GBAuthor>Barata,R.R.</GBAuthor>
+          <GBAuthor>Melo,M.N.P.</GBAuthor>
+          <GBAuthor>de Souza,M.P.C.</GBAuthor>
+          <GBAuthor>Franco,L.M.</GBAuthor>
+          <GBAuthor>Tavora,F.R.F.</GBAuthor>
+          <GBAuthor>Queiroz Lemos,D.R.</GBAuthor>
+          <GBAuthor>Alencar,C.H.M.</GBAuthor>
+          <GBAuthor>Jesus,R.</GBAuthor>
+          <GBAuthor>Souza Fonseca,V.</GBAuthor>
+          <GBAuthor>Dutra,L.H.</GBAuthor>
+          <GBAuthor>Abreu,A.L.</GBAuthor>
+          <GBAuthor>Araujo,E.L.L.</GBAuthor>
+          <GBAuthor>Ribas Freitas,A.R.</GBAuthor>
+          <GBAuthor>Goncalves Vianez Junior,J.L.D.S.</GBAuthor>
+          <GBAuthor>Pybus,O.G.</GBAuthor>
+          <GBAuthor>Moraes Figueiredo,L.T.</GBAuthor>
+          <GBAuthor>Faria,N.R.</GBAuthor>
+          <GBAuthor>Teixeira Nunes,M.R.</GBAuthor>
+          <GBAuthor>Goes Cavalcanti,L.P.</GBAuthor>
+          <GBAuthor>Miyajima,F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Fatal outcome of chikungunya virus infection in Brazil</GBReference_title>
+        <GBReference_journal>Clin Infect Dis (2020) In press</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1093/cid/ciaa1038</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>32766829</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Available-Online prior to print</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..11149</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Lima,S.T.S.</GBAuthor>
+          <GBAuthor>Souza,W.M.</GBAuthor>
+          <GBAuthor>Cavalcante,J.W.</GBAuthor>
+          <GBAuthor>Candido,D.S.</GBAuthor>
+          <GBAuthor>Fumagalli,M.J.</GBAuthor>
+          <GBAuthor>Carrera,J.-P.</GBAuthor>
+          <GBAuthor>Mello,L.M.S.</GBAuthor>
+          <GBAuthor>Araujo,F.M.C.</GBAuthor>
+          <GBAuthor>Ramalho,I.L.C.</GBAuthor>
+          <GBAuthor>Barreto,F.K.A.</GBAuthor>
+          <GBAuthor>Braga,D.N.M.</GBAuthor>
+          <GBAuthor>Simao,A.R.</GBAuthor>
+          <GBAuthor>Silva,M.J.M.</GBAuthor>
+          <GBAuthor>Oliveira,R.M.A.B.</GBAuthor>
+          <GBAuthor>Lima,C.P.S.</GBAuthor>
+          <GBAuthor>Lins,C.S.</GBAuthor>
+          <GBAuthor>Barata,R.R.</GBAuthor>
+          <GBAuthor>Melo,M.N.P.</GBAuthor>
+          <GBAuthor>Souza,M.P.C.</GBAuthor>
+          <GBAuthor>Franco,L.M.</GBAuthor>
+          <GBAuthor>Tavora,F.R.F.</GBAuthor>
+          <GBAuthor>Lemos,D.R.Q.</GBAuthor>
+          <GBAuthor>Alencar,C.H.M.</GBAuthor>
+          <GBAuthor>de Jesus,R.</GBAuthor>
+          <GBAuthor>Fonseca,V.S.</GBAuthor>
+          <GBAuthor>Dutra,L.H.</GBAuthor>
+          <GBAuthor>Abreu,A.L.</GBAuthor>
+          <GBAuthor>Araujo,E.L.L.</GBAuthor>
+          <GBAuthor>Freitas,A.R.R.</GBAuthor>
+          <GBAuthor>Vianez,J.L.S.G. Jr.</GBAuthor>
+          <GBAuthor>Pybus,O.G.</GBAuthor>
+          <GBAuthor>Figueiredo,L.T.M.</GBAuthor>
+          <GBAuthor>Faria,N.R.</GBAuthor>
+          <GBAuthor>Nunes,M.R.T.</GBAuthor>
+          <GBAuthor>Cavalcanti,L.P.G.</GBAuthor>
+          <GBAuthor>Miyajima,F.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (11-AUG-2020) Virology Research Center, University of Sao Paulo, Av. Bandeirantes, 3900, Ribeirao Preto, Sao Paulo 14049-900, Brazil</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: minimap2 v. v2.28.0 ; Sequencing Technology :: Oxford Nanopore Technologies ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..11149</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>11149</GBInterval_to>
+            <GBInterval_accession>MT877207.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>8L</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>bio_material</GBQualifier_name>
+            <GBQualifier_value>cerebrospinal fluid</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Brazil</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>lat_lon</GBQualifier_name>
+            <GBQualifier_value>3.73 S 38.52 W</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>19-Mar-2017</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collected_by</GBQualifier_name>
+            <GBQualifier_value>SVO</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gap</GBFeature_key>
+        <GBFeature_location>292..480</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>292</GBInterval_from>
+            <GBInterval_to>480</GBInterval_to>
+            <GBInterval_accession>MT877207.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>estimated_length</GBQualifier_name>
+            <GBQualifier_value>189</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gap</GBFeature_key>
+        <GBFeature_location>524..745</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>524</GBInterval_from>
+            <GBInterval_to>745</GBInterval_to>
+            <GBInterval_accession>MT877207.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>estimated_length</GBQualifier_name>
+            <GBQualifier_value>222</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gap</GBFeature_key>
+        <GBFeature_location>1550..1990</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1550</GBInterval_from>
+            <GBInterval_to>1990</GBInterval_to>
+            <GBInterval_accession>MT877207.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>estimated_length</GBQualifier_name>
+            <GBQualifier_value>441</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gap</GBFeature_key>
+        <GBFeature_location>3295..3737</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>3295</GBInterval_from>
+            <GBInterval_to>3737</GBInterval_to>
+            <GBInterval_accession>MT877207.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>estimated_length</GBQualifier_name>
+            <GBQualifier_value>443</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gap</GBFeature_key>
+        <GBFeature_location>4085..4278</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>4085</GBInterval_from>
+            <GBInterval_to>4278</GBInterval_to>
+            <GBInterval_accession>MT877207.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>estimated_length</GBQualifier_name>
+            <GBQualifier_value>194</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gap</GBFeature_key>
+        <GBFeature_location>5564..6031</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>5564</GBInterval_from>
+            <GBInterval_to>6031</GBInterval_to>
+            <GBInterval_accession>MT877207.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>estimated_length</GBQualifier_name>
+            <GBQualifier_value>468</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gap</GBFeature_key>
+        <GBFeature_location>8613..9352</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>8613</GBInterval_from>
+            <GBInterval_to>9352</GBInterval_to>
+            <GBInterval_accession>MT877207.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>estimated_length</GBQualifier_name>
+            <GBQualifier_value>740</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gap</GBFeature_key>
+        <GBFeature_location>9860..10066</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>9860</GBInterval_from>
+            <GBInterval_to>10066</GBInterval_to>
+            <GBInterval_accession>MT877207.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>estimated_length</GBQualifier_name>
+            <GBQualifier_value>207</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gap</GBFeature_key>
+        <GBFeature_location>10859..11115</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>10859</GBInterval_from>
+            <GBInterval_to>11115</GBInterval_to>
+            <GBInterval_accession>MT877207.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>estimated_length</GBQualifier_name>
+            <GBQualifier_value>257</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gcgtaccccatgtttgaggtggaacccaggcaggtcacaccgaatgaccatgctaatgctagagcgttctcgcatctagctataaaactaatagagcaggaaattgatcccgactcaaccatcctggacatcggcagtgcaccagcaaggaggatgatgtcggacaggaagtaccactgcgtctgcccgatgcgcagcgcagaagatcccgagagactcgccaattatgcgagaaagctagcatctgctgcaggaaaagtcctggacagaaacatctctggaaagatcgggnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaccccgttcatgtacaatgccatggcnggtgcctanccctcatnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaactcagcttcacatgccgctgtgatacagtggtttcgtgcgagggctacgtcgttaagagaataacgatgagcccaggcctttatggaaaaaccacagggtatgcggtaacccaccacgcagacggattcttgatgtgcaagactaccgacacggttgacggcgaaagagtgtcattctcggtgtgcacatacgtgccggcgaccatttgtgatcaaatgaccggcatccttgctacagaagtcacgccggaggatgcacagaagctgttggtggggctgaaccagagaatagtggttaacggcagaacgcaacggaatacgaacaccatgaaaaactatctgcttcccgtggtcgcccaagccttcagtaagtgggcaaaggagtgccggaaagacatggaagatgaaaaactcctgggggtcagagaaagaacactgacctgctgctgtctatgggcattcaagaagcagaaaacacacacggtctacaagaggcctgatacccagtcaattcagaaggttcaggccgagtttgacagctttgtggtaccgagcctgtggtcgtccgggttgtcaatccccttgaggactagaatcaaatggttgttaagcaaggtgccaaaaaccgacctgatcccatatagcggggacgcccaagaagcccgggacgcagaaaaagaagcagaggaagaacgagaagcagaactgactcgtgaagccctaccacctctacaggcagcacaggaagatgttcaggtcgaaatcgacgtggaacagcttgaggacagagcgggtgcaggaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngactggtactggtgggcgacttgactaatccgccctaccacgaattcgcatatgaagggctnaaaatccgccctgcctgcccatacaaaattgcagtcataggagtcttcggagtaccaggatcnggcaagtcagctattatcaagaacctagttaccaggcaagacctggtgactagcggaaagaaagaaaactgccaagaaatcaccaccgacgtgatgagacagagaggtctagagatatctgcacgtacggttgactcgctgctcttgaatggatgcaacaggccagtcgacgtgttgtacgtagacgaggcgtttgcgtgccactctggaacgttacttgctttgatcgccttggttagaccaaggcagaaagttgtactctgtggtgacccgaagcagtgcggcttcttcaatatgatgcagatgaaagtcaactataatcacaacatctgcacccaagtgtaccacaaaagtatctccaggcggtgtacactgcctgtgaccgccattgtgtcatcgttgcattacgaaggcaaaatgcgcactacgaatgagtacaacaagccgattgtagtggacactacaggctcaacaaaacctgaccctggagatctcgtgttaacgtgcttcagagggtgggttaaacaactgcaaattgactatcgtggatacgaggtcatgacagcagccgcatcccaagggttaaccagaaaaggagtttatgcagttaggcaaaaagttaatgaaaacccgctctatgcatcaacgtcagagcacgtcaacgtactcctaacgcgtacggaaggtaaactggtatggaagacactttccggtgacccgtggataaagacgctgcagaacccaccgaaaggaaacttcaaagcaactatcaaggagtgggaggtggagcatgcatcaataatggcgggcatctgcagtcaccaaatgacctttgatacattccaaaacaaagccaatgtttgttgggctaagagcttggtccctatcctcgaaacagcggggataaaactaaatgataggcagtggtcccagataattcaagccttcaaagaagataaagcatactcacctgaagtagccctgaatgaaatatgcacgcgcatgtatggggtggatttagacagtgggctattttctaaaccattggtgtctgtgtattacgcggataaccactgggataataggcctggagggaagatgttcggattcaaccccgaggcagcatccattctagaaagaaagtatccattcacaaaagggaagtggaacatcaacaagnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntagaaccagtgaacgagtcatctgcgtgttgggacgcaagttcagatcgtctagagcgttgaaaccaccatgtgtcaccagcaacactgagatgtttttcctattcagcaactttgacaatggcagaaggaatttcacaactcatgtcatgaataatcaactgaatgcagcctttgtaggacaggccacccgagcaggatgtgcaccgtcgtaccgggtaaaacgcatggacatcgcgaagaacgatgaagagtgcgtagttaacgccgctaaccctcgcgggttaccgggtgacggtgtttgcaaggcagtatacaaaaaatggccggagtcctttaagaatagtgnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntactcaggagggaaagataggctgacccagtcactgaaccacctcttcacagccatggactcgacggatgcagacgtggtcatctactgtcgcgacaaagaatgggagaagaaaatatccgaggccatacagatgcggactcaagtggagttgctggatgagcacatctccatagactgcgatattgttcgcgtgcaccctgacagcagcttggcaggcagaaaaggatacagcaccacggaaggcgcactgtactcatatctagaagggactcgttttcaccagacggcagtggacatggcagagatatatactatgtggccaaagcaaacagaggccaacgagcaagtctgcctatatgccctgggggaaagtattgaatcgatcaggcagaaatgcccggtggatgatgcagatgcatcgtctcctccaaaaactgtcccgtgcctttgccgttacgccatgactccggaacgcgtcacccgacttcgcatgaaccacgtcacaagtataattgtgtgttcctcgtttccccttccaaagtacaaaatagaaggagtgcaaaaagtcaaatgctctaaggtaatgctatttgaccacaacgtgccatcacgcgtaagtccgagggaatatagatcttccccggaggctgcacaggaagcgagtacaaccacgtcactgacgcatagccaattcgacctaagcgttgacggcgagatactacccgtcccgtcagatctggatgctgacgccccagccctagaaccagctctagacgacagggcgacacacacgttgccatccacaaccggaaaccttgcggccgtgtctgactgggtaatgagcaccgtacctgtcgcgccgcccagaagaaggcgagggagaaacctgactgtgacatgcgacgagagagaagggaacataacacccatggctagcgtccgattntttagggcagagctgcgtccggtcgtacaagaaacagcggagacgcgtgacacagcaatgtctcttcaggcaccgccgagtaccgccacggaactgaatcatccgtcgatctccttcggagcaccaagcgagacgttccccattacatttggggactttaacgaaggagaaatcgaaagcttgtcttctgagctgctaactttcggagacttcctacccggagaagtggatgacttgacagatagcgactggtccacgtgctcagacacggacgacgagttannnctagacagggcaggtgggtatatattctcgtcggacaccggtccaggtcattnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaacttaggagctacccgaaacagcacgcttaccatgcgccctccatcagaagcgctgtaccgtccccattccagaacacactacagaatgtactggcagcagccacgaaaagaaactgcaacgtcacacagatgagggaattacccactttggactcagcagtattcaacgtggagtgttttaaaaaattcgcatgcaaccaagaatactgggaagaatttgctgccagccctattaggataacaactgagaatttaacaacctatgttactaaactaaaagggccaaaagcagcagcgctatttgcaaaaacccacaatctgctgccactgcaggaagtaccaatggataggttcacagtagatatgaaaagggacgtgaaggtgactcctggtacaaagcacacagaggaaagacctaaggtgcaggttatacaggcggctgaacccttggcgacagcatacctatgtgggattcacagagagctggttaggaggctgaacgccgtcctcctacccaatgtacatacactatttgatatgtctgccgaggatttcgatgccancatanccgcacactttnagccaggagacactgtttnngaaacggacatagnctccnttgacaagagccnagatgattcacnngcgcnnnntgncttgatgttgttagaagatttannngtggatcncnncctgttngacntgatngaggccgcnttnnnnnagatttncagcngtcatctaccgncangtanncncttnnagttcggcgccatgatgaaatctggtatgttcctaactctgttcgtcaacacattgctaaacatcaccatcgctagccgcgtgctggaagatcgtctgacaaaatccgcgtgcgcggccttcatcggcgacgacaacataatacatggagtcgtctccgatgaattgatggcagccagatgcgccacttggatgaacatggaagtgaagatcatagatgcagttgtatccttgaaagccccttacttttgtggagggtttatactgcacgatactgtgacgggaacagcctgcagagtggcagacccgctaaaaaggctattcaaactgggcaaaccgctagcggcaggtgacgaacaagatgaagatagaagacgagcgctggctgacgaagtgatcagatggcaacgaacagggctaattgatgagttggagaaagcggtatactctaggtatgaagtgcagggtatatcagttgtggtaatgtccatggccacctttgcaagctccagatctaacttcgagaagctcagaggacccgtcataaccttgtacggcggtcctaaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnatggagtacatcccaacccaaactttttacaataggaggtaccagcctcgaccctggactccgcgccccactatccaagtaatcaggcccagaccgcgccctcagaggcaagccgggcaacttgcccagctgatctcagcagttaataaactgacaatgcgcgcggtaccccaacagaagccacgcaggaatcggaagaataagaagcaaaaacaaaagcgacaggcgccacaaaacaacacaaaccaaaagaagcagccgcctaaaaagaaaccagctcaaaagaaaaagaagccgggccgcagagagaggatgtgcatgaaaatcgaaaatgattgtatttttgaagtcaagtatgaaggtaaggtaacaggttacgcgtgcttggtgggggacaaagtaatgaaaccagcacacgtaaaggggaccatcgataacgcggacctggccaaactggcctttaagcggtcatctaagtatgaccttgaatgcgcgcagatacccgtgcacatgaagtccgacgcttcgaagttcacccatgagaaaccagaggggtactacaactggcaccacggagcagtacagtactcaggaggccggttcaccatccccacaggtgctggcaaaccaggggacagcggcagaccgatcttcgacaacaagggacgcgtggtggccatagtcttaggaggagctaatgaaggagcccgtacagccctctcggtggtgacctngaataaagacattgtcactaaaatcanccccgagggggccgaagagtngagtcttgccatcccagtcatgtgcctgctggcaaataccacgttnccctgctcccagnccccttgcactccctgctgctatgnannggaaccanaggaaaccctacgcatgcntgaggacaacgtcatgagacctgggtactatcagctgctacaagcatccttaacatgttctccccaccgtcagcgacgcagtaccaaggacaacttcaatgtctataaagccacaagaccgtacttagctcactgtcccgactgtggagaagggcactcgtgccatagtcccgtagcattagaacgcatcagaaatgaagcgacagacgggacgctgaaaatccaggtctccttgcaaatcggaataaagacggatgatagccacgattggaccaagctgcgttacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnagtcgtgctaaccgtgccgactgaagggctcgaggtcacgtggggtaacaacgagccgtataagtattggccgcagttatctacaaacggtacagcccatggccacccgcatgagataattctgtattattatgagctgtaccctactatgactgtagtagttgtgtcagtggcctcggtcgtactcctgtcgatggtgggtgtggcagtggggatgtgcatgtgtgcacgacgcagatgcatcacaccgtacgaactgacaccaggagctaccgtccctttcctgcttagcctaatatgctgcatcagaacagctaaagcggccacataccaagaggctgcggtatacctgtggaatgagcagcaacctttgttttggctacaagcccttattccgctggcagccctgattgtcctatgcaactgtctgagactcttaccatgctgctgtaaaacgttggcttttttagccgtaatgagcgtcggtgcccacactgtgagcgcgtannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncaaaaacctacctgactacagctgtaaggtcttcaccggcgtctacccatttatgtggggcggagcctactgcttctgcgacgctgaaaacacgcaattgagcgaagcacacgtggagaagtccgaatcatgcaaaacagaatttgcatcagcatacagggctcataccgcatccgcatcagctaagctccgcgtcctttaccaaggaaataacattactgtaactgcctatgctaacggcgaccatgccgtcacagttaaggacgccaaattcattgtggggccaatgtcttcagcctggacacctttcgacaacaaaattgtggtgtacaaaggtgacgtctataacatggactacccgccctttggcgcaggaagaccaggacaatttggcgatatccaaagtcgcacacctgagagtaaagacgtctatgctaatacacaactggtactgcagagaccggctgcgggtacggtacatgtgccatactctcaggcaccatctggctttaagtattggctaaaagaacgaggggcgtcgctgcagcacacagcaccatttggctgccaaatagcaacaaacccggtaagagcggtgaattgcgccgtagggaacatgcccatctccatcgacataccggatgcggccttcattagggtcgtcgacgcgccctctttaacggacatgtcgtgcgaggtaccagcctgcacccattcctcagatttcgggggcgtcgccattattaaatatgcagccagcaagaaaggcaagtgtgcggtgcattcgatgacnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttgtcgctgttgcagcactgattctaatcgtggt</GBSeq_sequence>
+  </GBSeq>

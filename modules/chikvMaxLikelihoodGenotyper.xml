@@ -1,6 +1,5 @@
 <maxLikelihoodGenotyper>
 	<maxLikelihoodPlacerModuleName>chikvMaxLikelihoodPlacer</maxLikelihoodPlacerModuleName>
-	<useSingleReference>true</useSingleReference>
 
 	<cladeCategory>
 		<name>genotype</name>	

@@ -11,7 +11,6 @@
   alignment AL_CHIKV
 
     set field displayName "Species"
-    set field clade_category "genotype"
   
 	extract child AL_CHIKV_Asian -r REF_Asian_HM045813_India_1963
 	demote member AL_CHIKV_Asian --whereClause "sequence.genotype = 'Asian'"

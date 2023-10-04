@@ -10,7 +10,6 @@
 
 	<!-- where the alignment will come from -->
 	<alignmentAlignmentName>AL_UNC_CHIKV_ROOT</alignmentAlignmentName>
-	<alignmentRelatedRefName>REF_ECSA_IN_FJ445426_SriLanka_2008</alignmentRelatedRefName>
 	
 </maxLikelihoodPlacer>
 

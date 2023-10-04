@@ -1,0 +1,148 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=46;
+	taxlabels
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AB455494'[&collection_year=2006,country="Japan",genotype="ECSA",isolate="SL10571",sequenceID="AB455494"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AM258991'[&collection_year=2005,country="Seyche",genotype="ECSA",isolate="05-209",sequenceID="AM258991"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AM258992'[&collection_year=2005,country="Reunion",genotype="ECSA",isolate="06-021",sequenceID="AM258992"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AM258993'[&collection_year=2005,country="Reunion",genotype="ECSA",isolate="06-027",sequenceID="AM258993"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/DQ443544'[&collection_year=2006,country="Reunion",genotype="ECSA",isolate="LR2006_OPY1",sequenceID="DQ443544"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF012359'[&collection_year=2006,country="Mauri",genotype="ECSA",isolate="D570/06",sequenceID="EF012359"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027134'[&collection_year=2006,country="India",genotype="ECSA",isolate="IND-06-AP3",sequenceID="EF027134"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027138'[&collection_year=2006,country="India",genotype="ECSA",isolate="IND-06-TN1",sequenceID="EF027138"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027140'[&collection_year=1963,country="India",genotype="Asian",isolate="IND-63-WB1",sequenceID="EF027140"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027141'[&collection_year=1973,country="India",genotype="Asian",isolate="IND-73-MH5",sequenceID="EF027141"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EU244823'[&collection_year=2007,country="Italy",genotype="ECSA",isolate="ITA07-RA1",sequenceID="EU244823"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EU564334'[&collection_year=2006,country="Mauri",genotype="ECSA",isolate="TM25",sequenceID="EU564334"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445426'[&collection_year=2008,country="SriLanka",genotype="ECSA",isolate="-",sequenceID="FJ445426"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445427'[&collection_year=2007,country="SriLanka",genotype="ECSA",isolate="-",sequenceID="FJ445427"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445430'[&collection_year=2008,country="Sing",genotype="ECSA",isolate="-",sequenceID="FJ445430"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445443'[&collection_year=2008,country="Sing",genotype="ECSA",isolate="-",sequenceID="FJ445443"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445510'[&collection_year=2008,country="Sing",genotype="ECSA",isolate="-",sequenceID="FJ445510"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ513675'[&collection_year=2008,country="Srilanka",genotype="ECSA",isolate="-",sequenceID="FJ513675"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807896'[&collection_year=2006,country="Taiwan",genotype="ECSA",isolate="0611aTw",sequenceID="FJ807896"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807897'[&collection_year=2007,country="Taiwan",genotype="Asian",isolate="0706aTw",sequenceID="FJ807897"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807898'[&collection_year=2008,country="Taiwan",genotype="ECSA",isolate="0810aTw",sequenceID="FJ807898"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807899'[&collection_year=2008,country="Taiwan",genotype="ECSA",isolate="0810bTw",sequenceID="FJ807899"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FN295483'[&collection_year=2006,country="Malaysia",genotype="Asian",isolate="-",sequenceID="FN295483"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FN295485'[&collection_year=2008,country="Malaysia",genotype="ECSA",isolate="-",sequenceID="FN295485"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FN295487'[&collection_year=2008,country="Malaysia",genotype="ECSA",isolate="-",sequenceID="FN295487"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GQ428211'[&collection_year=2006,country="India",genotype="ECSA",isolate="RGCB05/KL06",sequenceID="GQ428211"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GQ428215'[&collection_year=2008,country="India",genotype="ECSA",isolate="RGCB356/KL08",sequenceID="GQ428215"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU199352'[&collection_year=2008,country="China",genotype="ECSA",isolate="FD080178",sequenceID="GU199352"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU199353'[&collection_year=2008,country="China",genotype="ECSA",isolate="FD080231",sequenceID="GU199353"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU301780'[&collection_year=2008,country="Thailand",genotype="ECSA",isolate="-",sequenceID="GU301780"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU301781'[&collection_year=2009,country="Thailand",genotype="ECSA",isolate="-",sequenceID="GU301781"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045784'[&collection_year=1984,country="Central",genotype="ECSA",isolate="DakAr B 16878",sequenceID="HM045784"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045785'[&collection_year=1966,country="Senegal",genotype="WestAfr",isolate="PM2951",sequenceID="HM045785"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045786'[&collection_year=1964,country="Nigeria",genotype="WestAfr",isolate="IbH35",sequenceID="HM045786"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045790'[&collection_year=1985,country="Phil",genotype="Asian",isolate="PhH15483",sequenceID="HM045790"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045792'[&collection_year=1956,country="South",genotype="ECSA",isolate="Vereeniging",sequenceID="HM045792"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045811'[&collection_year=1953,country="Tanzania",genotype="ECSA",isolate="Ross low-psg",sequenceID="HM045811"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045813'[&collection_year=1963,country="India",genotype="Asian",isolate="Gibbs 63-263",sequenceID="HM045813"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045815'[&collection_year=1979,country="Senegal",genotype="WestAfr",isolate="ArD 30237",sequenceID="HM045815"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045816'[&collection_year=1966,country="Senegal",genotype="WestAfr",isolate="SH 3013",sequenceID="HM045816"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045817'[&collection_year=2005,country="Senegal",genotype="WestAfr",isolate="HD 180760",sequenceID="HM045817"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045818'[&collection_year=1981,country="Ivory",genotype="WestAfr",isolate="ArA 2657",sequenceID="HM045818"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045819'[&collection_year=1993,country="Senegal",genotype="WestAfr",isolate="ArD 93229",sequenceID="HM045819"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045820'[&collection_year=1993,country="Ivory",genotype="WestAfr",isolate="ArA 30548",sequenceID="HM045820"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045821'[&collection_year=1963,country="Senegal",genotype="ECSA",isolate="A301",sequenceID="HM045821"]
+	'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045822'[&collection_year=1978,country="Central",genotype="ECSA",isolate="HB78",sequenceID="HM045822"]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045815':0.003547,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045785':0.001301,((('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045817':0.008714,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045820':0.004337,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045818':7.91E-4,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045819':0.003653)[&label=98]:3.71E-4)[&label=96]:5.57E-4)[&label=100]:0.003753,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045786':0.002437)[&label=100]:0.002631,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045816':0.002716)[&label=95]:0.001196)[&label=9]:6.49E-4)[&label=100]:0.134491,(((('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FN295483':0.002438,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807897':0.002973)[&label=100]:0.008583,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045790':0.001594)[&label=100]:0.015064,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045813':1.0E-6,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027140':0.001768,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027141':0.004377)[&label=43]:2.5E-4)[&label=52]:0.006057)[&label=100]:0.033508,(('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045792':0.00286,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045821':0.003801,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045811':5.27E-4)[&label=99]:5.69E-4)[&label=100]:0.007501,(('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045784':0.005425,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/HM045822':0.004992)[&label=97]:0.001392,(('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AM258991':3.52E-4,(('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AM258993':2.64E-4,(('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EU564334':1.0E-6,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF012359':1.72E-4)[&label=70]:8.6E-5,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/DQ443544':1.0E-6)[&label=7]:1.0E-6)[&label=59]:8.6E-5,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AM258992':1.0E-6)[&label=43]:8.6E-5)[&label=62]:2.4E-4,(('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807898':9.51E-4,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GQ428215':0.001221)[&label=100]:6.02E-4,((('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ513675':7.86E-4,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445426':9.61E-4)[&label=99]:6.98E-4,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027134':9.55E-4)[&label=74]:1.0E-6,(((('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445510':0.001555,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GQ428211':6.95E-4)[&label=75]:1.0E-6,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EF027138':2.61E-4)[&label=81]:1.0E-6,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807896':3.44E-4)[&label=77]:1.0E-6,(('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/EU244823':0.001043,(('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU301780':0.001036,(('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU199353':2.03E-4,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU199352':3.49E-4)[&label=100]:4.08E-4,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/GU301781':4.3E-4,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445430':1.74E-4,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445443':1.0E-6)[&label=89]:1.0E-6)[&label=90]:1.72E-4)[&label=55]:1.0E-6)[&label=73]:8.5E-5,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ807899':4.3E-4,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FN295487':8.6E-5,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FN295485':1.74E-4)[&label=77]:8.6E-5)[&label=98]:2.59E-4)[&label=100]:7.77E-4)[&label=100]:5.17E-4,('alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/AB455494':6.02E-4,'alignment/AL_UNC_CHIKV_ROOT/member/ncbi-refseqs/FJ445427':2.62E-4)[&label=100]:5.16E-4)[&label=57]:8.5E-5)[&label=81]:1.72E-4)[&label=49]:1.0E-6)[&label=93]:7.08E-4)[&label=100]:0.011275)[&label=100]:0.007107)[&label=78]:0.008339)[&label=100]:0.091305);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="label";
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="User selection";
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="genotype";
+	set tipLabels.displayAttribute="genotype";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=12;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
