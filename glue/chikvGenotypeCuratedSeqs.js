@@ -4,7 +4,7 @@
 var ncbiCurated;
 var whereClause = "source.name = 'ncbi-curated' and genotype = null";
 ncbiCurated = glue.tableToObjects(glue.command(["list", "sequence", "sequenceID", "-w", whereClause]));
-glue.log("INFO", "RESULT WAS ", ncbiCurated);
+//glue.log("INFO", "RESULT WAS ", ncbiCurated);
 
 _.each(ncbiCurated, function(ncbiCurated) {
 
@@ -25,7 +25,7 @@ _.each(ncbiCurated, function(ncbiCurated) {
 
 	var genotypeRows = genotypeResults1.genotypeCommandResult.row;
 	var genotypeRow = genotypeRows[0].value;
-	var genotypeResult = genotypeRow[2]
+	var genotypeResult = genotypeRow[1]
 
 	glue.log("INFO", "Genotype 1 RESULT WAS ", genotypeResult);
 

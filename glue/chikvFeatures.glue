@@ -58,10 +58,10 @@
   feature E2 set metatag INCLUDE_IN_SUMMARY true
   feature E2 set metatag CODES_AMINO_ACIDS true
 
-  create feature 6K -p structural_polyprotein "6K"
-  feature 6K set metatag OWN_CODON_NUMBERING true
-  feature 6K set metatag INCLUDE_IN_SUMMARY true
-  feature 6K set metatag CODES_AMINO_ACIDS true
+  #create feature 6K -p structural_polyprotein "6K"
+  #feature 6K set metatag OWN_CODON_NUMBERING true
+  #feature 6K set metatag INCLUDE_IN_SUMMARY true
+  #feature 6K set metatag CODES_AMINO_ACIDS true
 
   create feature E1 -p structural_polyprotein "Envelope protein E1"
   feature E1 set metatag OWN_CODON_NUMBERING true

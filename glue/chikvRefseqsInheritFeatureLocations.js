@@ -12,3 +12,12 @@ _.each(refSeqObjs, function(refSeqObj) {
 	});
 });
 
+_.each(refSeqObjs, function(refSeqObj) {
+	glue.inMode("reference/"+refSeqObj.name, function() {
+	
+		glue.command(["inherit", "feature-location", 
+			"--recursive", "--spanGaps", 
+			"AL_UNC_CHIKV_ROOT", "--relRefName", "REF_MASTER_CHIKV", "whole_genome"]);		
+	});
+});
+

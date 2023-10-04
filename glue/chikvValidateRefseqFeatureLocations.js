@@ -1,6 +1,6 @@
 var codingFeaturesToCheck = ["non_structural_polyprotein", "structural_polyprotein",
                              "nsP1", "nsP2",  "nsP3", "nsP4",
-                             "capsid", "E1", "E2", "E3", "6K", "capsid" ];
+                             "capsid", "E1", "E2", "E3" ];
 
 var problematicRefs = {};
 
