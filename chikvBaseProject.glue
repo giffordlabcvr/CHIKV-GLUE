@@ -30,7 +30,7 @@ project chikv
   run file glue/chikvUnconstrainedAlignments.glue
 
   # Define alignment tree
-  #run file glue/chikvAlignmentTree.glue
+  run file glue/chikvAlignmentTree.glue
 
   # Define features
   run file glue/chikvFeatures.glue
@@ -39,11 +39,11 @@ project chikv
   run file glue/chikvExplicitFeatureLocations.glue
   
   # inherit feature locations across other references
-  run script glue/chikvRefseqsInheritFeatureLocations.js
-  run script glue/chikvValidateRefseqFeatureLocations.js
+  #run script glue/chikvRefseqsInheritFeatureLocations.js
+  #run script glue/chikvValidateRefseqFeatureLocations.js
 
   # import the reference phylogeny into the alignment tree
-  #run file glue/chikvImportPhylogeny.glue
+  run file glue/chikvImportPhylogeny.glue
   
   # Validate
   validate

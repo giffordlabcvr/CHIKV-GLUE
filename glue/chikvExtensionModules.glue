@@ -1,2 +1,5 @@
 # Extension modules
 
+create module -f modules/chikvMaxLikelihoodPlacer.xml
+create module -f modules/chikvMaxLikelihoodGenotyper.xml
+

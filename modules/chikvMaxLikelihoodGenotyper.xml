@@ -1,0 +1,18 @@
+<maxLikelihoodGenotyper>
+	<maxLikelihoodPlacerModuleName>chikvMaxLikelihoodPlacer</maxLikelihoodPlacerModuleName>
+	<useSingleReference>true</useSingleReference>
+
+	<cladeCategory>
+		<name>genotype</name>	
+		<displayName>Genotype</displayName>	
+		<whereClause>clade_category = 'genotype'</whereClause>
+		<distanceScalingExponent>-4.5</distanceScalingExponent>
+	    <distanceCutoff>0.1</distanceCutoff>
+		<finalCladeCutoff>65.0</finalCladeCutoff>		
+	</cladeCategory>
+
+
+</maxLikelihoodGenotyper>
+
+
+

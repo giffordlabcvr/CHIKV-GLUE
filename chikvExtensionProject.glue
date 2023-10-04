@@ -14,11 +14,8 @@ project chikv
   # Populate refseq + outgroup metadata from GenBank XML
   module chikvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
 
-  # Run script to determine serotypes using BLAST-based recogniser
-  #run script glue/chikvRecogniseCuratedSeqs.js
-
   # Run script to determine serotypes via GLUE's MCLA algorithm
-  #run script glue/chikvGenotypeCuratedSeqs.js
+  run script glue/chikvGenotypeCuratedSeqs.js
 
   # Validate
   validate
