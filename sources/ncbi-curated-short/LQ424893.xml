@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LQ424893</GBSeq_locus>
+    <GBSeq_length>1269</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>06-OCT-2016</GBSeq_update-date>
+    <GBSeq_create-date>06-OCT-2016</GBSeq_create-date>
+    <GBSeq_definition>Sequence 32 from Patent EP3021868</GBSeq_definition>
+    <GBSeq_primary-accession>LQ424893</GBSeq_primary-accession>
+    <GBSeq_accession-version>LQ424893.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|LQ424893.1|</GBSeqid>
+      <GBSeqid>pat|EP|3021868|32</GBSeqid>
+      <GBSeqid>gi|1074164219</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1269</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>DORANZ,B.</GBAuthor>
+          <GBAuthor>SIMMONS,G.</GBAuthor>
+          <GBAuthor>KAHLE,K.</GBAuthor>
+          <GBAuthor>MATTIA,K.</GBAuthor>
+          <GBAuthor>FONG,R.H.</GBAuthor>
+          <GBAuthor>BANIK,B.S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>ANTIBODIES AGAINST CHIKUNGUNYA VIRUS AND USES THEREOF</GBReference_title>
+        <GBReference_journal>EP3021868-A1 32 25-MAY-2016 INTEGRAL MOLECULAR INC [US], BLOOD SYSTEMS RES INST [US]</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1269</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1269</GBInterval_to>
+            <GBInterval_accession>LQ424893.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tccacaaaagataacttcaacgtttacaaagctactcgaccctatttggcccactgcccggattgtggggaaggacactcctgccactctcccgtggccctcgaacgaattaggaacgaggctactgacggaaccctaaagattcaggtatcactccagatcggaatagggacagacgactctcacgattggacaaaactcagatatatggataaccacatccccgccgacgctggcagagccggtcttttcgttcgcacatccgctccctgcacaataacgggtaccatggggcatttcattctggcgcggtgcccgaagggagagacccttacagtgggctttaccgactcccgcaagatttctcatagctgtacccatcccttccatcacgatcctcctgtaatcggccgggagaaattccactcccggccgcaacatggcaaagagctgccctgttctacctatgtacaaagcaacgccgcgactgccgaggaaatagaggtgcacatgccaccagatacccccgatcgaacacttctttctcaacaaagtggcaacgtaaaaatcacagttaacagccagactgtgcggtataagtgcaactgtgggggttccaatgaaggcctcatcacgactgacaaggtgatcaataactgcaaggtcgaccagtgtcacgccgcggtgacgaatcacaaaaagtggcagtataactctccgcttgtgccacgtaacgccgagctgggggatagaaaggggaagatccacatcccctttccactggctaatgtcacgtgcatggtgccgaaggctagaaatcctacagtaacttacggaaagaatcaagtgatcatgttattatatcctgaccatccgactctcctgagttatagatcaatgggcgaagaacctaactaccaagaagagtgggtcacccacaagaaggaggtggttttaacagtgccaaccgaaggtcttgaagtgacctggggcaataacgaaccctacaagtattggccacagctgtccgctaatggcacggcccacggtcacccccacgagatcatactgtactactatgaactataccctactatgaccgtggtggtggtgagcgtggcctccttcattctcctcagcatggtggggatggctgtcggaatgtgcatgtgcgcgcgccggcgatgtattacgccttacgagctgactcccggcgccaccgttccgtttctgctaagcttgatctgttgtatcaggacggccaaggca</GBSeq_sequence>
+  </GBSeq>

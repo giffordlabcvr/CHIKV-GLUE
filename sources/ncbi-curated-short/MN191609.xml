@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MN191609</GBSeq_locus>
+    <GBSeq_length>553</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>10-MAR-2020</GBSeq_update-date>
+    <GBSeq_create-date>10-MAR-2020</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus isolate 15-1802 E1 protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MN191609</GBSeq_primary-accession>
+    <GBSeq_accession-version>MN191609.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MN191609.1|</GBSeqid>
+      <GBSeqid>gi|1818765684</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..553</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pk,H.</GBAuthor>
+          <GBAuthor>Pattabiraman,C.</GBAuthor>
+          <GBAuthor>Rao,D.</GBAuthor>
+          <GBAuthor>Reddy,V.</GBAuthor>
+          <GBAuthor>Mani,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Phylogenetic analysis of Chikungunya based on E1 region during the outbreak of 2015-2016 in Bangalore, India</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..553</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Pk,H.</GBAuthor>
+          <GBAuthor>Pattabiraman,C.</GBAuthor>
+          <GBAuthor>Rao,D.</GBAuthor>
+          <GBAuthor>Reddy,V.</GBAuthor>
+          <GBAuthor>Mani,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (18-JUL-2019) Neurovirology, National Institute of Mental Health and Neurosciences, Hosur Road, Bangalore, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..553</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>553</GBInterval_to>
+            <GBInterval_accession>MN191609.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>15-1802</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>02-Nov-2015</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;553</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>553</GBInterval_to>
+            <GBInterval_accession>MN191609.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>E1 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QIH53672.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>AGRPGQFGDIQSRTPESEDVYANTQLVLQRPAAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAVNCAVGNMPISIDIPEAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAIIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gcgcaggnagaccaggacaatttggcgatatccaaagtcgcacacctgagagtgaagacgtctatgctaatacacaactggtactgcagagaccggctgcgggtacggtacacgtgccatactctcaggcaccatctggctttaagtattggctaaaagaacgcggggcgtcactgcagcacacagcaccatttggctgccaaatagcaacaaacccggtaagagcggtgaactgcgccgtggggaacatgcccatctccatcgacataccggaagcggccttcactagggtcgtcgacgcgccctctttaacggacatgtcgtgcgaggtaccagcctgcacccattcctcagactttgggggcgtcgccattattaaatatgcagccagcaagaaaggcaagtgtgcggtgcattcgatgactaacgccgtcactattcgggaagctgagatagaagttgaagggaattctcagctgcaaatctctttctcgacggccttagccagcgccgaattccgcgtacaagtctgttctacacaggtacactgtgc</GBSeq_sequence>
+  </GBSeq>

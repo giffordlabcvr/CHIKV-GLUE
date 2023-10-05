@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>JA879211</GBSeq_locus>
+    <GBSeq_length>1161</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>07-FEB-2013</GBSeq_update-date>
+    <GBSeq_create-date>07-FEB-2013</GBSeq_create-date>
+    <GBSeq_definition>Sequence 85 from Patent EP2460822</GBSeq_definition>
+    <GBSeq_primary-accession>JA879211</GBSeq_primary-accession>
+    <GBSeq_accession-version>JA879211.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|JA879211.1|</GBSeqid>
+      <GBSeqid>pat|EP|2460822|85</GBSeqid>
+      <GBSeqid>gi|448992754</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1161</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>DESPRES,P.</GBAuthor>
+          <GBAuthor>BREHIN,A.</GBAuthor>
+          <GBAuthor>MARECHAL,V.</GBAuthor>
+          <GBAuthor>CHARNEAU,P.</GBAuthor>
+          <GBAuthor>SOUQUE,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Novel isolated and purified strains of chikungunya virus and polynucleotides and polypeptides sequences, diagnostic and immunogenical uses thereof</GBReference_title>
+        <GBReference_journal>EP2460822-A2 85 06-JUN-2012 PASTEUR INSTITUT [FR]</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1161</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1161</GBInterval_to>
+            <GBInterval_accession>JA879211.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>1..1161</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1161</GBInterval_to>
+            <GBInterval_accession>JA879211.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>Sequence in description</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>13..1155</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>13</GBInterval_from>
+            <GBInterval_to>1155</GBInterval_to>
+            <GBInterval_accession>JA879211.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>unnamed protein product</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>CCQ77662.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MLLSVPLLLGLLGLAVDNFNVYKATRPYLAHCPDCGEGHSCHSPVALERIRNEATDGTLKIQVSLQIGIKTDDSHDWTKLRYMDNHMPADAERAGLFVRTSAPCTITGTMGHFILARCPKGETLTVGFTDSRKISHSCTHPFHHDPPVIGREKFHSRPQHGKELPCSTYVQSTAATTEEIEVHMPPDTPDRTLMSQQSGNVKITVNGQTVRYKCNCGGSNEGLTTTDKVINNCKVDQCHAAVTNHKKWQYNSPLVPRNAELGDRKGKIHIPFPLANVTCRVPKARNPTVTYGKNQVIMLLYPDHPTLLSYRNMGEEPNYQEEWVMHKKEVVLTVPTEGLEVTWGNNEPYKYWPQLSTNGTAHGHPHEIILYYYELYPTMT</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ggatccgccaccatgctgctgagcgtgcccctgctgctgggcctgctgggcctggccgtggacaacttcaacgtgtacaaggctaccagaccctacctggcccactgccccgactgcggcgagggacacagctgccacagccccgtggccctggagagaatccggaacgaggctaccgacggcaccctgaagatccaggtgagcctgcagatcggcatcaagaccgacgacagccacgactggaccaagctgagatacatggacaaccacatgcccgccgacgccgagagagccggcctgttcgtgagaaccagcgccccctgcaccatcaccggcaccatgggccacttcatcctggccagatgccccaagggcgagaccctgaccgtgggcttcaccgacagcagaaagatcagccacagctgcacccaccccttccaccacgaccctcccgtgatcggcagagagaagttccacagcagaccccagcacggcaaggagctgccctgcagcacctacgtgcagagcaccgccgctacaaccgaggagatcgaggtgcacatgccccccgacacccccgacagaaccctgatgagccagcagagcggcaacgtgaagatcaccgtgaacggccagaccgtgagatacaagtgcaactgcggcggcagcaacgagggcctgaccacaaccgacaaggtgatcaacaactgcaaggtggaccagtgccacgccgccgtgaccaaccacaagaagtggcagtacaacagccccctggtgcccagaaacgccgagctgggcgacagaaagggcaagatccacatccccttccccctggccaacgtgacctgcagagtgcccaaggccagaaaccccaccgtgacctacggcaagaaccaggtgatcatgctgctgtaccccgatcaccccaccctgctgagctacagaaacatgggcgaggagcccaactaccaggaggagtgggtgatgcacaagaaggaggtggtgctgaccgtgcccaccgagggcctggaggtgacctggggcaacaacgagccctacaagtactggccccagctgagcaccaacggcaccgcccacggacacccccacgagatcatcctgtactactacgagctgtaccccaccatgacctgactcgag</GBSeq_sequence>
+  </GBSeq>

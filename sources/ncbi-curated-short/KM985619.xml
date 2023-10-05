@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KM985619</GBSeq_locus>
+    <GBSeq_length>1308</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>19-APR-2015</GBSeq_update-date>
+    <GBSeq_create-date>19-APR-2015</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus strain PF14-290914-16 E1 structural glycoprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KM985619</GBSeq_primary-accession>
+    <GBSeq_accession-version>KM985619.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KM985619.1|</GBSeqid>
+      <GBSeqid>gi|807059694</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1308</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Aubry,M.</GBAuthor>
+          <GBAuthor>Teissier,A.</GBAuthor>
+          <GBAuthor>Roche,C.</GBAuthor>
+          <GBAuthor>Richard,V.</GBAuthor>
+          <GBAuthor>Shan Yan,A.</GBAuthor>
+          <GBAuthor>Zisou,K.</GBAuthor>
+          <GBAuthor>Rouault,E.</GBAuthor>
+          <GBAuthor>Maria,V.</GBAuthor>
+          <GBAuthor>Lastere,S.</GBAuthor>
+          <GBAuthor>Cao-Lormeau,V.M.</GBAuthor>
+          <GBAuthor>Musso,D.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Chikungunya outbreak, French polynesia, 2014</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 21 (4), 724-726 (2015)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.3201/eid2104.141741</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25811534</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1308</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Teissier,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (17-OCT-2014) PMIE, Institut Louis Malarde, P.O. Box 30, Papeete, Tahiti 98713, Polynesie Francaise</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1308</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1308</GBInterval_to>
+            <GBInterval_accession>KM985619.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>PF14-290914-16</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>French Polynesia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>29-Sep-2014</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..1150</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1150</GBInterval_to>
+            <GBInterval_accession>KM985619.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>2</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>E1 structural glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AKC42530.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>PYVKCCGTAECKDKSLPDYSCKVFTGVYPFMWGGAYCFCDTENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVAAYANGDHAVTVKDAKFMVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESEDVYANTQLVLQRPSAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAMNCAVGNMPISIDIPDAAFTRVVDAPSLTDMSCEVSACTHSSDFGGVAIIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITGGVGLVVAVAALILIVVLCVSFSRH</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tccgtacgtgaaatgctgcggtacagcagagtgtaaggacaagagcctacctgattacagctgtaaggtcttcaccggcgtctacccattcatgtggggcggcgcctactgcttctgcgacaccgaaaatacgcaattgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcagcatacagggctcataccgcatccgcatcagctaagctccgcgtcctttaccaaggaaataatatcactgtggctgcttatgcaaacggcgaccatgccgtcacagttaaggacgctaaattcatggtggggccaatgtcttcagcctggacacctttcgacaataaaatcgtggtgtacaaaggcgacgtctacaacatggactacccgcccttcggcgcaggaagaccaggacaatttggcgacatccaaagtcgcacgcctgagagcgaagacgtctatgctaatacacaactggtactgcagagaccgtccgcgggtacggtgcacgtgccgtactctcaggcaccatctggcttcaagtattggctaaaagaacgaggggcgtcgctgcagcacacagcaccatttggctgtcaaatagcaacaaacccggtaagagcgatgaactgcgccgtagggaacatgcctatctccatcgacataccggacgcggcctttaccagggtcgtcgacgcgccatctttaacggacatgtcgtgtgaggtatcagcctgcacccattcctcagactttgggggcgtagccatcattaaatatgcagccagtaagaaaggcaagtgtgcagtgcactcgatgactaacgccgtcactattcgggaagctgaaatagaagtagaagggaactctcagttgcaaatctctttttcgacggccctagccagcgccgaatttcgcgtacaagtctgttctacacaagtacactgtgcagccgagtgccatccaccgaaagaccatatagtcaattacccggcgtcacacaccaccctcggggtccaagacatttccgctacggcgatgtcatgggtgcagaagatcacgggaggtgtgggactggttgtcgctgttgcagcactgatcctaatcgtggtgctatgcgtgtcgtttagcaggcactaacttgacaactaggtatgaaggcatacgcgtccctaaagagacacaccgcatatagctagggatcaacagataagtatagatctaagggctgaacaacccctgaataacaaaatataaaaatcaacaaaaatcataaaatagaaaactagaaatagaag</GBSeq_sequence>
+  </GBSeq>

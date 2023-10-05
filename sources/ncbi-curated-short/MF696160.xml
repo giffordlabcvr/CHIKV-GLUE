@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MF696160</GBSeq_locus>
+    <GBSeq_length>1386</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>29-JAN-2018</GBSeq_update-date>
+    <GBSeq_create-date>29-JAN-2018</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus from French Polynesia structural protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MF696160</GBSeq_primary-accession>
+    <GBSeq_accession-version>MF696160.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MF696160.1|</GBSeqid>
+      <GBSeqid>gi|1333946523</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1386</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Tuekprakhon,A.</GBAuthor>
+          <GBAuthor>Nakayama,E.E.</GBAuthor>
+          <GBAuthor>Bartholomeeusen,K.</GBAuthor>
+          <GBAuthor>Puiprom,O.</GBAuthor>
+          <GBAuthor>Sasaki,T.</GBAuthor>
+          <GBAuthor>Huits,R.</GBAuthor>
+          <GBAuthor>Luplertlop,N.</GBAuthor>
+          <GBAuthor>Kosoltanapiwat,N.</GBAuthor>
+          <GBAuthor>Maneekan,P.</GBAuthor>
+          <GBAuthor>Arien,K.K.</GBAuthor>
+          <GBAuthor>Shioda,T.</GBAuthor>
+          <GBAuthor>Leaungwutiwong,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Variation at position 350 in the Chikungunya virus 6K-E1 protein determines the sensitivity of detection in a rapid E1-antigen test</GBReference_title>
+        <GBReference_journal>Sci Rep 8 (1), 1094 (2018)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1038/s41598-018-19174-8</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>29348674</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1386</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Bartholomeeusen,K.</GBAuthor>
+          <GBAuthor>Vereecken,K.</GBAuthor>
+          <GBAuthor>Arien,K.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (22-AUG-2017) Biomedical Sciences, Institute of Tropical Medicine Antwerp, Nationalestraat 155, Antwerp 2000, Belgium</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1386</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1386</GBInterval_to>
+            <GBInterval_accession>MF696160.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>Asian Caribbean</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>French Polynesia</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>13-Dec-2014</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1386</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1386</GBInterval_to>
+            <GBInterval_accession>MF696160.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>includes E1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>structural protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AUS84462.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>RLLPCCCKMLTFLAVLSVGAHTVSAYEHVTVIPNTVGVPYKTLVNRPGYSPMVLEMELLSVTLEPTLSLDYITCEYKTVIPSPYVKCCGTAECKDKSLPDYSCKVFTGVYPFMWGGAYCFCDTENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVAAYANGDHAVTVKDAKFMVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESEDVYANTQLVLQRPSAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAMNCAVGNMPISIDIPDAAFTRVVDAPSLTDMSCEVSACTHSSDFGGVAIIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITGGVGLVVAVAALILIVVLCVSFS</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agactcttaccatgctgttgtaaaatgttgacttttttagccgtactgagcgtcggtgcccacactgtgagcgcgtacgaacacgtaacagtgatcccgaacacggtgggagtaccgtataagactctagtcaacagaccgggctacagccccatggtattggagatggagcttctgtctgtcaccttggaaccaacgctatcgcttgattacatcacgtgcgagtataaaaccgttatcccgtctccgtacgtgaaatgctgcggtacagcagagtgtaaggacaagagcctacctgattacagctgtaaggtcttcaccggcgtctacccattcatgtggggcggcgcctactgcttctgcgacaccgaaaatacgcaattgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcagcatacagggctcataccgcatccgcatcagctaagctccgcgtcctttaccaaggaaataatatcactgtggctgcttatgcaaacggcgaccatgccgtcacagttaaggacgctaaattcatggtggggccaatgtcttcagcctggacacctttcgacaataaaatcgtggtgtacaaaggcgacgtctacaacatggactacccgcccttcggcgcaggaagaccaggacaatttggcgacatccaaagtcgcacgcctgagagcgaagacgtctatgctaatacacaactggtactgcagagaccgtccgcgggtacggtgcacgtgccgtactctcaggcaccatctggcttcaagtattggctaaaagaacgaggggcgtcgctgcagcacacagcaccatttggctgtcaaatagcaacaaacccggtaagagcgatgaactgcgccgtagggaacatgcctatctccatcgacataccggacgcggcctttaccagggtcgtcgacgcgccatctttaacggacatgtcgtgtgaggtatcagcctgcacccattcctcagactttgggggcgtagccatcattaaatatgcagccagtaagaaaggcaagtgtgcagtgcactcgatgactaacgccgtcactattcgggaagctgaaatagaagtagaagggaactctcagttgcaaatctctttttcgacggccctagccagcgccgaatttcgcgtacaagtctgttctacacaagtacactgtgcagccgagtgccatccaccgaaagaccatatagtcaattacccggcgtcacacaccaccctcggggtccaagacatttccgctacggcgatgtcatgggtgcagaagatcacgggaggtgtgggactggttgtcgctgttgcagcactgatcctaatcgtggtgctatgcgtgtcgtttagc</GBSeq_sequence>
+  </GBSeq>

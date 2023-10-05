@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MK045428</GBSeq_locus>
+    <GBSeq_length>871</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>29-MAY-2020</GBSeq_update-date>
+    <GBSeq_create-date>29-MAY-2020</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus isolate BK842 structural protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MK045428</GBSeq_primary-accession>
+    <GBSeq_accession-version>MK045428.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MK045428.1|</GBSeqid>
+      <GBSeqid>gi|1708062646</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..871</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chansaenroj,J.</GBAuthor>
+          <GBAuthor>Wanlapakorn,N.</GBAuthor>
+          <GBAuthor>Ngamsaithong,C.</GBAuthor>
+          <GBAuthor>Thongmee,T.</GBAuthor>
+          <GBAuthor>Na Nakorn,N.</GBAuthor>
+          <GBAuthor>Siriyasatien,P.</GBAuthor>
+          <GBAuthor>Vongpunsawad,S.</GBAuthor>
+          <GBAuthor>Poovorawan,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Genome sequences of chikungunya virus isolates from an outbreak in southwest Bangkok in 2018</GBReference_title>
+        <GBReference_journal>Arch. Virol. 165 (2), 445-450 (2020)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s00705-019-04509-1</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>31834526</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..871</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chansaenroj,J.</GBAuthor>
+          <GBAuthor>Thongmee,T.</GBAuthor>
+          <GBAuthor>Vongpunsawad,S.</GBAuthor>
+          <GBAuthor>Wanlapakorn,N.</GBAuthor>
+          <GBAuthor>Poovorawan,Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (11-OCT-2018) Center of excellence in clinical virology, Faculty of Medicine, Chulalongkorn University, 1873 Pathumwan road, Bangkok 10330, Thailand</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..871</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>871</GBInterval_to>
+            <GBInterval_accession>MK045428.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>BK842</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Thailand</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>29-Aug-2018</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;871</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>871</GBInterval_to>
+            <GBInterval_accession>MK045428.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>contains E2 and E1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>structural protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QDQ17699.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>FCDAENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVTAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESEDVYANTQLVLQRPAAGTVHVPYSQAPSGFKYWLRERGASLQHTAPFGCQIATNPVRAVNCAVGNMPISIDIPEAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAVIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPP</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gcttctgcgacgctgaaaacacgcagttgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcagcatacagggctcataccgcatctgcatcagctaagctccgcgtcctttaccaaggaaataacatcactgtaactgcctatgcaaacggcgaccatgccgtcacagttaaggacgccaaattcattgtggggccaatgtcttcagcttggacaccttttgacaacaaaattgtggtgtacaaaggtgacgtctataacatggactacccgccctttggcgcaggaagaccaggacaatttggcgatatccaaagtcgcacacctgagagcgaagacgtctatgctaatacacaactggtactgcagagaccggctgcgggtacggtacacgtgccatactctcaggcaccatctggctttaagtattggctaagagaacgcggggcgtcactgcagcacacagcaccattcggctgccaaatagcaacaaacccggtaagagcggtgaactgcgccgtagggaacatgcccatctccatcgacataccggaagcggccttcactagggtcgtcgacgcgccctctttaacggacatgtcgtgcgaggtaccagcctgcacccattcctcagactttgggggcgtcgccgttattaaatatgcagccagtaagaaaggcaagtgcgcggtgcattcgatgactaacgccgtcactattcgggaagctgagatagaagttgaagggaattctcagctgcaaatctctttctcgacggccttagccagcgccgaattccgcgtacaagtctgttctacacaagtacactgtgcagctgagtgccaccctccgaa</GBSeq_sequence>
+  </GBSeq>

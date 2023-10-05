@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KC969208</GBSeq_locus>
+    <GBSeq_length>1522</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>03-JUN-2013</GBSeq_update-date>
+    <GBSeq_create-date>03-JUN-2013</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus isolate CHIKPRES07 E1 protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KC969208</GBSeq_primary-accession>
+    <GBSeq_accession-version>KC969208.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KC969208.1|</GBSeqid>
+      <GBSeqid>gi|507721835</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1522</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sangeetha,K.</GBAuthor>
+          <GBAuthor>Indu,P.</GBAuthor>
+          <GBAuthor>Rajarajan,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Complete nucleotide sequence of Chikungunya virus (African) E1 gene</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1522</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sangeetha,K.</GBAuthor>
+          <GBAuthor>Indu,P.</GBAuthor>
+          <GBAuthor>Rajarajan,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (25-APR-2013) PG &amp; Research Department of Microbiology &amp; Biotechnology, Madras University, Kamaraj Salai, Chennai, Tamilnadu 600005, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1522</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1522</GBInterval_to>
+            <GBInterval_accession>KC969208.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>CHIKPRES07</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2007</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>PCR_primers</GBQualifier_name>
+            <GBQualifier_value>fwd_name: e1_fr, fwd_seq: gctgcggtacagcagagtgcaaggac, rev_name: e1_rp, rev_seq: gttagtgcctgctgaacgacacgca</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..1520</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1520</GBInterval_to>
+            <GBInterval_accession>KC969208.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>envelope protein; involved in attachment to the host cell</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>E1 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AGM61334.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>RTGKAATYQEAAVYLWNEQQPLFWLQALIPLAALIVLCNCLRLLPCCCKTLAFLAVMSIGAHTVSAYEHVTVIPNTVGVPYKTLVNRPGYSPMVLEMELLSVTLEPTLSLDYITCEYKTVIPSPYVKCCGTAECKDKNLPDYSCKVFTGVYPFMWGGAYCFCDAENTQLSEAHVEKSESCKTEFASSYRAHTASASAKLRVLYQGNNITVTAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESKDVYANTQLVLQRPAAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAMNCAVGNMPISIDIPDAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAIIKYAVSKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITGGVGLVVAVAALILIVVLCVSFSRH</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>taagaacaggtaaagcggccacataccaagaggctgcggtatacctgtggaacgagcagcaacctttgttttggctacaagcccttattccgctggcagccctgattgtcctatgcaactgtctgagactcttaccatgctgttgtaaaacgttggcttttttagccgtaatgagcatcggtgcccacactgtgagcgcgtacgaacacgtaacagtgatcccgaacacggtgggagtaccgtataagactctagtcaacagaccgggctacagccccatggtactggagatggagctactgtcagtcactttggagccaacgctatcgcttgattacatcacgtgcgaatacaaaaccgtcatcccgtctccgtacgtgaaatgctgcggtacagcagagtgcaaggacaaaaacctacctgactacagctgtaaggtcttcaccggcgtctacccatttatgtggggcggcgcctactgcttctgcgacgctgaaaacacgcaattgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcatcatacagggctcataccgcatccgcatcagctaagctccgcgtcctttaccaaggaaataacatcactgtaactgcctatgcaaacggcgaccatgccgtcacagttaaggacgccaaattcattgtggggccaatgtcttcagcctggacacctttcgacaacaaaatcgtggtgtacaaaggtgacgtttacaacatggactacccgccctttggcgcaggaagaccaggacaatttggcgatatccaaagtcgcacgcctgagagcaaagacgtctatgctaacacacaactggtactgcagagaccggctgcgggtacggtacacgtgccatactctcaggcaccatctggctttaagtattggttaaaagaacgaggggcgtcgctacagcacacagcaccatttggctgccaaatagcaacaaacccggtaagagcgatgaactgcgccgtagggaacatgcccatctccatcgacataccggatgcggccttcactagggtcgtcgacgcgccctctttaacggacatgtcatgcgaggtaccagcctgcacccattcctcagactttgggggcgtcgccattattaaatatgcagtcagcaagaaaggcaagtgtgcggtgcattcgatgaccaacgccgtcactatccgggaagctgagatagaagttgaagggaattctcagctgcaaatctctttctcgacggccttggccagcgccgaattccgcgtacaagtctgttctacacaagtacactgtgcagccgagtgccaccctccgaaggaccacatagtcaactacccggcgtcacataccaccctcggggtccaggacatttccgctacggcgatgtcatgggtgcagaagatcacgggaggtgtgggactggttgtcgctgttgcagcactgattctaatcgtggtgctatgcgtgtcgttcagcaggcactaaca</GBSeq_sequence>
+  </GBSeq>

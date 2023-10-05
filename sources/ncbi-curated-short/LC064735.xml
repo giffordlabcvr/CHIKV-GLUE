@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>LC064735</GBSeq_locus>
+    <GBSeq_length>733</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>14-MAY-2016</GBSeq_update-date>
+    <GBSeq_create-date>14-MAY-2016</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus E1 gene, partial cds, strain: CKV_PHL_2012_CK12-0702</GBSeq_definition>
+    <GBSeq_primary-accession>LC064735</GBSeq_primary-accession>
+    <GBSeq_accession-version>LC064735.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|LC064735.1|</GBSeqid>
+      <GBSeqid>gi|1028223815</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..733</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Sy,A.K.</GBAuthor>
+          <GBAuthor>Saito-Obata,M.</GBAuthor>
+          <GBAuthor>Medado,I.A.</GBAuthor>
+          <GBAuthor>Tohma,K.</GBAuthor>
+          <GBAuthor>Dapat,C.</GBAuthor>
+          <GBAuthor>Segubre-Mercado,E.</GBAuthor>
+          <GBAuthor>Tandoc,A. 3rd</GBAuthor>
+          <GBAuthor>Lupisan,S.</GBAuthor>
+          <GBAuthor>Oshitani,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular Characterization of Chikungunya Virus, Philippines, 2011-2013</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 22 (5), 887-890 (2016)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.3201/eid2205.151268</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>27088593</GBReference_pubmed>
+        <GBReference_remark>DOI:10.3201/eid2205.151268</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..733</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Saito,M.</GBAuthor>
+          <GBAuthor>Oshitani,H.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (03-JUL-2015) Contact:Mariko Saito-Obata Tohoku University Graduate School of Medicine, Virology; 2-1 Seiryo-machi, Aoba-ku, Sendai, Miyagi 850-8575, Japan</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..733</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>733</GBInterval_to>
+            <GBInterval_accession>LC064735.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>CKV_PHL_2012_CK12-0702</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Philippines</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2012</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;733</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>733</GBInterval_to>
+            <GBInterval_accession>LC064735.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>E1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;733</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>733</GBInterval_to>
+            <GBInterval_accession>LC064735.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>E1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>BAV01010.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>YPFMWGGAYCFCDTENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVAAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESEDVYANTQLVLQRPSAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAMNCAVGNMPISIDIPDAAFTRVVDAPSLTDMSCEVSACTHSSDFGGVAIIKYAASKKGKC</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tacccattcatgtggggcggcgcctactgcttctgcgacaccgaaaatacgcaattgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcagcatacagggctcataccgcatccgcatcagctaagctccgcgtcctttaccaaggaaataatatcactgtagctgcttatgcaaacggcgaccatgccgtcacagttaaggacgctaaattcatagtggggccaatgtcttcagcctggacacctttcgacaataaaatcgtggtgtacaaaggcgacgtctacaacatggactacccgcccttcggcgcaggaagaccaggacaatttggcgacatccaaagtcgcacgcctgagagcgaagacgtctatgctaatacacaactggtactgcagagaccgtccgcgggtacggtgcacgtgccgtactctcaggcaccatctggcttcaagtattggctaaaagaacgaggggcgtcgctgcagcacacagcaccatttggctgtcaaatagcaacaaacccggtaagagcgatgaactgcgccgtagggaacatgcctatctccatcgacataccggacgcggcctttaccagggtcgtcgacgcgccatctttaacggacatgtcgtgtgaggtatcagcctgcacccattcctcagactttgggggcgtagccatcattaaatatgcagccagcaagaaaggcaagtgtg</GBSeq_sequence>
+  </GBSeq>

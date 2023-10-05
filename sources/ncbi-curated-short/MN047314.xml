@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MN047314</GBSeq_locus>
+    <GBSeq_length>1319</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>06-JUN-2020</GBSeq_update-date>
+    <GBSeq_create-date>06-JUN-2020</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus strain FUR032019 E1 glycoprotein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>MN047314</GBSeq_primary-accession>
+    <GBSeq_accession-version>MN047314.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MN047314.1|</GBSeqid>
+      <GBSeqid>gi|1847502776</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1319</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Venturi,G.</GBAuthor>
+          <GBAuthor>Aberle,S.W.</GBAuthor>
+          <GBAuthor>Avsic-Zupanc,T.</GBAuthor>
+          <GBAuthor>Barzon,L.</GBAuthor>
+          <GBAuthor>Batejat,C.</GBAuthor>
+          <GBAuthor>Burdino,E.</GBAuthor>
+          <GBAuthor>Carletti,F.</GBAuthor>
+          <GBAuthor>Charrel,R.</GBAuthor>
+          <GBAuthor>Christova,I.</GBAuthor>
+          <GBAuthor>Connell,J.</GBAuthor>
+          <GBAuthor>Corman,V.M.</GBAuthor>
+          <GBAuthor>Emmanouil,M.</GBAuthor>
+          <GBAuthor>Jaaskelainen,A.J.</GBAuthor>
+          <GBAuthor>Kurolt,I.</GBAuthor>
+          <GBAuthor>Lustig,Y.</GBAuthor>
+          <GBAuthor>Martinez,M.J.</GBAuthor>
+          <GBAuthor>Koopmans,M.</GBAuthor>
+          <GBAuthor>Nagy,O.</GBAuthor>
+          <GBAuthor>Nguyen,T.</GBAuthor>
+          <GBAuthor>Papa,A.</GBAuthor>
+          <GBAuthor>Perez-Ruiz,M.</GBAuthor>
+          <GBAuthor>Pfeffer,M.</GBAuthor>
+          <GBAuthor>Protic,J.</GBAuthor>
+          <GBAuthor>Reimerink,J.</GBAuthor>
+          <GBAuthor>Rossini,G.</GBAuthor>
+          <GBAuthor>Sanchez-Seco Farinas,M.P.</GBAuthor>
+          <GBAuthor>Schmidt-Chanasit,J.</GBAuthor>
+          <GBAuthor>Soderholm,S.</GBAuthor>
+          <GBAuthor>Sudre,B.</GBAuthor>
+          <GBAuthor>Van Esbroeck,M.</GBAuthor>
+          <GBAuthor>Reusken,C.B.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_consortium>CHIKV Working Group</GBReference_consortium>
+        <GBReference_title>Specialist laboratory networks as preparedness and response tool - the Emerging Viral Diseases-Expert Laboratory Network and the Chikungunya outbreak, Thailand, 2019</GBReference_title>
+        <GBReference_journal>Euro Surveill. 25 (13), 1900438 (2020)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.2807/1560-7917.ES.2020.25.13.1900438</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>32265004</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1319</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Rossini,G.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (07-JUN-2019) Unit of Clinical Microbiology, Regional Reference Center for Microbiological Emergencies (CRREM), S.Orsola-Malpighi, Hospital, University of Bologna, Via Massarenti, 9, Bologna, Bo 40138, Italy</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1319</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1319</GBInterval_to>
+            <GBInterval_accession>MN047314.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>FUR032019</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>plasma sample from patient returning to Italy from Thailand</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Italy</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2019</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1319</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1319</GBInterval_to>
+            <GBInterval_accession>MN047314.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>E1 glycoprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QKF93449.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>YEHVTVIPNTVGVPYKTLVNRPGYSPMVLEMELLSVTLEPTLSLDYITCEYKTVIPSPYVKCCGTAECKDKNLPDYSCKVFTGVYPFMWGGAYCFCDAENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVTAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESEDVYANTQLVLQRPAAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAVNCAVGNMPISIDIPEAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAVIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITGGVGLVVAVAALILIVVLCVSFSRH</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tacgaacacgtaacagtgatcccgaacacggtgggagtaccgtataagactctagtcaatagacctggctacagccccatggtattggagatggaactactgtcagtcactctggagccaacactatcgcttgattacatcacatgcgagtacaaaaccgtcatcccgtctccgtacgtgaagtgctgcggtacagcagagtgcaaggacaaaaacctacctgactacagctgtaaggtcttcaccggcgtctacccatttatgtggggcggcgcctactgcttctgcgacgctgaaaacacgcagttgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcagcatacagggctcataccgcatctgcatcagctaagctccgcgtcctttaccaaggaaataacatcactgtaactgcctatgcaaacggcgaccatgccgtcacagttaaggacgccaaattcattgtggggccaatgtcttcagcctggacaccttttgacaacaaaattgtggtgtacaaaggtgacgtctataacatggactacccgccctttggcgcaggaagaccaggacaatttggcgatatccaaagtcgcacacctgagagcgaagacgtctatgctaatacacaactggtactgcagagaccggctgcgggtacggtacacgtgccatactctcaggcaccatctggctttaagtattggctaaaagaacgcggggcgtcactgcagcacacagcaccattcggctgccaaatagcaacaaacccggtaagagcggtgaactgcgccgtagggaacatgcccatctccatcgacataccggaagcggccttcactagggtcgtcgacgcgccctctttaacggacatgtcgtgcgaggtaccagcctgcacccattcctcagactttgggggcgtcgccgttattaaatatgcagccagtaagaaaggcaagtgcgcggtgcattcgatgactaacgccgtcactattcgggaagctgagatagaagttgaagggaattctcagctgcaaatctctttctcgacggccttagccagcgctgaattccgcgtacaagtctgttctacacaagtacactgtgcagctgagtgccaccccccgaaggaccacatagtcaactacccggcgtcacataccaccctcggggtccaggacatctccgctacggcgatgtcatgggtgcagaagatcacgggaggtgtgggactggttgttgctgttgccgcactgattctaatcgtggtgctatgcgtgtcgttcagcaggcacta</GBSeq_sequence>
+  </GBSeq>

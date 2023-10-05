@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HZ468377</GBSeq_locus>
+    <GBSeq_length>1092</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>25-MAR-2016</GBSeq_update-date>
+    <GBSeq_create-date>25-MAR-2016</GBSeq_create-date>
+    <GBSeq_definition>JP 2015532090-A/6: RECOMBINANT MEASLES VIRUS EXPRESSING CHIKUNGUNYA VIRUS POLYPEPTIDES AND THEIR APPLICATIONS</GBSeq_definition>
+    <GBSeq_primary-accession>HZ468377</GBSeq_primary-accession>
+    <GBSeq_accession-version>HZ468377.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HZ468377.1|</GBSeqid>
+      <GBSeqid>pat|JP|2015532090|6</GBSeqid>
+      <GBSeqid>gi|1011082734</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>JP 2015532090-A/6</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1092</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Habel,A.</GBAuthor>
+          <GBAuthor>Tangy,F.</GBAuthor>
+          <GBAuthor>Brandler,S.</GBAuthor>
+          <GBAuthor>Despres,P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>RECOMBINANT MEASLES VIRUS EXPRESSING CHIKUNGUNYA VIRUS POLYPEPTIDES AND THEIR APPLICATIONS</GBReference_title>
+        <GBReference_journal>JP2015532090-A 6 09-NOV-2015 INSTITUT PASTEUR,THEMIS BIOSCIENCE GMBH, CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Chikungunya virus~PN JP 2015532090-A/6~PD 09-NOV-2015~PF 26-SEP-2013 JP 2015533592~PR 27-SEP-2012 EP 12306176.4~PA INSTITUT PASTEUR,THEMIS BIOSCIENCE GMBH,~PA CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE~PI andre habel,frederic tangy,samantha brandler,philippe despres~PT 'RECOMBINANT MEASLES VIRUS EXPRESSING CHIKUNGUNYA VIRUS~PT POLYPEPTIDES AND~PT THEIR APPLICATIONS'~PS N10~CC This description about &lt;220&gt; can't be interpreted~CC &lt;220&gt;~CC &lt;221&gt; misc_feature~CC &lt;223&gt; ectodomain glycoprotein E2 strain 05.115~FH Key Location/Qualifiers~FT CDS (1)..(1092).</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1092</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1092</GBInterval_to>
+            <GBInterval_accession>HZ468377.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>gacaacttcaatgtctataaagccacaagaccatacttagctcactgtcccgactgtggagaagggcactcgtgccatagtcccgtagcactagaacgcatcagaaatgaagcgacagacgggacgctgaaaatccaggtctccttgcaaatcggaataaagacggatgacagccacgattggaccaagctgcgttatatggacaaccacatgccagcagacgcagagagggcggggctatttgtaagaacatcagcaccgtgtacgattactggaacaatgggacacttcatcctggcccgatgtccaaaaggggaaactctgacggtgggattcactgacagtaggaagattagtcactcatgtacgcacccatttcaccacgaccctcctgtgataggtcgggaaaaattccattcccgaccgcagcacggtaaagagataccttgcagcacgtacgtgcagagcaccgccgcaactaccgaggagatagaggtacacatgcccccagacacccctgatcgcacattaatgtcacaacagtccggcaacgtaaagatcacagtcaatggccagacggtgcggtacaagtgtaattgcggtggctcaaatgaaggactaacaactacagacaaagtgattaataactgcaaggttgatcaatgtcatgccgcggtcaccaatcacaaaaagtggcagtataactcccctctggtcccgcgtaatgctgaacttggggaccgaaaaggaaaaattcacatcccgtttccgctggcaaatgtaacatgcagggtgcctaaagcaaggaaccccaccgtgacgtacgggaaaaaccaagtcatcatgctactgtatcctgaccacccaacactcctgtcctaccggaatatgggagaagaaccaaactatcaagaagagtgggtgatgcataagaaggaagtcgtgctaaccgtgccgactgaagggctcgaggtcacgtggggcaacaacgagccgtataagtattggccgcagttatctacaaacggtacagcccatggccacccgcatgagataattctgtattattatgagctgtaccccactatgact</GBSeq_sequence>
+  </GBSeq>

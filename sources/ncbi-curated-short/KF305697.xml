@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KF305697</GBSeq_locus>
+    <GBSeq_length>612</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>01-MAR-2016</GBSeq_update-date>
+    <GBSeq_create-date>01-JUL-2014</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus strain DL50/chikv/11 E1 protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KF305697</GBSeq_primary-accession>
+    <GBSeq_accession-version>KF305697.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KF305697.1|</GBSeqid>
+      <GBSeqid>gi|648937199</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..612</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Afreen,N.</GBAuthor>
+          <GBAuthor>Deeba,F.</GBAuthor>
+          <GBAuthor>Khan,W.H.</GBAuthor>
+          <GBAuthor>Haider,S.H.</GBAuthor>
+          <GBAuthor>Kazim,S.N.</GBAuthor>
+          <GBAuthor>Ishrat,R.</GBAuthor>
+          <GBAuthor>Naqvi,I.H.</GBAuthor>
+          <GBAuthor>Shareef,M.Y.</GBAuthor>
+          <GBAuthor>Broor,S.</GBAuthor>
+          <GBAuthor>Ahmed,A.</GBAuthor>
+          <GBAuthor>Parveen,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular characterization of dengue and chikungunya virus strains circulating in New Delhi, India</GBReference_title>
+        <GBReference_journal>Microbiol. Immunol. 58 (12), 688-696 (2014)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1111/1348-0421.12209</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>25346397</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..612</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Mostafa,M.</GBAuthor>
+          <GBAuthor>Siadat,S.D.</GBAuthor>
+          <GBAuthor>Shahcheraghi,F.</GBAuthor>
+          <GBAuthor>Vaziri,F.</GBAuthor>
+          <GBAuthor>Japoni-Nejad,A.</GBAuthor>
+          <GBAuthor>Vand Yousefi,J.</GBAuthor>
+          <GBAuthor>Rajaei,B.</GBAuthor>
+          <GBAuthor>Harifi Mood,E.</GBAuthor>
+          <GBAuthor>Ebrahim Zadeh,N.</GBAuthor>
+          <GBAuthor>Moshiri,A.</GBAuthor>
+          <GBAuthor>Seyed Siamdoust,S.A.</GBAuthor>
+          <GBAuthor>Rahbar,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Variability in gene cassette patterns of class 1 and 2 integrons associated with multi drug resistance patterns in Staphylococcus aureus clinical isolates in Tehran-Iran</GBReference_title>
+        <GBReference_journal>BMC Microbiol. 15, 152 (2015)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1186/s12866-015-0488-3</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>26228695</GBReference_pubmed>
+        <GBReference_remark>Publication Status: Online-Only</GBReference_remark>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..612</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Deeba,F.</GBAuthor>
+          <GBAuthor>Afreen,N.</GBAuthor>
+          <GBAuthor>Haider,M.S.H.</GBAuthor>
+          <GBAuthor>Hasan,W.</GBAuthor>
+          <GBAuthor>Kazim,S.N.</GBAuthor>
+          <GBAuthor>Ishrat,R.</GBAuthor>
+          <GBAuthor>Naqvi,I.H.</GBAuthor>
+          <GBAuthor>Shareef,M.Y.</GBAuthor>
+          <GBAuthor>Farheen,S.</GBAuthor>
+          <GBAuthor>Broor,S.</GBAuthor>
+          <GBAuthor>Parveen,S.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (25-JUN-2013) Centre for Interdisciplinary Research in Basic Sciences, Jamia Millia Islamia, Sri Nivasa Ramanujan Block, New Delhi, Delhi 110025, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..612</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>612</GBInterval_to>
+            <GBInterval_accession>KF305697.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>DL50/chikv/11</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2011</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;612</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>612</GBInterval_to>
+            <GBInterval_accession>KF305697.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>E1 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AIC37527.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>RTPESEDVYANTQLVLQRPAAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAVNCAVGNMPISIDIPEAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAIIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSW</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>cgcacacctgagagtgaagacgtctatgctaatacacaactggtactgcagagaccggctgcgggtacggtacacgtgccatactctcaggcaccatctggctttaagtattggctaaaagaacgcggggcgtcactgcagcacacagcaccatttggctgccaaatagcaacaaacccggtaagagcggtgaactgcgccgtagggaacatgcccatctccatcgacataccggaagcggccttcactagggtcgtcgacgcgccctctttaacggacatgtcgtgcgaggtaccagcctgcacccattcctcagactttgggggcgttgccattattaaatatgcagccagcaagaaaggcaagtgtgcggtgcattcgatgactaacgccgtcactattcgggaagctgagatagaagttgaaggaaattctcagctgcaaatctctttctcgacggccttagccagcgccgaattccgcgtacaagtctgttctacacaagtacactgtgcagctgagtgccaccccccgaaggaccacatagtcaactacccggcgtcacataccaccctcggggtccaggacatctccgctacggcgatgtcgtgg</GBSeq_sequence>
+  </GBSeq>

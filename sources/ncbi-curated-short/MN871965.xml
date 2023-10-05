@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>MN871965</GBSeq_locus>
+    <GBSeq_length>3747</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>04-AUG-2020</GBSeq_update-date>
+    <GBSeq_create-date>04-AUG-2020</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus strain CHIK/Myanmar/1907dTw/2019 structural polyprotein gene, complete cds</GBSeq_definition>
+    <GBSeq_primary-accession>MN871965</GBSeq_primary-accession>
+    <GBSeq_accession-version>MN871965.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|MN871965.1|</GBSeqid>
+      <GBSeqid>gi|1883396733</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3747</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,M.-Y.</GBAuthor>
+          <GBAuthor>Huang,A.S.-E.</GBAuthor>
+          <GBAuthor>Yang,C.-F.</GBAuthor>
+          <GBAuthor>Hsu,T.-C.</GBAuthor>
+          <GBAuthor>Wang,T.-C.</GBAuthor>
+          <GBAuthor>Su,C.-L.</GBAuthor>
+          <GBAuthor>Chang,M.-C.</GBAuthor>
+          <GBAuthor>Peng,S.-H.</GBAuthor>
+          <GBAuthor>Shu,P.-Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Chikungunya infection: first autochthonous cases in Taiwan</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..3747</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Chen,M.-Y.</GBAuthor>
+          <GBAuthor>Huang,A.S.-E.</GBAuthor>
+          <GBAuthor>Yang,C.-F.</GBAuthor>
+          <GBAuthor>Hsu,T.-C.</GBAuthor>
+          <GBAuthor>Wang,T.-C.</GBAuthor>
+          <GBAuthor>Su,C.-L.</GBAuthor>
+          <GBAuthor>Chang,M.-C.</GBAuthor>
+          <GBAuthor>Peng,S.-H.</GBAuthor>
+          <GBAuthor>Shu,P.-Y.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (23-DEC-2019) Center for Diagnostics and Vaccine Development, Taiwan Centers for Disease Control, 161, Kunyang Street, Taipei 11561, Republic of China</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3747</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3747</GBInterval_to>
+            <GBInterval_accession>MN871965.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>CHIK/Myanmar/1907dTw/2019</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>1907dTw</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum sample</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Myanmar</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2019</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>genotype: ECSA</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>1..3747</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3747</GBInterval_to>
+            <GBInterval_accession>MN871965.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>contains C, E3, E2, 6K, E1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>structural polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>QMS45385.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>MEFIPTQTFYNRRYQPRPWTPRSTIQIIRPRPRPQRQAGQLAQLISAVNKLTMRAVPQQKPRRNRKNKKQKQRQQAPQNNTNQKKQPPKKKPAQKKKKPGRRERMCMKIENDCIFEVKHEGKVTGYACLVGDKVMKPAHVKGTIDNADLAKLAFKRSSKYDLECAQIPVHMKSDASKFTHEKPEGYYNWHHGAVQYSGGRFTIPTGAGKPGDSGRPIFDNKGRVVAIVLGGANEGARTALSVVTWNKDIVTKITPEGAEEWSLAIPVMCLLANTTFPCSQPPCTPCCYEKEPEETLRMLEDNVMRPGYYQLLQASLTCSPHRQRRSTKDNFNVYKATRPYLAHCPDCGEGHSCHSPVALERIRNEATDGTLKIQVSLQIGIKTDDSHDWTKLRYMDNHMPADAERAGLFVRTSAPCTITGTMGHFILARCPKGETLTVGFTDSRKISHSCTHPFHHDPPVIGREKFHSRPQHGKELPCSTYVQSTAATTEEIEVHMPPDTPDRTLMSQQSGNVKITVNGQTVRYKCNCGSSNEGLTTTDKVINNCKVDQCHAAVTNHKKWQYNSPLVPRNAELGDRKGKIHIPFPLANATCRVPKARNPTVTYGKNQVIMLLYPDHPTLLSYRNMGEEPNYQEEWVMHKKEVVLTVPTEGLEVTWGNNEPYKYWPQLSTNGTAHGHPHEIILYYYELYPTMTVVVVSVATFILLSMVGMAAGMCMCARRRCITPYELTPGATVPFLLSLICCIRTAKAATYQEAAIYLWNEQQPLFWLQALIPLAALIVLCNCLRLLPCCCKTLAFLAVMSVGAHTVSAYEHVTVIPNTVGVPYKTLVNRPGYSPMVLEMELLSVTLEPTLSLDYITCEYKTVIPSPYVKCCGTAECKDKNLPDYSCKVFTGVYPFMWGGAYCFCDAENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVTAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESEDVYANTQLVLQRPAAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAVNCAVGNMPISIDIPEAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAVIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITGGVGLVVAVAALILIVVLCVSFSRH</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggagttcatcccaacccaaaccttttacaataggaggtaccagcctcgaccctggactccgcgctctactatccaaatcattaggcccagaccgcgccctcagaggcaagctgggcaacttgcccagctgatctcagcagttaataaactgacaatgcgcgcggtaccccaacagaagccacgcaggaatcggaagaataagaagcaaaagcaaagacaacaggcgccacaaaacaacacaaatcaaaagaagcagccacctaaaaagaaaccggctcaaaagaaaaagaagccgggccgcagagagaggatgtgcatgaaaatcgaaaatgattgtattttcgaagtcaagcacgaaggtaaggtaacaggttacgcgtgcctggtgggggacaaagtaatgaaaccagcacacgtaaaggggaccatcgataacgcggacctggccaaactggcctttaagcggtcttctaagtatgacctagaatgcgcgcagatacccgtgcacatgaagtccgacgcttcgaagttcacccatgagaaaccggaggggtactacaactggcaccacggagcagtacagtactcaggaggccggttcaccatccctacaggtgctggcaaaccaggggacagcggcagaccgatcttcgacaacaagggacgcgtggtggccatagtcttaggaggagctaatgaaggagcccgtacagccctctcggtggtgacctggaataaagacattgtcactaaaatcacccccgagggggccgaagagtggagtcttgccatcccagttatgtgcctgctggcaaacaccacgttcccctgctcccagcccccttgcacgccctgctgctacgaaaaggaaccggaggaaaccctacgcatgcttgaggacaacgtcatgagacctgggtactatcagctgctacaggcatccttaacatgttctccccaccgccagcgacgcagcaccaaggacaatttcaatgtctataaagccacaagaccatacttagctcactgtcccgactgtggagaagggcactcgtgccatagtcccgtagcactagaacgcatcagaaatgaagcgacagacgggacgctgaaaatccaggtctccttgcaaatcggaataaagacggatgacagccacgattggaccaaactgcgttatatggacaaccacatgccagcagacgcagagagggcggggctatttgtaagaacatcagcaccgtgtacgattactggaacaatgggacacttcatcctggcccgatgtccaaaaggggaaactctgacggtgggattcactgacagtaggaagattagtcattcatgtacgcacccatttcaccacgaccctcctgtgataggtcgggaaaaattccattcccgaccgcagcatggtaaagagctaccttgcagcacgtacgtgcagagcaccgccgcaactaccgaagagatagaggtacacatgcccccagacacccctgatcgcacattaatgtcacaacagtccggcaacgtaaagatcacagtcaatggccagacggtgcggtacaagtgtaattgcggtagctcaaatgaaggactgacaactacagacaaagtgattaataactgcaaggttgatcaatgtcatgccgcggtcaccaatcataaaaagtggcagtataactcccctctggtcccgcgtaatgctgaacttggggaccgaaaaggaaaaattcacatcccgtttccgctggcaaatgcaacatgcagggtgcctaaagcaaggaaccccaccgtgacgtacggaaaaaaccaagtcatcatgctactgtaccctgaccacccaacactcctgtcctaccggaatatgggagaagaaccaaactatcaagaagagtgggtgatgcataagaaggaagtcgtgctaaccgtgccgaccgaagggctcgaggtcacgtggggcaacaacgagccgtataagtattggccgcagctatctacaaacggtacagcccatggccacccgcatgagataattctgtattattatgagctgtaccctacaatgactgtagtagttgtgtcagtagccacgttcatactcctgtcgatggtgggtatggcagcggggatgtgcatgtgtgcacgacgcagatgcatcacaccgtatgaactgacaccaggagctaccgtccctttcctgcttagcctaatatgctgcattagaacagctaaagcggccacataccaagaggctgcgatatacctgtggaacgagcagcaacctttgttttggctacaagcccttattccgctggcagccctgattgttctatgcaactgtctgagactcttaccatgctgctgtaaaacgttggcttttttagccgtaatgagcgtcggtgcccacactgtgagcgcgtacgaacacgtaacagtgatcccgaacacggtgggagtaccgtataagactctagtcaatagacctggctacagccccatggtattggagatggaactactgtcagtcactctggagccaacactatcgcttgattacatcacatgcgagtacaaaaccgtcatcccgtctccgtacgtgaagtgctgcggtacagcagagtgcaaggacaaaaacctacctgactacagctgtaaggtcttcaccggcgtctacccatttatgtggggcggcgcctactgcttctgcgacgctgaaaacacgcagttgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaattcgcatcagcatacagggctcataccgcatctgcatcagctaagctccgcgtcctttaccaaggaaataacatcactgtaactgcctatgcaaacggcgaccatgccgtcacagttaaggacgccaaattcattgtggggccaatgtcttcagcctggacaccttttgacaacaaaattgtggtgtacaaaggtgacgtctataacatggactacccgccctttggcgcaggaagaccaggacaatttggcgatatccaaagtcgcacacctgagagcgaagacgtctatgctaatacacaactggtactgcagagaccggctgcgggtacggtacacgtgccatactctcaggcaccatctggctttaagtattggctaaaagaacgcggggcgtcactgcagcacacagcaccattcggctgccaaatagcaacaaacccggtaagagcggtgaactgcgccgtagggaacatgcccatctccatcgacataccggaagcggccttcactagggtcgtcgacgcgccctctttaacggacatgtcgtgcgaggtaccagcctgcacccattcctcagactttgggggcgtcgccgttattaaatatgcagccagtaagaaaggcaagtgcgcggtgcattcgatgactaacgccgtcactattcgggaagctgagatagaagttgaagggaattctcagctgcaaatctctttctcgacggccttagccagcgccgaattccgcgtacaagtctgttctacacaagtacactgtgcagctgagtgccaccccccgaaggaccacatagtcaactacccggcgtcacataccaccctcggggtccaggacatctccgctacggcgatgtcatgggtgcagaagatcacgggaggtgtgggactggttgttgctgttgccgcactgattctaatcgtggtgctatgcgtgtcgttcagcaggcactaa</GBSeq_sequence>
+  </GBSeq>

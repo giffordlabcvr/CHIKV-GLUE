@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HB338845</GBSeq_locus>
+    <GBSeq_length>2394</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>09-JUN-2009</GBSeq_update-date>
+    <GBSeq_create-date>09-JUN-2009</GBSeq_create-date>
+    <GBSeq_definition>Sequence 1 from Patent EP2065476</GBSeq_definition>
+    <GBSeq_primary-accession>HB338845</GBSeq_primary-accession>
+    <GBSeq_accession-version>HB338845.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>emb|HB338845.1|</GBSeqid>
+      <GBSeqid>pat|EP|2065476|1</GBSeqid>
+      <GBSeqid>gi|239703910</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2394</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Vidalain,P.O.</GBAuthor>
+          <GBAuthor>Tangy,F.</GBAuthor>
+          <GBAuthor>Jacob,Y.</GBAuthor>
+          <GBAuthor>Lucas-Hourani,M.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>A mammalian cell-based screening assay to identify inhibitors of alphaviruses</GBReference_title>
+        <GBReference_journal>EP2065476-A1 1 03-JUN-2009 INSTITUT PASTEUR (FR); Centre National de la Recherche Scientifique (FR)</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2394</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2394</GBInterval_to>
+            <GBInterval_accession>HB338845.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ggaataatagagactccgagaggagctatcaaagttactgcccaaccaacagaccacgtcgtgggagagtacctggtactctccccgcagaccgtactacgtagccagaagctcagtctgattcacgctttggcggagcaagtgaagacgtgcacgcacaacggacgagcagggaggtatgcggtcgaagcgtacgacggccgagtcctagtgccctcaggctatgcaatctcgcctgaagacttccagagtctaagcgaaagcgcaacgatggtgtataacgaaagagagttcgtaaacagaaagctacaccatattgcgatgcacggaccagccctgaacaccgacgaagagtcgtatgagctggtgagggcagagaggacagaacacgagtacgtctacgacgtggatcagagaagatgctgtaagaaggaagaagccgcaggactggtactggtgggcgacttgactaatccgccctaccacgaattcgcatatgaagggctaaaaatccgccctgcctgcccatacaaaattgcagtcataggagtcttcggagtaccgggatctggcaagtcagctattatcaagaacctagttaccaggcaggacctggtgactagcggaaagaaagaaaactgccaagaaatcaccaccgacgtgatgagacagagaggtctagagatatctgcacgtacggttgactcgctgctcttgaatggatgcaacagaccagtcgacgtgttgtacgtagacgaggcgtttgcgtgccactctggaacgctacttgctttgatcgccttggtgagaccaaggcagaaagttgtactttgtggtgacccgaagcagtgcggcttcttcaatatgatgcagatgaaagtcaactataatcacaacatctgcacccaagtgtaccacaaaagtatctccaggcggtgtacactgcctgtgaccgccattgtgtcatcgttgcattacgaaggcaaaatgcgcactacgaatgagtacaacaagccgattgtagtggacactacaggctcaacaaaacctgaccctggagacctcgtgttaacgtgcttcagagggtgggttaaacaactgcaaattgactatcgtggatacgaggtcatgacagcagccgcatcccaagggttaaccagaaaaggagtttacgcagttagacaaaaagttaatgaaaacccgctctatgcatcaacgtcagagcacgtcaacgtactcctaacgcgtacggaaggtaaactggtatggaagacactttccggcgacccgtggataaagacgctgcagaacccaccgaaaggaaacttcaaagcaactattaaggagtgggaggtggagcatgcatcaataatggcgggcatctgcagtcaccaaatgaccttcgatacattccaaaataaagccaacgtttgttgggctaagagcttggtccctatcctcgaaacagcggggataaaactaaatgataggcagtggtctcagataattcaagccttcaaagaagacaaagcatactcacctgaagtagccctgaatgaaatatgtacgcgcatgtatggggtggatctagacagcgggctattttctaaaccgttggtgtctgtgtattacgcggataaccactgggataataggcctggagggaaaatgttcggatttaaccccgaggcagcatccattctagaaagaaagtatccattcacaaaagggaagtggaacatcaacaagcagatctgcgtgactaccaggaggatagaagactttaaccctaccaccaacatcataccggccaacaggagactaccacactcattagtggccgaacaccgcccagtaaaaggggaaagaatggaatggctggttaacaagataaacggccaccacgtgctcctggtcagtggctataaccttgcactgcctactaagagagtcacttgggtagcgccgttaggtgtccgcggagcggactacacatacaacctagagttgggtctgccagcaacgcttggtaggtatgacctagtggtcataaacatccacacaccttttcgcatacaccattaccaacagtgcgtcgaccacgcaatgaaactgcaaatgctcgggggtgactcattgagactgctcaaaccgggcggctctctattgatcagagcatatggttacgcagatagaaccagtgaacgagtcatctgcgtattgggacgcaagtttagatcgtctagagcgttgaaaccaccatgtgtcaccagcaacactgagatgtttttcctattcagcaactttgacaatggcagaaggaatttcacaactcatgtcatgaacaatcaactgaatgcagccttcgtaggacaggtcacccgagcaggatgt</GBSeq_sequence>
+  </GBSeq>

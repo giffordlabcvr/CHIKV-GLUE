@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KP276677</GBSeq_locus>
+    <GBSeq_length>1320</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>19-MAR-2016</GBSeq_update-date>
+    <GBSeq_create-date>19-MAR-2016</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus strain CHIK/Philippines/AFPSV13-0084 E1 envelope protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KP276677</GBSeq_primary-accession>
+    <GBSeq_accession-version>KP276677.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KP276677.1|</GBSeqid>
+      <GBSeqid>gi|770144993</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1320</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Velasco,J.M.</GBAuthor>
+          <GBAuthor>Valderama,M.T.</GBAuthor>
+          <GBAuthor>Lopez,M.N.</GBAuthor>
+          <GBAuthor>Chua,D.</GBAuthor>
+          <GBAuthor>Develos,M.</GBAuthor>
+          <GBAuthor>Latog,R.</GBAuthor>
+          <GBAuthor>Roque,V.</GBAuthor>
+          <GBAuthor>Corpuz,J.</GBAuthor>
+          <GBAuthor>Tandoc,A.</GBAuthor>
+          <GBAuthor>Klungthong,C.</GBAuthor>
+          <GBAuthor>Rodpradit,P.</GBAuthor>
+          <GBAuthor>Hussem,K.</GBAuthor>
+          <GBAuthor>Poolpanichupatam,Y.</GBAuthor>
+          <GBAuthor>Macareo,L.</GBAuthor>
+          <GBAuthor>Fernandez,S.</GBAuthor>
+          <GBAuthor>Yoon,I.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Co-circulating chikungunya and dengue infections among patients seen at a tertiary hospital in Manila, Philippines</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1320</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Velasco,J.M.</GBAuthor>
+          <GBAuthor>Valderama,M.T.</GBAuthor>
+          <GBAuthor>Lopez,M.N.</GBAuthor>
+          <GBAuthor>Chua,D.</GBAuthor>
+          <GBAuthor>Develos,M.</GBAuthor>
+          <GBAuthor>Latog,R.</GBAuthor>
+          <GBAuthor>Roque,V.</GBAuthor>
+          <GBAuthor>Corpuz,J.</GBAuthor>
+          <GBAuthor>Tandoc,A.</GBAuthor>
+          <GBAuthor>Klungthong,C.</GBAuthor>
+          <GBAuthor>Rodpradit,P.</GBAuthor>
+          <GBAuthor>Hussem,K.</GBAuthor>
+          <GBAuthor>Poolpanichupatam,Y.</GBAuthor>
+          <GBAuthor>Macareo,L.</GBAuthor>
+          <GBAuthor>Fernandez,S.</GBAuthor>
+          <GBAuthor>Yoon,I.K.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (16-DEC-2014) Virology, U.S. Army Medical Component Armed Force Research Institute of Medical Sciences (USAMC-AFRIMS), 315/6 Rajvithi Road, Bangkok 10400, Thailand</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1320</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1320</GBInterval_to>
+            <GBInterval_accession>KP276677.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>CHIK/Philippines/AFPSV13-0084</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Philippines</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2013</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..1320</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1320</GBInterval_to>
+            <GBInterval_accession>KP276677.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>E1 envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AJW67352.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>YEHVTVIPNTVGVPYKTLVNRPGYSPMVLEMELLSVTLEPTLSLDYITCEYKTVIPSPYVKCCGTAECKDKSLPDYSCKVFTGVYPFMWGGAYCFCDTENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVAAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESEDVYANTQLVLQRPSAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAMNCAVGNMPISIDIPDAAFTRVVDAPSLTDMSCEVSACTHSSDFGGVAIIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEIRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITGGVGLVVAVAALILIVVLCVSFSRH</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tacgaacacgtaacagtgatcccgaacacggtgggagtaccgtataagactctagtcaacagaccgggctacagccccatggtattggagatggagcttctgtctgtcaccttggaaccaacgctatcgcttgattacatcacgtgcgagtataaaaccgttatcccgtctccgtacgtgaaatgctgcggtacagcagagtgtaaggacaagagcctacctgattacagctgtaaggtcttcaccggcgtctacccattcatgtggggcggcgcctactgcttctgcgacaccgaaaatacgcaattgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcagcatacagggctcataccgcatccgcatcagctaagctccgcgtcctttaccaaggaaataatatcactgtagctgcttatgcaaacggcgaccatgccgtcacagttaaggacgctaaattcatagtggggccaatgtcttcagcctggacacctttcgacaataaaatcgtggtgtacaaaggcgacgtctacaacatggactacccgcccttcggcgcaggaagaccaggacaatttggcgacatccaaagtcgcacgcctgagagcgaagacgtctatgctaatacacaactggtactgcagagaccgtccgcgggtacggtgcacgtgccgtactctcaggcaccatctggcttcaagtattggctaaaagaacgaggggcgtcgctgcagcacacagcaccatttggctgtcaaatagcaacaaacccggtaagagcgatgaactgcgccgtagggaacatgcctatctccatcgacataccggacgcggcctttactagggtcgtcgacgcgccatctttaacggacatgtcgtgtgaggtatcagcctgcacccattcctcagactttgggggcgtagccatcattaaatatgcagccagtaagaaaggcaagtgtgcagtgcactcgatgactaacgccgtcactattcgggaagctgaaatagaagtagaagggaactctcagttgcaaatctctttttcgacggccctagccagcgccgaaatccgcgtacaagtctgttctacacaagtacactgtgcagccgagtgccatccaccgaaagaccatatagtcaactacccggcgtcacacaccaccctcggggtccaagacatttccgctacggcgatgtcatgggtgcagaagatcacgggaggtgtgggactggttgtcgctgttgcagcactgatcctaatcgtggtgctatgcgtgtcgtttagcaggcactaa</GBSeq_sequence>
+  </GBSeq>

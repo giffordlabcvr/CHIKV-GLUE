@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>KJ508819</GBSeq_locus>
+    <GBSeq_length>921</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>12-JAN-2016</GBSeq_update-date>
+    <GBSeq_create-date>12-JAN-2016</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus isolate 13V-2798_CHIK E1 protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>KJ508819</GBSeq_primary-accession>
+    <GBSeq_accession-version>KJ508819.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|KJ508819.1|</GBSeqid>
+      <GBSeqid>gi|746645264</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..921</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Demanou,M.</GBAuthor>
+          <GBAuthor>Sadeuh-Mba,S.A.</GBAuthor>
+          <GBAuthor>Vanhecke,C.</GBAuthor>
+          <GBAuthor>Ndikweti,R.</GBAuthor>
+          <GBAuthor>Kouna Tsala,I.</GBAuthor>
+          <GBAuthor>Inais Nsizoa,M.</GBAuthor>
+          <GBAuthor>Njouom,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular characterization of chikungunya virus from three regions of Cameroon</GBReference_title>
+        <GBReference_journal>Virol Sin 30 (6), 470-473 (2015)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1007/s12250-015-3663-7</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>26715303</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..921</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Demanou,M.</GBAuthor>
+          <GBAuthor>Sadeuh-Mba,S.</GBAuthor>
+          <GBAuthor>Njouom,R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (27-FEB-2014) Virology, Centre Pasteur du Cameroun, Rue Dunant, Yaounde, Centre B.P. 1274, Cameroon</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>##Assembly-Data-START## ; Assembly Method :: CLC Main Workbench v. 5.7.1 ; Sequencing Technology :: Sanger dideoxy sequencing ; ##Assembly-Data-END##</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..921</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>921</GBInterval_to>
+            <GBInterval_accession>KJ508819.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>13V-2798_CHIK</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Cameroon</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>20-May-2013</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;921</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>921</GBInterval_to>
+            <GBInterval_accession>KJ508819.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>structural protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>E1 protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AJD77622.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>DKNLPDYSCKVFTGVYPFMWGGAYCFCDAENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVTAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESKDVYANTQLVLQRPAVGTVHVPYSQAPSGFKYWLKERGAPLQHTAPFGCQIATNPVRAVNCAVGNMPISIDIPDAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAIIKYAASRKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVH</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>aggacaaaaatctacctgactacagctgtaaggtcttcaccggcgtctacccgtttatgtggggaggcgcttactgcttctgcgacgctgaaaacacgcaattgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcagcatacagggctcatacagcatccgcatcagctaagctccgcgtcctttaccaaggaaataacatcactgtaactgcctatgcaaacggcgaccatgccgtcacagtcaaggacgccaaattcattgtggggccaatgtcttcagcctggacacctttcgacaacaaaattgtggtgtacaaaggtgacgtctataacatggactacccgccctttggcgcaggaagaccgggacaatttggcgacatccaaagtcgcacacctgagagtaaagacgtctatgctaatacacaactggtgctgcagagaccggctgtgggtacggtacatgtgccatactctcaggcaccgtctggctttaagtactggctgaaggaacgaggggcgccgctgcagcacacagcaccatttggctgtcaaatagcaacaaacccggtaagagcggtgaactgcgccgtagggaacatgcccatttccattgatataccggatgcagccttcaccagggtcgtcgacgcgccctctctaacggacatgtcgtgcgaagtaccagcctgcacacattcctcagacttcgggggcgtcgccattattaaatatgcagccagcaggaaaggcaagtgtgcagtacactcgatgaccaacgccgtcactattcgggaagctgagatagaagttgaagggaattctcagctgcaaatctctttctcgacggccttggccagcgccgaattccgcgtacaagtttgttctacacaagtacact</GBSeq_sequence>
+  </GBSeq>

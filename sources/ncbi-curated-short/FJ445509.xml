@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>FJ445509</GBSeq_locus>
+    <GBSeq_length>1317</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>24-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>04-AUG-2009</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus isolate SGEHICHS529408 E1 envelope protein gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>FJ445509</GBSeq_primary-accession>
+    <GBSeq_accession-version>FJ445509.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|FJ445509.1|</GBSeqid>
+      <GBSeqid>gi|239836360</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1317</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ng,L.C.</GBAuthor>
+          <GBAuthor>Tan,L.K.</GBAuthor>
+          <GBAuthor>Tan,C.H.</GBAuthor>
+          <GBAuthor>Tan,S.S.</GBAuthor>
+          <GBAuthor>Hapuarachchi,H.C.</GBAuthor>
+          <GBAuthor>Pok,K.Y.</GBAuthor>
+          <GBAuthor>Lai,Y.L.</GBAuthor>
+          <GBAuthor>Lam-Phua,S.G.</GBAuthor>
+          <GBAuthor>Bucht,G.</GBAuthor>
+          <GBAuthor>Lin,R.T.</GBAuthor>
+          <GBAuthor>Leo,Y.S.</GBAuthor>
+          <GBAuthor>Tan,B.H.</GBAuthor>
+          <GBAuthor>Han,H.K.</GBAuthor>
+          <GBAuthor>Ooi,P.L.</GBAuthor>
+          <GBAuthor>James,L.</GBAuthor>
+          <GBAuthor>Khoo,S.P.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Entomologic and virologic investigation of Chikungunya, Singapore</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 15 (8), 1243-1249 (2009)</GBReference_journal>
+        <GBReference_pubmed>19751586</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1317</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Hapuarachchi,H.C.</GBAuthor>
+          <GBAuthor>Bandara,K.B.</GBAuthor>
+          <GBAuthor>Sumanadasa,S.D.</GBAuthor>
+          <GBAuthor>Hapugoda,M.D.</GBAuthor>
+          <GBAuthor>Lai,Y.L.</GBAuthor>
+          <GBAuthor>Lee,K.S.</GBAuthor>
+          <GBAuthor>Tan,L.K.</GBAuthor>
+          <GBAuthor>Lin,R.T.</GBAuthor>
+          <GBAuthor>Ng,L.F.</GBAuthor>
+          <GBAuthor>Bucht,G.</GBAuthor>
+          <GBAuthor>Abeyewickreme,W.</GBAuthor>
+          <GBAuthor>Ng,L.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Re-emergence of Chikungunya virus in South-east Asia: virological evidence from Sri Lanka and Singapore</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 91 (PT 4), 1067-1076 (2010)</GBReference_journal>
+        <GBReference_xref>
+          <GBXref>
+            <GBXref_dbname>doi</GBXref_dbname>
+            <GBXref_id>10.1099/vir.0.015743-0</GBXref_id>
+          </GBXref>
+        </GBReference_xref>
+        <GBReference_pubmed>19955565</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1317</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ng,L.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (07-NOV-2008) Environmental Health Institute, National Environment Agency, 11 Biopolis Way, 06-05/08, Helios Block, Singapore 138667, Singapore</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1317</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1317</GBInterval_to>
+            <GBInterval_accession>FJ445509.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>SGEHICHS529408</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Singapore</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Aug-2008</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1317</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1317</GBInterval_to>
+            <GBInterval_accession>FJ445509.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>E1 envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ACS29377.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>YEHVTVIPNTVGVPYKTLVNRPGYSPMVLEMELLSVTLEPTLSLDYITCEYKTVIPSPYVKCCGTAECKDKNLPDYSCKVFTGVYPFMWGGAYCFCDAENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVTAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESKDVYANTQLVLQRPAVGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAVNCAVGNMPISIDIPEAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAIIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITGGVGLVVAVAALILIVVLCVSFSRH</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tacgaacacgtaacagtgatcccgaacacggtgggagtaccgtataagactctagtcaatagacctggctacagccccatggtattggagatggaactactgtcagtcactttggagccaacactatcgcttgattacatcacgtgcgagtacaaaaccgtcatcccgtctccgtacgtgaagtgctgcggtacagcagagtgcaaggacaaaaacctacctgactacagctgtaaggtcttcaccggcgtctacccatttatgtggggcggcgcctactgcttctgcgacgctgaaaatacgcagttgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcagcgtacagggctcataccgcatctgcatcagctaagctccgcgtcctttaccaaggaaataacatcactgtaactgcctatgcaaacggcgaccatgccgtcacagttaaggacgccaaattcattgtggggccaatgtcttcagcctggacacctttcgacaacaaaattgtggtgtacaaaggtgacgtctataacatggactacccgccctttggcgcaggaagaccaggacaatttggcgatatccaaagtcgcacacctgagagtaaagacgtctatgctaatacacaactggtactgcagagaccggctgtgggtacggtacacgtgccatactctcaggcaccatctggctttaagtattggctaaaagaacgcggggcgtcactgcagcacacagcaccatttggctgccaaatagcaacaaacccggtaagagcggtgaactgcgccgtagggaacatgcccatctccatcgacataccggaagcggccttcactagggtcgtcgacgcgccctctttaacggacatgtcgtgcgaggtaccagcctgcacccattcctcagactttgggggcgtcgccattattaaatatgcagccagcaagaaaggcaagtgtgcggtgcattcgatgactaacgccgtcactattcgggaagctgagatagaagttgaagggaattctcagctgcaaatctctttctcgacggccttagccagcgccgaattccgcgtacaagtctgttctacacaagtacactgtgcagctgagtgccaccccccgaaggaccacatagtcaactacccggcgtcacataccaccctcggggtccaggacatctccgctacggcgatgtcatgggtgcagaagatcacgggaggtgtgggactggttgttgctgttgccgcactgattctaatcgtggtgctatgcgtgtcgttcagcaggcac</GBSeq_sequence>
+  </GBSeq>

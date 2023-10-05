@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF192898</GBSeq_locus>
+    <GBSeq_length>1044</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>20-MAR-2000</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus isolate 1455/75 structural polyprotein (E1) mRNA, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF192898</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF192898.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF192898.1|</GBSeqid>
+      <GBSeqid>gi|7264679</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1044</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Powers,A.M.</GBAuthor>
+          <GBAuthor>Brault,A.C.</GBAuthor>
+          <GBAuthor>Tesh,R.B.</GBAuthor>
+          <GBAuthor>Weaver,S.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Re-emergence of Chikungunya and O'nyong-nyong viruses: evidence for distinct geographical lineages and distant evolutionary relationships</GBReference_title>
+        <GBReference_journal>J. Gen. Virol. 81 (Pt 2), 471-479 (2000)</GBReference_journal>
+        <GBReference_pubmed>10644846</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1044</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Powers,A.M.</GBAuthor>
+          <GBAuthor>Brault,A.C.</GBAuthor>
+          <GBAuthor>Tesh,R.B.</GBAuthor>
+          <GBAuthor>Weaver,S.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (07-OCT-1999) Pathology, University of Texas Medical Branch, Center for Tropical Diseases, Galveston, TX 77555-0609, USA</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1044</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1044</GBInterval_to>
+            <GBInterval_accession>AF192898.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>1455/75</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>gene</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1044</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1044</GBInterval_to>
+            <GBInterval_accession>AF192898.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>E1</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1044</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1044</GBInterval_to>
+            <GBInterval_accession>AF192898.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>gene</GBQualifier_name>
+            <GBQualifier_value>E1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>structural polyprotein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAF44308.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>GAYYFCDTENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNVTVSAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQGRTPESEDVYANTQLVLQRPSAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGRQIATNPVRAMNCAVGNMPISIDIPDAAFTRVVDAPSLTDMSCEVSACTHSSDFGGVAIIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITGGVGLVVAVATLILIVVLCVSFSR</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>ggcgcctactacttctgcgacactgaaaatacgcaattgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcagcatatagggctcataccgcatccgcatcagctaagctccgcgtcctttaccaaggaaataatgttactgtatctgcttatgcaaacggcgaccatgccgtcacagttaaggacgctaaattcatagtggggccaatgtcttcagcctggacacctttcgacaataaaatcgtggtgtacaaaggcgacgtctacaacatggactacccgcccttcggcgcaggaagaccaggacaatttggcgacatccaaggtcgcacgcctgagagcgaagacgtctatgctaacacacaactggtactgcagagaccgtccgcgggtacggtgcacgtgccgtattctcaggcaccatctggcttcaagtattggctaaaagaacgaggggcgtcgctgcagcacacagcaccatttggccgtcaaatagcaacaaacccggtaagagcgatgaactgcgccgtagggaacatgcctatctccatcgacataccggacgcggccttcactagggtcgtcgacgcgccatctttaacggacatgtcgtgtgaggtatcagcctgcacccattcctcagactttgggggcgtagccatcattaaatatgcagccagcaagaaaggcaagtgtgcggtgcattcgatgactaacgccgtcactatccgggaagctgaaatagaggtagaagggaactctcagttgcaaatctctttttcgacggccctagccagcgccgaattccgcgtacaagtctgttctacacaagtacactgtgcagccgagtgccatccaccgaaagaccatatagtcaattacccggcgtcacacaccaccctcggggtccaagacatttccgctacggcgatgtcatgggtgcagaagatcacgggaggtgtgggactggttgtcgctgttgcaacactgatcctaatcgtggtgctgtgcgtgtcgtttagcagg</GBSeq_sequence>
+  </GBSeq>

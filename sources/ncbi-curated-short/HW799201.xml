@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HW799201</GBSeq_locus>
+    <GBSeq_length>2964</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>24-MAR-2015</GBSeq_update-date>
+    <GBSeq_create-date>24-MAR-2015</GBSeq_create-date>
+    <GBSeq_definition>WO 2014196648-A/1: MALARIA VACCINE</GBSeq_definition>
+    <GBSeq_primary-accession>HW799201</GBSeq_primary-accession>
+    <GBSeq_accession-version>HW799201.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>dbj|HW799201.1|</GBSeqid>
+      <GBSeqid>pat|WO|2014196648|1</GBSeqid>
+      <GBSeqid>gi|931071827</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_keywords>
+      <GBKeyword>WO 2014196648-A/1</GBKeyword>
+    </GBSeq_keywords>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2964</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ueno,R.</GBAuthor>
+          <GBAuthor>Akahata,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>MALARIA VACCINE</GBReference_title>
+        <GBReference_journal>WO2014196648-A 1 11-DEC-2014 VLP THERAPEUTICS LLC</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_comment>OS Chikungunya virus~PN WO 2014196648-A/1~PD 11-DEC-2014~PF 02-JUN-2014 WO 2014JP065166~PR 20-NOV-2013 US 61/906583 ,03-JUN-2013 US 61/830436~PA VLP THERAPEUTICS LLC~PI ryuji ueno,wataru akahata~PT 'MALARIA VACCINE'~PS N4~CC~FH Key Location/Qualifiers.</GBSeq_comment>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2964</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2964</GBInterval_to>
+            <GBInterval_accession>HW799201.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>unassigned DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atgagcctcgccctcccggtcttgtgcctgttggcaaacactacattcccctgctctcagccgccttgcacaccctgctgctacgaaaaggaaccggaaagcaccttgcgcatgcttgaggacaacgtgatgagacccggatactaccagctactaaaagcatcgctgacttgctctccccaccgccaaagacgcagtactaaggacaattttaatgtctataaagccacaagaccatatctagctcattgtcctgactgcggagaagggcattcgtgccacagccctatcgcattggagcgcatcagaaatgaagcaacggacggaacgctgaaaatccaggtctctttgcagatcgggataaagacagatgacagccacgattggaccaagctgcgctatatggatagccatacgccagcggacgcggagcgagccggattgcttgtaaggacttcagcaccgtgcacgatcaccgggaccatgggacactttattctcgcccgatgcccgaaaggagagacgctgacagtgggatttacggacagcagaaagatcagccacacatgcacacacccgttccatcatgaaccacctgtgataggtagggagaggttccactctcgaccacaacatggtaaagagttaccttgcagcacgtacgtgcagagcaccgctgccactgctgaggagatagaggtgcatatgcccccagatactcctgaccgcacgctgatgacgcagcagtctggcaacgtgaagatcacagttaatgggcagacggtgcggtacaagtgcaactgcggtggctcaaacgagggactgacaaccacagacaaagtgatcaataactgcaaaattgatcagtgccatgctgcagtcactaatcacaagaattggcaatacaactcccctttagtcccgcgcaacgctgaactcggggaccgtaaaggaaagatccacatcccattcccattggcaaacgtgacttgcagagtgccaaaagcaagaaaccctacagtaacttacggaaaaaaccaagtcaccatgctgctgtatcctgaccatccgacactcttgtcttaccgtaacatgggacaggaaccaaattaccacgaggagtgggtgacacacaagaaggaggttaccttgaccgtgcctactgagggtctggaggtcacttggggcaacaacgaaccatacaagtactggccgcagatgtctacgaacggtactgctcatggtcacccacatgagataatcttgtactattatgagctgtaccccactatgactgtagtcattgtgtcggtggcctcgttcgtgcttctgtcgatggtgggcacagcagtgggaatgtgtgtgtgcgcacggcgcagatgcattacaccatatgaattaacaccaggagccactgttcccttcctgctcagcctgctatgctgcgtcagaacgaccaaggcggccacatattacgaggctgcggcatatctatggaacgaacagcagcccctgttctggttgcaggctcttatcccgctggccgccttgatcgtcctgtgcaactgtctgaaactcttgccatgctgctgtaagaccctggcttttttagccgtaatgagcatcggtgcccacactgtgagcgcgtacgaacacgtaacagtgatcccgaacacggtgggagtaccgtataagactcttgtcaacagaccgggttacagccccatggtgttggagatggagctacaatcagtcaccttggaaccaacactgtcacttgactacatcacgtgcgagtacaaaactgtcatcccctccccgtacgtgaagtgctgtggtacagcagagtgcaaggacaagagcctaccagactacagctgcaaggtctttactggagtctacccatttatgtggggcggcgcctactgcttttgcgacgccgaaaatacgcaattgagcgaggcacatgtagagaaatctgaatcttgcaaaacagagtttgcatcggcctacagagcccacaccgcatcggcgtcggcgaagctccgcgtcctttaccaaggaaacaacattaccgtagctgcctacgctaacggtgaccatgccgtcacagtaaaggacgccaagtttgtcgtgggcccaatgtcctccgcctggacaccttttgacaacaaaatcgtggtgtacaaaggcgacgtctacaacatggactacccaccttttggcgcaggaagaccaggacaatttggtgacattcaaagtcgtacaccggaaagtaaagacgtttatgccaacactcagttggtactacagaggccagcagcaggcacggtacatgtaccatactctcaggcaccatctggcttcaagtattggctgaaggaacgaggagcatcgctacagcacacggcaccgttcggttgccagattgcgacaaacccggtaagagctgtaaattgcgctgtggggaacataccaatttccatcgacataccggatgcggcctttactagggttgtcgatgcaccctctgtaacggacatgtcatgcgaagtaccagcctgcactcactcctccgactttgggggcgtcgccatcatcaaatacacagctagcaagaaaggtaaatgtgcagtacattcgatgaccaacgccgttaccattcgagaagccgacgtagaagtagaggggaactcccagctgcaaatatccttctcaacagccctggcaagcgccgagtttcgcgtgcaagtgtgctccacacaagtacactgcgcagccgcatgccaccctccaaaggaccacatagtcaattacccagcatcacacaccacccttggggtccaggatatatccacaacggcaatgtcttgggtgcagaagattacgggaggagtaggattaattgttgctgttgctgccttaattttaattgtggtgctatgcgtgtcgtttagcaggcac</GBSeq_sequence>
+  </GBSeq>

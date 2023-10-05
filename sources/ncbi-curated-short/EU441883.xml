@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>EU441883</GBSeq_locus>
+    <GBSeq_length>1199</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>mRNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>19-FEB-2008</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus isolate SG EHIss622 Y2008 E1 envelope protein mRNA, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>EU441883</GBSeq_primary-accession>
+    <GBSeq_accession-version>EU441883.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|EU441883.1|</GBSeqid>
+      <GBSeqid>gi|167859604</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..1199</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Leo,Y.S.</GBAuthor>
+          <GBAuthor>Chow,A.L.</GBAuthor>
+          <GBAuthor>Tan,L.K.</GBAuthor>
+          <GBAuthor>Lye,D.C.</GBAuthor>
+          <GBAuthor>Lin,L.</GBAuthor>
+          <GBAuthor>Ng,L.C.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Chikungunya outbreak, Singapore, 2008</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 15 (5), 836-837 (2009)</GBReference_journal>
+        <GBReference_pubmed>19402989</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..1199</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ng,L.C.</GBAuthor>
+          <GBAuthor>Bucht,G.</GBAuthor>
+          <GBAuthor>Tan,L.K.</GBAuthor>
+          <GBAuthor>Goh,V.</GBAuthor>
+          <GBAuthor>Yee,S.L.</GBAuthor>
+          <GBAuthor>James,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Partial E Gene Sequences from the First Singapore Chikungunya Outbreak (Jan 2008) Cluster with Sequences from 2006 Outbreak in India</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>3</GBReference_reference>
+        <GBReference_position>1..1199</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Ng,L.C.</GBAuthor>
+          <GBAuthor>Bucht,G.</GBAuthor>
+          <GBAuthor>Tan,L.K.</GBAuthor>
+          <GBAuthor>Goh,V.</GBAuthor>
+          <GBAuthor>Yee,S.L.</GBAuthor>
+          <GBAuthor>James,L.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-FEB-2008) National Environment Agency, Environmental Health Institute, 11 Biopolis Way, Singapore 138667, Singapore</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..1199</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1199</GBInterval_to>
+            <GBInterval_accession>EU441883.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>mRNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolate</GBQualifier_name>
+            <GBQualifier_value>SG EHIss622 Y2008</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>Singapore</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>Jan-2008</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..&gt;1199</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>1199</GBInterval_to>
+            <GBInterval_accession>EU441883.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_partial3 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>EC_number</GBQualifier_name>
+            <GBQualifier_value>3.4.21.-</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to Chikungunya virus strain 91161 in EF451147</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>3</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>E1 envelope protein</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>ACA04757.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>TLVNRPGYSPMVLEMELLSVTLEPTLSLDYITCEYKTVIPSPYVKCCGTAECKDKNLPDYSCKVFTGVYPFMWGGAYCFCDAENTQLSEAHVEKSESCKTEFASAYRAHTASASAKLRVLYQGNNITVTAYANGDHAVTVKDAKFIVGPMSSAWTPFDNKIVVYKGDVYNMDYPPFGAGRPGQFGDIQSRTPESKDVYANTQLVLQRPAAGTVHVPYSQAPSGFKYWLKERGASLQHTAPFGCQIATNPVRAVNCAVGNMPISIDIPEAAFTRVVDAPSLTDMSCEVPACTHSSDFGGVAIIKYAASKKGKCAVHSMTNAVTIREAEIEVEGNSQLQISFSTALASAEFRVQVCSTQVHCAAECHPPKDHIVNYPASHTTLGVQDISATAMSWVQKITG</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>agactctagtcaatagacctggctacagccccatggtattggagatggaactactgtcagtcactttggagccaacactatcgcttgattacatcacgtgcgagtacaaaaccgtcatcccgtctccgtacgtgaagtgctgcggtacagcagagtgcaaggacaaaaacctacctgactacagctgtaaggtcttcaccggcgtctacccatttatgtggggcggcgcctactgcttctgcgacgctgaaaacacgcagttgagcgaagcacatgtggagaagtccgaatcatgcaaaacagaatttgcatcagcatacagggctcataccgcatctgcatcagctaagctccgcgtcctttaccaaggaaataacatcactgtaactgcctatgcaaacggcgaccatgccgtcacagttaaggacgccaaattcattgtggggccaatgtcttcagcctggacacctttcgacaacaaaattgtggtgtacaaaggtgacgtctataacatggactacccgccctttggcgcaggaagaccaggacaatttggcgatatccaaagtcgcacacctgagagtaaagacgtctatgctaatacacaactggtactgcagagaccggctgcgggtacggtacacgtgccatactctcaggcaccatctggctttaagtattggctaaaagaacgcggggcgtcactgcagcacacagcaccatttggctgccaaatagcaacaaacccggtaagagcggtgaactgcgccgtagggaacatgcccatctccatcgacataccggaagcggccttcactagggtcgtcgacgcgccctctttaacggacatgtcgtgcgaggtaccagcctgcacccattcctcagactttgggggcgtcgccattattaaatatgcagccagcaagaaaggcaagtgtgcggtgcattcgatgactaacgccgtcactattcgggaagctgagatagaagttgaagggaattctcagctgcaaatctctttctcgacggccttagccagcgccgaattccgcgtacaagtctgttctacacaagtacactgtgcagctgagtgccaccccccgaaggaccacatagtcaactacccggcgtcacataccaccctcggggtccaggacatctccgctacggcgatgtcatgggtgcagaagatcacggga</GBSeq_sequence>
+  </GBSeq>

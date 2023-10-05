@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>HQ529780</GBSeq_locus>
+    <GBSeq_length>2199</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>05-JUL-2011</GBSeq_update-date>
+    <GBSeq_create-date>05-JUL-2011</GBSeq_create-date>
+    <GBSeq_definition>Chikungunya virus strain CHIKNSP4-SVU09 polyprotein-like gene, partial sequence</GBSeq_definition>
+    <GBSeq_primary-accession>HQ529780</GBSeq_primary-accession>
+    <GBSeq_accession-version>HQ529780.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|HQ529780.1|</GBSeqid>
+      <GBSeqid>gi|338832563</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..2199</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Naresh Kumar,C.V.M.</GBAuthor>
+          <GBAuthor>Sai Gopal,D.V.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Molecular characterization of NSP4 gene of Chikungunya virus causing epidemic in Andhra Pradesh, India</GBReference_title>
+        <GBReference_journal>Unpublished</GBReference_journal>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..2199</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Naresh Kumar,C.V.M.</GBAuthor>
+          <GBAuthor>Sai Gopal,D.V.R.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (02-NOV-2010) Department of Virology, College of Sciences, Sri Venkateswara University, Tirupati, Andhra Pradesh 517502, India</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..2199</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2199</GBInterval_to>
+            <GBInterval_accession>HQ529780.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>CHIKNSP4-SVU09</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>isolation_source</GBQualifier_name>
+            <GBQualifier_value>serum</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>host</GBQualifier_name>
+            <GBQualifier_value>Homo sapiens</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>India: Andhra Pradesh</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>collection_date</GBQualifier_name>
+            <GBQualifier_value>2009</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>misc_feature</GBFeature_key>
+        <GBFeature_location>&lt;1..2126</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>2126</GBInterval_to>
+            <GBInterval_accession>HQ529780.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>similar to polyprotein; contains nsp3 and nsp4</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tgtgtccggtcgtacaagaaacagcggagacgcgtgacacagcaatgtctcttcaggcaccaccgagtaccgccacggaaccgaatcatccgccgatctccttcggagcatcaagcgagacgttccccattacatttggggacttcaacgaaggagaaatcgaaagcttgtcttctgagctactaactttcggagacttcttaccaggagaagtggatgacttgacagacagcgactggtccacgtgctcagacacgggcgacgagttatgactagacagggcaggtgggtatatattctcgtcggacaccggtccaggtcatttacaacagaagtcagtacgccagtcagtgctgccggtgaacaccctggaggaagtccacgaggagaagtgttacccacctaagctggatgaagcaaaggagcaactattacttaagaaactccaggagagtgcatccatggccaacagaagcaggtaccagtcgcgcaaagtagaaaacatgaaagcagcaatcatccagagactaaagagaggctgtagactatacttaatgtcagagaccccaaaagtccctacttaccggactacatatccggcgcctgtgtactcgcctccgatcaacgtccgattgtccaatcccgagtccgcagtggcagcatgcaatgagttcttagctagaaactatccaactgtctcatcataccaaattaccgacgagtatgatgcatatctagacatggtggacgggtcggagagttgcctggaccgagcgacattcaatccgtcaaaactcaggagctacccgaaacagcacgcttaccacgcgccctccatcagaagcgctgtaccgtccccattccagaacacactacaaaatgtactggcagcagccacgaaaagaaactgcaacgtcacacagatgagggaattacccactttggactcagcagtattcaacgtggagtgtttcaaaaaattcgcatgcaaccaagaatactgggaagaatttgctgccagccctattaggataacaactgagaatttagcaacctatgttactaaactaaaagggccaaaagcagcagcgctattcgcaaaaacccataatctactgccactacaggaagtaccaatggataggttcacagtagatatgaaaagggacgtgaaggtgactcctggtacaaagcatacagaggaaagacctaaggtgcaggttatacaggcggctgaacccttggcgacagcatacctatgtgggattcacagagagctggttaggaggctgaacgccgtcctcctacccaatgtacatacactatttgacatgtctgccgaggatttcgatgccatcatagccgcacactttaagccaggagacactgttttggaaacggacatagcctcctttgataagagccaagatgattcacttgcgctcactgctttgatgctgttagaggatttaggggtggatcactccctgctggacttgatagaggctgctttcggagagatttccagctgtcacctaccgacaggtacgcgcttcaagttcggcgccatgatgaaatcaggtatgttcctaactctgttcgtcaacacattgttaaacatcaccatcgccagccgagtgctggaagatcgtctgacaaaatccgcatgcgcggccttcatcggcgacgacaacataatacatggagtcgtctccgatgaattaatggcagccagatgtgccacttggatgaacatggaagtgaagatcatagatgcagttgtatccttgaaagccccttacttttgtggagggtttatactgcacgatactgtgacaggaacagcttgcagagtggcagacccgctaaaaaggctttttaaactgggcaaaccgctagcggcaggtgacgaacaagatgaagatagaagacgagcgctggccgacgaagtgatcagatggcaacgaacagggctaattgatgagctggagaaagcggtatactctaggtatgaagtgcagggtatatcagttgtggtaatgtccatggccacctttgcaagctccagatccaacttcgagaagctcagaggacccgtcataactttgtacggcggtcctaaataggtacgcactacagctacctattttgcagaagccgacagcaagtatctaaacactaatcagctacaatggagtt</GBSeq_sequence>
+  </GBSeq>
