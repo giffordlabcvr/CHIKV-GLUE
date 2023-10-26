@@ -1,0 +1,4 @@
+
+  # Run script to determine serotypes via GLUE's MCLA algorithm
+  #run script glue/chikvGenotypeCuratedSeqs.js
+

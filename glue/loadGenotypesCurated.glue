@@ -1,0 +1,7 @@
+delete module chikvSideDataImporterCurated
+
+create module -f modules/chikvSideDataImporterCurated.xml
+
+module chikvSideDataImporterCurated
+  populate -f tabular/chikv-curated-genotypes.tsv
+  exit

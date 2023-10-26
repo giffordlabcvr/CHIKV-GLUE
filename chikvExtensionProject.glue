@@ -15,7 +15,10 @@ project chikv
   module chikvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
 
   # Run script to determine serotypes via GLUE's MCLA algorithm
-  run script glue/chikvGenotypeCuratedSeqs.js
+  #run script glue/chikvGenotypeCuratedSeqs.js
+
+  # Import genotype data
+  run file glue/loadGenotypesCurated.glue
 
   # Validate
   validate
