@@ -1,0 +1,8 @@
+delete module chikvCompoundAligner
+
+create module -f modules/chikvCompoundAligner.xml
+
+compute alignment AL_CHIKV_Asian chikvCompoundAligner
+compute alignment AL_CHIKV_ECSA chikvCompoundAligner
+compute alignment AL_CHIKV_WestAfr chikvCompoundAligner
+

@@ -3,7 +3,7 @@
   alignment AL_CHIKV
 
     set field displayName "Chikungunya Virus (CHIKV)"
-    add member  -w "source.name = 'ncbi-curated' and sequence.genotype != null"
+    add member  -w "source.name like 'ncbi-curated%' and genotype != null"
     exit  
 	
 
@@ -11,18 +11,10 @@
 
     set field displayName "Species"
   
-	demote member AL_CHIKV_Asian --whereClause "source.name = 'ncbi-curated' and sequence.genotype = 'Asian'"
+	demote member AL_CHIKV_Asian --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.genotype = 'Asian'"
   
-	demote member AL_CHIKV_ECSA --whereClause "source.name = 'ncbi-curated' and sequence.genotype like '%ECSA%'"
+	demote member AL_CHIKV_ECSA --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.genotype like '%ECSA%'"
   
-	demote member AL_CHIKV_WestAfr --whereClause "source.name = 'ncbi-curated' and sequence.genotype = 'WestAfr'"
+	demote member AL_CHIKV_WestAfr --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.genotype = 'WestAfr'"
 
 	exit
-
-
-  # derive constrained segments throughout the tree from unconstrained alignment   
-  alignment AL_CHIKV
-  
-    derive segments AL_UNC_CHIKV_ROOT --recursive --existingMembersOnly --allMembers -m OVERWRITE
-    exit
-

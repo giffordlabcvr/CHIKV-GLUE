@@ -1,0 +1,8 @@
+  delete module chikvFeaturePresenceRecorder
+  create module -f modules/chikvFeaturePresenceRecorder.xml
+
+  module chikvFeaturePresenceRecorder 
+
+    #~# Root alignment
+    record feature-presence AL_CHIKV --recursive --featureName whole_genome --descendentFeatures
+    exit

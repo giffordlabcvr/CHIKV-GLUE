@@ -7,18 +7,29 @@ project chikv
 
   # NCBI refseqs - taxa in the reference phylogeny
   import source sources/ncbi-curated
+  import source sources/ncbi-curated-short
 
   # Link sequence table entries to isolate table
   run script glue/chikvLoadIsolateDataCurated.js 
+  run script glue/chikvLoadIsolateDataCuratedShort.js 
 
   # Populate refseq + outgroup metadata from GenBank XML
   module chikvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
+  module chikvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated-short'"
 
   # Import genotype data
   run file glue/loadGenotypesCurated.glue
+
+  # Import genotype data
+  run file glue/chikvAlignmentTreeCurated.glue
+
+  # Compute multiple sequence alignments with curated sequences included
+  run file glue/chikvComputeAlignments.glue
+
+  # Record feature presence in multiple sequence alignments
+  run file glue/chikvRecordFeaturePresence.glue
 
   # Validate
   validate
 
   exit
-
