@@ -1,0 +1,43 @@
+  # Clean-up
+  delete module chikvNucsRaxmlPhylogenyGenerator
+
+  # Create all the general phylogeny modules we need
+  create module -f  modules/chikvNucsRaxmlPhylogenyGenerator.xml
+
+  # Create the Flavivirus subgenus phylogenies
+  module chikvNucsRaxmlPhylogenyGenerator
+
+    generate nucleotide phylogeny AL_CHIKV_ECSA \
+      -w "fLocNotes.featureLoc.feature.name = 'nsP1' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -o trees/chikv_ecsa_nsp1.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_CHIKV_ECSA \
+      -w "fLocNotes.featureLoc.feature.name = 'nsP2' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -o trees/chikv_ecsa_nsp2.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_CHIKV_ECSA \
+      -w "fLocNotes.featureLoc.feature.name = 'nsP3' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -o trees/chikv_ecsa_nsp3.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_CHIKV_ECSA \
+      -w "fLocNotes.featureLoc.feature.name = 'nsP4' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -o trees/chikv_ecsa_nsp4.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_CHIKV_ECSA \
+      -w "fLocNotes.featureLoc.feature.name = 'E1' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -o trees/chikv_ecsa_e1.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_CHIKV_ECSA \
+      -w "fLocNotes.featureLoc.feature.name = 'E2' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -o trees/chikv_ecsa_e2.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_CHIKV_ECSA \
+      -w "fLocNotes.featureLoc.feature.name = 'E3' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -o trees/chikv_ecsa_e3.tre NEWICK_BOOTSTRAPS
+
+    generate nucleotide phylogeny AL_CHIKV_ECSA \
+      -w "fLocNotes.featureLoc.feature.name = 'capsid' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -o trees/chikv_ecsa_capsid.tre NEWICK_BOOTSTRAPS
+
+    exit
+
