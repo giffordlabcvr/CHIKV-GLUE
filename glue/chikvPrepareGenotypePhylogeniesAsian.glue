@@ -1,0 +1,90 @@
+  delete module chikvPhyloUtility
+  create module -f modules/chikvPhyloUtility.xml
+   
+  module chikvPhyloUtility 
+
+	# midpoint rooting
+
+	reroot-phylogeny \
+      --inputFile trees/chikv_asian_capsid.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/chikv_asian_capsidMidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/chikv_asian_e1.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/chikv_asian_e1MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/chikv_asian_e2.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/chikv_asian_e2MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/chikv_asian_e3.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/chikv_asian_e3MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/chikv_asian_nsp1.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/chikv_asian_nsp1MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/chikv_asian_nsp2.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/chikv_asian_nsp2MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/chikv_asian_nsp3.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/chikv_asian_nsp3MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+	reroot-phylogeny \
+      --inputFile trees/chikv_asian_nsp4.tre NEWICK_BOOTSTRAPS \
+      --midpoint \
+      --outputFile trees/chikv_asian_nsp4MidpointRerooted.tree NEWICK_BOOTSTRAPS
+
+    exit
+    
+
+  # Export annotations
+  delete module chikvFigTreeAnnotationExporter
+  create module -f modules/chikvFigTreeAnnotationExporter.xml
+
+  module chikvFigTreeAnnotationExporter 
+
+    export figtree-annotation AL_CHIKV_Asian -c \
+      -w "fLocNotes.featureLoc.feature.name = 'capsid' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -f trees/chikv_asian_capsid.figtree-annotations.tsv
+
+    export figtree-annotation AL_CHIKV_Asian -c \
+      -w "fLocNotes.featureLoc.feature.name = 'e1' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -f trees/chikv_asian_e1.figtree-annotations.tsv
+
+    export figtree-annotation AL_CHIKV_Asian -c \
+      -w "fLocNotes.featureLoc.feature.name = 'e2' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -f trees/chikv_asian_e2.figtree-annotations.tsv
+
+    export figtree-annotation AL_CHIKV_Asian -c \
+      -w "fLocNotes.featureLoc.feature.name = 'e3' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -f trees/chikv_asian_e3.figtree-annotations.tsv
+
+    export figtree-annotation AL_CHIKV_Asian -c \
+      -w "fLocNotes.featureLoc.feature.name = 'nsp1' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -f trees/chikv_asian_nsp1.figtree-annotations.tsv
+
+    export figtree-annotation AL_CHIKV_Asian -c \
+      -w "fLocNotes.featureLoc.feature.name = 'nsp2' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -f trees/chikv_asian_nsp2.figtree-annotations.tsv
+
+    export figtree-annotation AL_CHIKV_Asian -c \
+      -w "fLocNotes.featureLoc.feature.name = 'nsp3' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -f trees/chikv_asian_nsp3.figtree-annotations.tsv
+
+    export figtree-annotation AL_CHIKV_Asian -c \
+      -w "fLocNotes.featureLoc.feature.name = 'nsp4' and fLocNotes.ref_nt_coverage_pct >= 70" \
+      -f trees/chikv_asian_nsp4.figtree-annotations.tsv
+
+  exit
+

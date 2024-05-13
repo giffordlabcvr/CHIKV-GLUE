@@ -1,0 +1,664 @@
+taxon	sequenceID	genotype	isolate	country	collection_year
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678677	AB678677	Asian	CHIK/SBY8/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678678	AB678678	Asian	CHIK/SBY10/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678679	AB678679	Asian	CHIK/SBY11/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678680	AB678680	Asian	CHIK/SBY13/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678681	AB678681	Asian	CHIK/SBY53/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678682	AB678682	Asian	CHIK/SBY61/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678683	AB678683	Asian	CHIK/SBY76/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678684	AB678684	Asian	CHIK/SBY86/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678685	AB678685	Asian	CHIK/SBY95/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678686	AB678686	Asian	CHIK/SBY183/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678687	AB678687	Asian	CHIK/SBY48/11	Indonesia	2011
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678688	AB678688	Asian	CHIK/SBY83/11	Indonesia	2011
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678689	AB678689	Asian	CHIK/SBYC1Mos/11	Indonesia	2011
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678690	AB678690	Asian	CHIK/SBYK1Mos/11	Indonesia	2011
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678691	AB678691	Asian	CHIK/SBY6/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678692	AB678692	Asian	CHIK/SBY7/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678693	AB678693	Asian	CHIK/SBY59/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678694	AB678694	Asian	CHIK/SBY79/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AB678695	AB678695	Asian	CHIK/SBY176/10	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated/AB860301	AB860301	Asian	-	Philippines	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AF192894	AF192894	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AF192895	AF192895	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AF192896	AF192896	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AF192897	AF192897	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AF192898	AF192898	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AF192899	AF192899	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AF192900	AF192900	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AF192901	AF192901	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AF192902	AF192902	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AF192908	AF192908	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/AY424803	AY424803	Asian	Nagpur (India) 653496	India	-
+alignment/AL_CHIKV_Asian/member/ncbi-refseqs/EF027140	EF027140	Asian	IND-63-WB1	India	1963
+alignment/AL_CHIKV_Asian/member/ncbi-refseqs/EF027141	EF027141	Asian	IND-73-MH5	India	1973
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/EU192143	EU192143	Asian	0706aTw	Indonesia	2007
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/FJ445483	FJ445483	Asian	-	Singapore	2008
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/FJ807886	FJ807886	Asian	0712aTw	Indonesia	2007
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/FJ807887	FJ807887	Asian	0712bTw	Indonesia	2007
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/FJ807888	FJ807888	Asian	0802aTw	Indonesia	2008
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/FJ807889	FJ807889	Asian	0804aTw	Indonesia	2008
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/FJ807890	FJ807890	Asian	0806aTw	Indonesia	2008
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/FJ807891	FJ807891	Asian	0811aTw	Indonesia	2008
+alignment/AL_CHIKV_Asian/member/ncbi-refseqs/FJ807897	FJ807897	Asian	0706aTw	Taiwan	2007
+alignment/AL_CHIKV_Asian/member/ncbi-refseqs/FN295483	FN295483	Asian	-	Malaysia	2006
+alignment/AL_CHIKV_Asian/member/ncbi-curated/FN295484	FN295484	Asian	-	Malaysia:Perak	2006
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/FR846307	FR846307	Asian	-	France	2009
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/GU969242	GU969242	Asian	-	East Timor	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/HE578162	HE578162	Asian	NC/2011-568	New Caledonia	2011
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HE806461	HE806461	Asian	NC/2011-568	New Caledonia	2011
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045787	HM045787	Asian	SV0444-95	Thailand	1995
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045788	HM045788	Asian	PO731460	India	1973
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045789	HM045789	Asian	6441-88	Thailand	1988
+alignment/AL_CHIKV_Asian/member/ncbi-refseqs/HM045790	HM045790	Asian	PhH15483	Phil	1985
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045791	HM045791	Asian	JKT23574	Indonesia	1983
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045796	HM045796	Asian	CO392-95	Thailand	1995
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045797	HM045797	Asian	RSU1	Indonesia	1985
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045800	HM045800	Asian	Hu/85/NR/001	Philippines	1985
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045802	HM045802	Asian	K0146-95	Thailand	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045803	HM045803	Asian	I-634029	India	1963
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045808	HM045808	Asian	3412-78	Thailand	1978
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045810	HM045810	Asian	TH35	Thailand	1958
+alignment/AL_CHIKV_Asian/member/ncbi-refseqs/HM045813	HM045813	Asian	Gibbs 63-263	India	1963
+alignment/AL_CHIKV_Asian/member/ncbi-curated/HM045814	HM045814	Asian	1455-75	Thailand	1975
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KC488650	KC488650	Asian	CHIKV-JC2012	China	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879559	KC879559	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879560	KC879560	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879561	KC879561	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879562	KC879562	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879563	KC879563	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879564	KC879564	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879565	KC879565	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879566	KC879566	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879567	KC879567	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879568	KC879568	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879569	KC879569	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879570	KC879570	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879571	KC879571	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879572	KC879572	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879573	KC879573	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879574	KC879574	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879575	KC879575	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879576	KC879576	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879577	KC879577	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC879578	KC879578	Asian	-	Indonesia	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KC969207	KC969207	Asian	-	India	1976
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KF872195	KF872195	Asian	LEIV-CHIKV/Moscow/1/2013	Russia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KJ939333	KJ939333	Asian	PF14-270514-51impGP	French Polynesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KM014692	KM014692	Asian	CHIK/Philippines/CPCC007800Y01	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KM014693	KM014693	Asian	CHIK/Philippines/CPCC017800Y01	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KM014694	KM014694	Asian	CHIK/Philippines/CPCC065200Y01	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KM014695	KM014695	Asian	CHIK/Philippines/CPCC083400Y01	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KM014696	KM014696	Asian	CHIK/Philippines/CPCC095700Y01	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KM673291	KM673291	Asian	-	Indonesia: Bali	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KM923917	KM923917	Asian	M125	Malaysia	2007
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KM923918	KM923918	Asian	M127	Malaysia	2007
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KM923919	KM923919	Asian	M128	Malaysia	2007
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KM923920	KM923920	Asian	M129	Malaysia	2007
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KM985619	KM985619	Asian	PF14-290914-16	French Polynesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KM985981	KM985981	Asian	TO14-080414-3007	Tonga	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KM985982	KM985982	Asian	TO14-080414-3042	Tonga	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KP164567	KP164567	Asian	-	Brazil: Oiapoque-AP	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KP252141	KP252141	Asian	Italy/ER062014	Italy	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KP252142	KP252142	Asian	Italy/ER072014	Italy	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KP276676	KP276676	Asian	CHIK/Philippines/AFPSV13-0030	Philippines	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KP276677	KP276677	Asian	CHIK/Philippines/AFPSV13-0084	Philippines	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KP851709	KP851709	Asian	-	Mexico: Chiapas	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KP851710	KP851710	Asian	-	Mexico: Jalisco	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KR002040	KR002040	Asian	CHIKV 1711900F	Brazil	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KR264950	KR264950	Asian	-	Puerto Rico	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT175539	KT175539	Asian	E1	Indonesia	2007
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT175540	KT175540	Asian	E1	Indonesia	2007
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT175541	KT175541	Asian	E1	Indonesia	2007
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KT192707	KT192707	Asian	11540	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192708	KT192708	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192709	KT192709	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192710	KT192710	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192711	KT192711	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192712	KT192712	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192713	KT192713	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192714	KT192714	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192715	KT192715	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192716	KT192716	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192717	KT192717	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192718	KT192718	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192719	KT192719	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192720	KT192720	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192721	KT192721	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192722	KT192722	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192723	KT192723	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192724	KT192724	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192725	KT192725	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192726	KT192726	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192727	KT192727	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192728	KT192728	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192729	KT192729	Asian	-	Nicaragua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192730	KT192730	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192731	KT192731	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192732	KT192732	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192733	KT192733	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192734	KT192734	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192735	KT192735	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192736	KT192736	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192737	KT192737	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192738	KT192738	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192739	KT192739	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT192740	KT192740	Asian	-	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211023	KT211023	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211024	KT211024	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211025	KT211025	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211026	KT211026	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211027	KT211027	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211028	KT211028	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211029	KT211029	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211030	KT211030	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211031	KT211031	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211032	KT211032	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211033	KT211033	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211034	KT211034	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211035	KT211035	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211036	KT211036	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211037	KT211037	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211038	KT211038	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211039	KT211039	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211040	KT211040	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211041	KT211041	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211042	KT211042	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211043	KT211043	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211044	KT211044	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211045	KT211045	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211046	KT211046	Asian	-	Colombia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211047	KT211047	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211048	KT211048	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211049	KT211049	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211050	KT211050	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KT211051	KT211051	Asian	-	Colombia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KT308159	KT308159	Asian	-	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KT308160	KT308160	Asian	-	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KT308161	KT308161	Asian	-	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KT308162	KT308162	Asian	-	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KT308163	KT308163	Asian	-	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KT327164	KT327164	Asian	-	Mexico	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KT581023	KT581023	Asian	-	Brazil	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295117	KU295117	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295118	KU295118	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295119	KU295119	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295120	KU295120	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295121	KU295121	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295122	KU295122	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295123	KU295123	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295124	KU295124	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295125	KU295125	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295126	KU295126	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295127	KU295127	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295128	KU295128	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295129	KU295129	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU295130	KU295130	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KU355832	KU355832	Asian	-	Brazil	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KU365366	KU365366	Asian	-	Mexico: Chiapas, Ciudad Hidalgo	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KU365368	KU365368	Asian	-	Mexico: Chiapas, Tapachula	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KU365369	KU365369	Asian	-	Trinidad and Tobago	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KU365373	KU365373	Asian	-	Colombia: Sincelejo	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561436	KU561436	Asian	0904bTw	Indonesia	2009
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561437	KU561437	Asian	0908aTw	Indonesia	2009
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561438	KU561438	Asian	0909aTw	Indonesia	2009
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561439	KU561439	Asian	1002bTw	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561440	KU561440	Asian	1005aTw	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561441	KU561441	Asian	1005bTw	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561442	KU561442	Asian	1006bTw	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561443	KU561443	Asian	1011aTw	Indonesia	2010
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561444	KU561444	Asian	1207aTw	Indonesia	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561445	KU561445	Asian	1301aTw	Indonesia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561446	KU561446	Asian	1302aTw	Indonesia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561447	KU561447	Asian	1303aTw	Indonesia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561448	KU561448	Asian	1304aTw	Indonesia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561449	KU561449	Asian	1307aTw	Indonesia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561450	KU561450	Asian	1308bTw	Indonesia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561451	KU561451	Asian	1308cTw	Indonesia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561452	KU561452	Asian	1310aTw	Indonesia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561453	KU561453	Asian	1312cTw	Indonesia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561454	KU561454	Asian	1403aTw	Indonesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561455	KU561455	Asian	1403bTw	Indonesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561456	KU561456	Asian	1404aTw	Indonesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561457	KU561457	Asian	1406aTw	Indonesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561458	KU561458	Asian	1408aTw	Indonesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561459	KU561459	Asian	1108aTw	Philippines	2011
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561460	KU561460	Asian	1307bTw	Philippines	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561461	KU561461	Asian	1308aTw	Philippines	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561462	KU561462	Asian	1309aTw	Philippines	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561463	KU561463	Asian	1312aTw	Philippines	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561464	KU561464	Asian	1312bTw	Philippines	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561465	KU561465	Asian	1401aTw	Philippines	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KU561466	KU561466	Asian	1307cTw	Singapore	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KX097981	KX097981	Asian	-	Indonesia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KX097982	KX097982	Asian	-	Indonesia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KX097983	KX097983	Asian	-	Indonesia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KX097984	KX097984	Asian	-	Indonesia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KX097985	KX097985	Asian	-	Indonesia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KX097986	KX097986	Asian	-	Indonesia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KX097987	KX097987	Asian	-	Indonesia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KX097988	KX097988	Asian	-	Indonesia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KX168429	KX168429	Asian	-	Malaysia: Selangor	2009
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KX255061	KX255061	Asian	-	Haiti	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KX255062	KX255062	Asian	-	Panama	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KX255063	KX255063	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KX262987	KX262987	Asian	CHIKV/Homo sapiens/THA/SVO-451-96/1996	Thailand: Northeast Thailand	1996
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KX262988	KX262988	Asian	CHIKV/Homo sapiens/THA/6307-88/1988	Thailand: Northeast Thailand	1988
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KX262991	KX262991	Asian	CHIKV/Homo sapiens/SXM/H-20235-STMARTIN-2013/2003	Saint Martin	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KX262992	KX262992	Asian	CHIKV/Homo sapiens/GLP/YO-111213/2014	Guadeloupe	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KX262994	KX262994	Asian	CHIKV/Homo sapiens/GUF/YO-123223/2014	French Guiana	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY272961	KY272961	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY272962	KY272962	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY272963	KY272963	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY272964	KY272964	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY272965	KY272965	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY272966	KY272966	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY272967	KY272967	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY272968	KY272968	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY272969	KY272969	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY272970	KY272970	Asian	-	Dominican Republic	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435454	KY435454	Asian	-	Trinidad and Tobago	2011
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435455	KY435455	Asian	-	Anguilla	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435456	KY435456	Asian	-	Suriname	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435457	KY435457	Asian	-	Montserrat	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435458	KY435458	Asian	-	Guyana	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435459	KY435459	Asian	-	Cayman Islands	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435460	KY435460	Asian	-	Cayman Islands	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435461	KY435461	Asian	-	Jamaica	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435462	KY435462	Asian	-	Jamaica	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435463	KY435463	Asian	-	Suriname	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435464	KY435464	Asian	-	Barbados	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435465	KY435465	Asian	-	Trinidad and Tobago	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435466	KY435466	Asian	-	Barbados	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435467	KY435467	Asian	-	Montserrat	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435468	KY435468	Asian	-	Jamaica	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435469	KY435469	Asian	-	Grenada	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435470	KY435470	Asian	-	Bahamas	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435471	KY435471	Asian	-	Turks and Caicos Islands	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435472	KY435472	Asian	-	Grenada	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435473	KY435473	Asian	-	Saint Lucia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435474	KY435474	Asian	-	Saint Lucia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435475	KY435475	Asian	-	Saint Vincent and the Grenadines	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435476	KY435476	Asian	-	Turks and Caicos Islands	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435477	KY435477	Asian	-	Guyana	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435478	KY435478	Asian	-	Guyana	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435479	KY435479	Asian	-	Antigua and Barbuda	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435480	KY435480	Asian	-	Haiti	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435481	KY435481	Asian	-	Saint Lucia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435482	KY435482	Asian	-	Saint Kitts and Nevis	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435483	KY435483	Asian	-	Anguilla	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435484	KY435484	Asian	-	Dominica	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435485	KY435485	Asian	-	Dominica	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY435486	KY435486	Asian	-	British Virgin Islands	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY575565	KY575565	Asian	CHIKV/Homo sapiens/USA/IDR1400024561/2014	USA	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY575566	KY575566	Asian	CHIKV/Homo sapiens/USA/IDR1400019200/2014	USA	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY575569	KY575569	Asian	CHIKV/Homo sapiens/USA/IDR1400021488/2014	USA	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY575572	KY575572	Asian	CHIKV/Homo sapiens/USA/IDR1400023906/2014	USA	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY575573	KY575573	Asian	CHIKV/Homo sapiens/USA/IDR1400021177/2014	USA	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY645999	KY645999	Asian	-	Colombia: Santander, Giron	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY646000	KY646000	Asian	-	Colombia: Santander, Giron	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY649628	KY649628	Asian	-	Indonesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY649629	KY649629	Asian	-	Indonesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY649630	KY649630	Asian	-	Indonesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680347	KY680347	Asian	CHIKV/Homo sapiens/USA/CKVHL_47/2014	USA: Broward County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680349	KY680349	Asian	CHIKV/Homo sapiens/USA/CKVHL_97/2014	USA: Orange County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680350	KY680350	Asian	CHIKV/Homo sapiens/USA/CKVHL_61/2014	USA: Osceola County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680351	KY680351	Asian	CHIKV/Homo sapiens/USA/CKVHL_26/2014	USA: Hillsborough County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680352	KY680352	Asian	CHIKV/Homo sapiens/USA/CKVHL_126/2014	USA: Broward County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680353	KY680353	Asian	CHIKV/Homo sapiens/USA/CKVHL_90/2014	USA: Seminole County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680354	KY680354	Asian	CHIKV/Homo sapiens/USA/CKVHL_32/2014	USA: Hillsborough County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680355	KY680355	Asian	CHIKV/Homo sapiens/USA/CKVHL_125/2014	USA: Palm Beach County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680357	KY680357	Asian	CHIKV/Homo sapiens/USA/CKVHL_51/2014	USA: Orange County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680360	KY680360	Asian	CHIKV/Homo sapiens/USA/CKVHL_114/2014	USA: Broward County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680361	KY680361	Asian	CHIKV/Homo sapiens/USA/CKVHL_136/2014	USA: Broward County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680363	KY680363	Asian	CHIKV/Homo sapiens/USA/CKVHL_111/2014	USA: Dade County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680364	KY680364	Asian	CHIKV/Homo sapiens/USA/CKVHL_139/2014	USA: Dade County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680365	KY680365	Asian	CHIKV/Homo sapiens/USA/CKVHL_66/2014	USA: Seminole County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680366	KY680366	Asian	CHIKV/Homo sapiens/USA/CKVHL_10/2015	USA: Palm Beach County	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680368	KY680368	Asian	CHIKV/Homo sapiens/USA/CKVHL_115/2014	USA: Palm Beach County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680370	KY680370	Asian	CHIKV/Homo sapiens/USA/CKVHL_57/2014	USA: Orange County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680371	KY680371	Asian	CHIKV/Homo sapiens/USA/CKVHL_95/2014	USA: Palm Beach County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680373	KY680373	Asian	CHIKV/Homo sapiens/USA/CKVHL_113/2014	USA: Duval County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680374	KY680374	Asian	CHIKV/Homo sapiens/USA/CKVHL_89/2014	USA: Osceola County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680375	KY680375	Asian	CHIKV/Homo sapiens/USA/CKVHL_24/2014	USA: Osceola County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680376	KY680376	Asian	CHIKV/Homo sapiens/USA/CKVHL_85/2014	USA: Polk County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680377	KY680377	Asian	CHIKV/Homo sapiens/USA/CKVHL_28/2014	USA: Polk County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680378	KY680378	Asian	CHIKV/Homo sapiens/USA/CKVHL_103/2014	USA: Collier County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680379	KY680379	Asian	CHIKV/Homo sapiens/USA/CKVHL_53/2014	USA: Hillsborough County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680380	KY680380	Asian	CHIKV/Homo sapiens/USA/CKVHL_104/2014	USA	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680381	KY680381	Asian	CHIKV/Homo sapiens/USA/CKVHL_79/2014	USA: Osceola County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680384	KY680384	Asian	CHIKV/Homo sapiens/USA/CKVHL_03/2014	USA: Orange County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680385	KY680385	Asian	CHIKV/Homo sapiens/USA/CKVHL_70/2014	USA: Polk County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680386	KY680386	Asian	CHIKV/Homo sapiens/USA/CKVHL_16/2014	USA: Broward County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680387	KY680387	Asian	CHIKV/Homo sapiens/USA/CKVHL_18/2014	USA: Osceola County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680388	KY680388	Asian	CHIKV/Homo sapiens/USA/CKVHL_76/2014	USA: Polk County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680389	KY680389	Asian	CHIKV/Homo sapiens/USA/CKVHL_59/2015	USA: Osceola County	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680390	KY680390	Asian	CHIKV/Homo sapiens/USA/CKVHL_23/2014	USA: Hillsborough County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680391	KY680391	Asian	CHIKV/Homo sapiens/USA/CKVHL_72/2014	USA: Orange County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680392	KY680392	Asian	CHIKV/Homo sapiens/USA/CKVHL_09/2014	USA: Osceola County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680394	KY680394	Asian	CHIKV/Homo sapiens/USA/CKVHL_99/2014	USA: Osceola County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680395	KY680395	Asian	CHIKV/Homo sapiens/USA/CKVHL_08/2014	USA: Dade County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680396	KY680396	Asian	CHIKV/Homo sapiens/USA/CKVHL_35/2014	USA: Osceola County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680398	KY680398	Asian	CHIKV/Homo sapiens/USA/CKVHL_119/2014	USA: Palm Beach County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680399	KY680399	Asian	CHIKV/Homo sapiens/USA/CKVHL_120/2014	USA: Duval County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680400	KY680400	Asian	CHIKV/Homo sapiens/USA/CKVHL_27/2014	USA: Pasco County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680401	KY680401	Asian	CHIKV/Homo sapiens/USA/CKVHL_101/2014	USA	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680406	KY680406	Asian	CHIKV/Homo sapiens/USA/CKVHL_05/2014	USA: Polk County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680407	KY680407	Asian	CHIKV/Homo sapiens/USA/CKVHL_116/2014	USA: Duval County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680408	KY680408	Asian	CHIKV/Homo sapiens/USA/CKVHL_34/2014	USA: Dade County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680409	KY680409	Asian	CHIKV/Homo sapiens/USA/CKVHL_124/2014	USA: Duval County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680410	KY680410	Asian	CHIKV/Homo sapiens/USA/CKVHL_20/2014	USA: Osceola County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680412	KY680412	Asian	CHIKV/Homo sapiens/USA/CKVHL_88/2014	USA: Dade County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680413	KY680413	Asian	CHIKV/Homo sapiens/USA/CKVHL_128/2014	USA: Duval County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY680414	KY680414	Asian	CHIKV/Homo sapiens/USA/CKVHL_21/2014	USA: Seminole County	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703888	KY703888	Asian	CHIKV/Homo sapiens/NIC/1885.1D/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703889	KY703889	Asian	CHIKV/Homo sapiens/NIC/1863.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703890	KY703890	Asian	CHIKV/Homo sapiens/NIC/11132-15/2015	Nicaragua: Masaya	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703891	KY703891	Asian	CHIKV/Homo sapiens/NIC/11006-15/2015	Nicaragua: Rivas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703892	KY703892	Asian	CHIKV/Homo sapiens/NIC/1988.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703893	KY703893	Asian	CHIKV/Homo sapiens/NIC/1908.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703894	KY703894	Asian	CHIKV/Homo sapiens/NIC/6446.1LA1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703896	KY703896	Asian	CHIKV/Homo sapiens/NIC/1816.1E/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703897	KY703897	Asian	CHIKV/Homo sapiens/NIC/1825.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703898	KY703898	Asian	CHIKV/Homo sapiens/NIC/1897.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703899	KY703899	Asian	CHIKV/Homo sapiens/NIC/12438-15/2015	Nicaragua: Nuevo Segovia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703900	KY703900	Asian	CHIKV/Homo sapiens/NIC/1993.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703901	KY703901	Asian	CHIKV/Homo sapiens/NIC/1838.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703902	KY703902	Asian	CHIKV/Homo sapiens/NIC/CKVGH11/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703903	KY703903	Asian	CHIKV/Homo sapiens/NIC/1912.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703904	KY703904	Asian	CHIKV/Homo sapiens/NIC/5823.11A1/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703905	KY703905	Asian	CHIKV/Homo sapiens/NIC/1920.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703906	KY703906	Asian	CHIKV/Homo sapiens/NIC/1914.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703907	KY703907	Asian	CHIKV/Homo sapiens/NIC/996.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703909	KY703909	Asian	CHIKV/Homo sapiens/NIC/1842.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703910	KY703910	Asian	CHIKV/Homo sapiens/NIC/12062-15/2015	Nicaragua: Nuevo Segovia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703911	KY703911	Asian	CHIKV/Homo sapiens/NIC/1167.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703912	KY703912	Asian	CHIKV/Homo sapiens/NIC/15388-15/2015	Nicaragua: Carazo	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703913	KY703913	Asian	CHIKV/Homo sapiens/NIC/1878.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703914	KY703914	Asian	CHIKV/Homo sapiens/NIC/1886.1D/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703915	KY703915	Asian	CHIKV/Homo sapiens/NIC/1857.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703916	KY703916	Asian	CHIKV/Homo sapiens/NIC/6556.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703917	KY703917	Asian	CHIKV/Homo sapiens/NIC/14-16/2015	Nicaragua: Esteli	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703918	KY703918	Asian	CHIKV/Homo sapiens/NIC/1839.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703919	KY703919	Asian	CHIKV/Homo sapiens/NIC/1844.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703920	KY703920	Asian	CHIKV/Homo sapiens/NIC/13491-15/2015	Nicaragua: Granada	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703921	KY703921	Asian	CHIKV/Homo sapiens/NIC/1967.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703922	KY703922	Asian	CHIKV/Homo sapiens/NIC/7074.12A1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703923	KY703923	Asian	CHIKV/Homo sapiens/NIC/1925.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703924	KY703924	Asian	CHIKV/Homo sapiens/NIC/1879.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703925	KY703925	Asian	CHIKV/Homo sapiens/NIC/5201.12A1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703926	KY703926	Asian	CHIKV/Homo sapiens/NIC/1891.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703928	KY703928	Asian	CHIKV/Homo sapiens/NIC/1847.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703929	KY703929	Asian	CHIKV/Homo sapiens/NIC/14735-15/2015	Nicaragua: Boaco	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703930	KY703930	Asian	CHIKV/Homo sapiens/NIC/4912.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703931	KY703931	Asian	CHIKV/Homo sapiens/NIC/1924.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703932	KY703932	Asian	CHIKV/Homo sapiens/NIC/1890.1D/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703933	KY703933	Asian	CHIKV/Homo sapiens/NIC/8476.1LA1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703934	KY703934	Asian	CHIKV/Homo sapiens/NIC/8065.1LA1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703935	KY703935	Asian	CHIKV/Homo sapiens/NIC/4900.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703936	KY703936	Asian	CHIKV/Homo sapiens/NIC/1497.1LA1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703937	KY703937	Asian	CHIKV/Homo sapiens/NIC/1956.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703938	KY703938	Asian	CHIKV/Homo sapiens/NIC/1852.1D/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703939	KY703939	Asian	CHIKV/Homo sapiens/NIC/14577-15/2015	Nicaragua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703940	KY703940	Asian	CHIKV/Homo sapiens/NIC/1756.1C/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703941	KY703941	Asian	CHIKV/Homo sapiens/NIC/12687-15/2015	Nicaragua: Carazo	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703942	KY703942	Asian	CHIKV/Homo sapiens/NIC/86.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703943	KY703943	Asian	CHIKV/Homo sapiens/NIC/1948.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703944	KY703944	Asian	CHIKV/Homo sapiens/NIC/1938.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703945	KY703945	Asian	CHIKV/Homo sapiens/NIC/1937.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703947	KY703947	Asian	CHIKV/Homo sapiens/NIC/1778.1C/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703948	KY703948	Asian	CHIKV/Homo sapiens/NIC/1889.1D/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703949	KY703949	Asian	CHIKV/Homo sapiens/NIC/1824.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703950	KY703950	Asian	CHIKV/Homo sapiens/NIC/1790.1C/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703951	KY703951	Asian	CHIKV/Homo sapiens/NIC/5883.12A1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703953	KY703953	Asian	CHIKV/Homo sapiens/NIC/3116.1LA1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703954	KY703954	Asian	CHIKV/Homo sapiens/NIC/1758.1C/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703956	KY703956	Asian	CHIKV/Homo sapiens/NIC/7172.11A1/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703957	KY703957	Asian	CHIKV/Homo sapiens/NIC/7555.12A1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703958	KY703958	Asian	CHIKV/Homo sapiens/NIC/1985.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703959	KY703959	Asian	CHIKV/Homo sapiens/NIC/1800.1D/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703961	KY703961	Asian	CHIKV/Homo sapiens/NIC/7101.12.A./2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703962	KY703962	Asian	CHIKV/Homo sapiens/NIC/11630-15/2015	Nicaragua: Nuevo Segovia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703963	KY703963	Asian	CHIKV/Homo sapiens/NIC/1913.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703964	KY703964	Asian	CHIKV/Homo sapiens/NIC/12238-15/2015	Nicaragua: Leon	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703965	KY703965	Asian	CHIKV/Homo sapiens/NIC/1909.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703966	KY703966	Asian	CHIKV/Homo sapiens/NIC/4036.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703968	KY703968	Asian	CHIKV/Homo sapiens/NIC/1837.1D/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703971	KY703971	Asian	CHIKV/Homo sapiens/NIC/14906-15/2015	Nicaragua: Carazo	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703972	KY703972	Asian	CHIKV/Homo sapiens/NIC/1805.1E/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703973	KY703973	Asian	CHIKV/Homo sapiens/NIC/6523.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703974	KY703974	Asian	CHIKV/Homo sapiens/NIC/1910.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703975	KY703975	Asian	CHIKV/Homo sapiens/NIC/11091-15/2015	Nicaragua: Masaya	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703976	KY703976	Asian	CHIKV/Homo sapiens/NIC/6450.12A1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703977	KY703977	Asian	CHIKV/Homo sapiens/NIC/1835.12A1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703979	KY703979	Asian	CHIKV/Homo sapiens/NIC/11093-15/2015	Nicaragua: Matagalpa	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703980	KY703980	Asian	CHIKV/Homo sapiens/NIC/6638.12A1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703981	KY703981	Asian	CHIKV/Homo sapiens/NIC/1785.1C/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703982	KY703982	Asian	CHIKV/Homo sapiens/NIC/4040.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703983	KY703983	Asian	CHIKV/Homo sapiens/NIC/1809.1E/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703984	KY703984	Asian	CHIKV/Homo sapiens/NIC/1794.1C/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703987	KY703987	Asian	CHIKV/Homo sapiens/NIC/1367.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703988	KY703988	Asian	CHIKV/Homo sapiens/NIC/1793.1D/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703989	KY703989	Asian	CHIKV/Homo sapiens/NIC/1802.1D/2014	Nicaragua: Managua	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703991	KY703991	Asian	CHIKV/Homo sapiens/NIC/24044.1LA1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703992	KY703992	Asian	CHIKV/Homo sapiens/NIC/5695.12A1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703995	KY703995	Asian	CHIKV/Homo sapiens/NIC/1882.1D/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703996	KY703996	Asian	CHIKV/Homo sapiens/NIC/5024.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703997	KY703997	Asian	CHIKV/Homo sapiens/NIC/4354.12.A.1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703998	KY703998	Asian	CHIKV/Homo sapiens/NIC/7156.12A1/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY703999	KY703999	Asian	CHIKV/Homo sapiens/NIC/1828.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY704001	KY704001	Asian	CHIKV/Homo sapiens/NIC/1829.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY704002	KY704002	Asian	CHIKV/Homo sapiens/NIC/1823.1C/2015	Nicaragua: Managua	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/KY883764	KY883764	Asian	-	Singapore	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY885022	KY885022	Asian	-	Indonesia	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY885023	KY885023	Asian	-	Indonesia	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY885024	KY885024	Asian	-	Indonesia	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY885025	KY885025	Asian	-	Indonesia	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY885026	KY885026	Asian	-	Indonesia	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/KY885027	KY885027	Asian	-	Indonesia	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/LC146714	LC146714	Asian	-	Cuba	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/LC259083	LC259083	Asian	-	Indonesia	2009
+alignment/AL_CHIKV_Asian/member/ncbi-curated/LC259084	LC259084	Asian	-	Philippines	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated/LC259085	LC259085	Asian	-	Indonesia	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated/LC259087	LC259087	Asian	-	Indonesia	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated/LC259091	LC259091	Asian	-	Indonesia	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/LP809656	LP809656	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/LP809657	LP809657	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/LY575869	LY575869	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/LY575870	LY575870	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MA407068	MA407068	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MA407069	MA407069	Asian	-	-	-
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MF001507	MF001507	Asian	-	USA	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MF001508	MF001508	Asian	-	USA	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MF001510	MF001510	Asian	-	USA	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MF001512	MF001512	Asian	-	USA	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MF001513	MF001513	Asian	-	USA	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF409038	MF409038	Asian	-	South Korea	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF409039	MF409039	Asian	-	South Korea	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF409040	MF409040	Asian	-	South Korea	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF409041	MF409041	Asian	-	South Korea	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF409042	MF409042	Asian	-	South Korea	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF682980	MF682980	Asian	-	Aruba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF682981	MF682981	Asian	-	Aruba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF682982	MF682982	Asian	-	Aruba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF682983	MF682983	Asian	-	Aruba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF682984	MF682984	Asian	-	Aruba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF682985	MF682985	Asian	-	Aruba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF682986	MF682986	Asian	-	Aruba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF696159	MF696159	Asian	Asian Caribbean	Suriname	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MF696160	MF696160	Asian	Asian Caribbean	French Polynesia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG271970	MG271970	Asian	-	Fiji: Lautoka, imported	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG271971	MG271971	Asian	-	Fiji: Nadi	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG271972	MG271972	Asian	-	Fiji: Suva	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG271973	MG271973	Asian	-	Fiji: Suva	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG271974	MG271974	Asian	-	Fiji: Suva	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG525024	MG525024	Asian	Asian	Mexico:Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG525025	MG525025	Asian	Asian	Mexico:Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG525026	MG525026	Asian	Asian	Mexico:Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG525027	MG525027	Asian	Asian	Mexico:Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG525028	MG525028	Asian	Asian	Mexico:Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG525029	MG525029	Asian	Asian	Mexico:Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG525030	MG525030	Asian	Asian	Mexico:Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG525031	MG525031	Asian	Asian	Mexico:Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG525032	MG525032	Asian	Asian	Mexico:Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG525033	MG525033	Asian	Asian	Mexico:Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MG664851	MG664851	Asian	SZ1239	China	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG822707	MG822707	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG822708	MG822708	Asian	-	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967248	MG967248	Asian	-	Cook Islands: imported Samoa	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967249	MG967249	Asian	-	Cook Islands	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967250	MG967250	Asian	-	Cook Islands	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967251	MG967251	Asian	-	Kiribati	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967252	MG967252	Asian	-	Kiribati	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967253	MG967253	Asian	-	Tonga	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967254	MG967254	Asian	-	Tonga	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967255	MG967255	Asian	-	Samoa: Apia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967256	MG967256	Asian	-	Samoa: Apia	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967257	MG967257	Asian	-	Samoa	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967258	MG967258	Asian	-	Samoa	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967259	MG967259	Asian	-	Micronesia: Yap	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967260	MG967260	Asian	-	Micronesia: Yap	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967261	MG967261	Asian	-	Micronesia: Pohnpei	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967262	MG967262	Asian	-	Niue	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967263	MG967263	Asian	-	Tokelau	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967264	MG967264	Asian	-	Tuvalu	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967265	MG967265	Asian	-	Nauru	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967266	MG967266	Asian	-	Nauru	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967267	MG967267	Asian	-	Fiji: Lautoka	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967268	MG967268	Asian	-	Fiji: Nadi	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967269	MG967269	Asian	-	Fiji: Suva	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967270	MG967270	Asian	-	Fiji: Suva	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MG967271	MG967271	Asian	-	Fiji: Suva	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MH329293	MH329293	Asian	Car-61	Colombia: Cartagena	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MH329294	MH329294	Asian	OV-26	Colombia: Ovejas	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MH329295	MH329295	Asian	P1	Colombia: Planeta Rica	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MH329296	MH329296	Asian	M6	Colombia: Mahates Bolivar	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MH329303	MH329303	Asian	Car-4	Colombia: Cartagena, Bolivar	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH378406	MH378406	Asian	-	Cuba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH378407	MH378407	Asian	-	Cuba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH378408	MH378408	Asian	-	Cuba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH378409	MH378409	Asian	-	Cuba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH378410	MH378410	Asian	-	Cuba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH378411	MH378411	Asian	-	Cuba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH378412	MH378412	Asian	-	Cuba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH378413	MH378413	Asian	-	Cuba	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481881	MH481881	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481882	MH481882	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481883	MH481883	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481884	MH481884	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481885	MH481885	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481886	MH481886	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481887	MH481887	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481888	MH481888	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481889	MH481889	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481890	MH481890	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481891	MH481891	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481892	MH481892	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481893	MH481893	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481894	MH481894	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481895	MH481895	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481896	MH481896	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481897	MH481897	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481898	MH481898	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481899	MH481899	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH481900	MH481900	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH500794	MH500794	Asian	Asian	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH500795	MH500795	Asian	Asian	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH500796	MH500796	Asian	Asian	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH500797	MH500797	Asian	Asian	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH500798	MH500798	Asian	Asian	Mexico	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MH647183	MH647183	Asian	-	Singapore	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MH647185	MH647185	Asian	-	Singapore	2012
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MH647193	MH647193	Asian	-	Singapore	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH647453	MH647453	Asian	-	Singapore	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MH647473	MH647473	Asian	-	Singapore	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MH670649	MH670649	Asian	-	China	2009
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MK028840	MK028840	Asian	-	Thailand	1962
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MK040428	MK040428	Asian	-	Colombia: Sucre	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MK040429	MK040429	Asian	-	Colombia: Sucre	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MK040430	MK040430	Asian	-	Colombia: Sucre	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MK240310	MK240310	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MK240311	MK240311	Asian	Asian	Mexico: Chiapas	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462638	MN462638	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462639	MN462639	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462640	MN462640	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462641	MN462641	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462642	MN462642	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462643	MN462643	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462644	MN462644	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462645	MN462645	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462646	MN462646	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462647	MN462647	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462648	MN462648	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462649	MN462649	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462650	MN462650	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462651	MN462651	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462652	MN462652	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462653	MN462653	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462654	MN462654	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462655	MN462655	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462656	MN462656	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462657	MN462657	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462658	MN462658	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462659	MN462659	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462660	MN462660	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462661	MN462661	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MN462662	MN462662	Asian	-	Ecuador	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT038393	MT038393	Asian	PY02	Paraguay: Yaguaron	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT038394	MT038394	Asian	PY07	Paraguay: Yaguaron	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT038395	MT038395	Asian	PY06	Paraguay: Yaguaron	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT038396	MT038396	Asian	PY08	Paraguay: Yaguaron	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT038397	MT038397	Asian	PY03	Paraguay: Yaguaron	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT038398	MT038398	Asian	PY09	Paraguay: Yaguaron	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT150092	MT150092	Asian	Bol1	Bolivia: Santa Cruz de la Sierra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT150093	MT150093	Asian	Bol2	Bolivia: Santa Cruz de la Sierra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT150094	MT150094	Asian	Bol3	Bolivia: Santa Cruz de la Sierra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT150095	MT150095	Asian	Bol4	Bolivia: Cochabamba	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT150096	MT150096	Asian	Bol5	Bolivia: Santa Cruz de la Sierra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT150097	MT150097	Asian	Bol6	Bolivia: Santa Cruz de la Sierra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT150098	MT150098	Asian	Bol7	Bolivia: Santa Cruz de la Sierra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT150099	MT150099	Asian	Bol8	Bolivia: Santa Cruz de la Sierra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT150100	MT150100	Asian	Bol9	Bolivia: Beni, Trinidad	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT228633	MT228633	Asian	-	Saint Martin	2013
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591083	MT591083	Asian	-	Indonesia: Tomohon, Sulawesi	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591084	MT591084	Asian	-	Indonesia: Tomohon, Sulawesi	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591085	MT591085	Asian	-	Indonesia: Tomohon, Sulawesi	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591086	MT591086	Asian	-	Indonesia: Buleleng, Bali	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591087	MT591087	Asian	-	Indonesia: Buleleng, Bali	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591088	MT591088	Asian	-	Indonesia: Buleleng, Bali	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591089	MT591089	Asian	-	Indonesia: Buleleng, Bali	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591090	MT591090	Asian	-	Indonesia: Tabanan, Bali	2017
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591091	MT591091	Asian	-	Indonesia: Tabanan, Bali	2017
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591092	MT591092	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591093	MT591093	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591094	MT591094	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591095	MT591095	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591096	MT591096	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591097	MT591097	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591098	MT591098	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591099	MT591099	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591100	MT591100	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591101	MT591101	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591102	MT591102	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591103	MT591103	Asian	-	Indonesia: Jambi, Sumatra	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591104	MT591104	Asian	-	Indonesia: Tabanan, Bali	2017
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591105	MT591105	Asian	-	Indonesia: Tabanan, Bali	2018
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591106	MT591106	Asian	-	Indonesia: Tabanan, Bali	2018
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MT591107	MT591107	Asian	-	Indonesia: Ambon, Maluku	2018
+alignment/AL_CHIKV_Asian/member/ncbi-curated/MW473668	MW473668	Asian	181/25	USA	2018
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MZ292728	MZ292728	Asian	-	Laos	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MZ292729	MZ292729	Asian	-	Laos	2019
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/MZ673047	MZ673047	Asian	-	New Caledonia	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/OK655882	OK655882	Asian	-	Indonesia: Jambi	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/OK655883	OK655883	Asian	-	Indonesia: Jambi	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/OK655884	OK655884	Asian	-	Indonesia: Jambi	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/OL343610	OL343610	Asian	-	Brazil: Macapa-AP	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated/OL343611	OL343611	Asian	-	Brazil: Macapa-AP	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/OL343614	OL343614	Asian	-	Brazil: Macapa-AP	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/OL343615	OL343615	Asian	-	Brazil: Macapa-AP	2015
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/OM799570	OM799570	Asian	-	China	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/OM799571	OM799571	Asian	-	China	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/OM799572	OM799572	Asian	-	China	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated-short/OM799573	OM799573	Asian	-	China	2016
+alignment/AL_CHIKV_Asian/member/ncbi-curated/OP615961	OP615961	Asian	-	Argentina	2014
+alignment/AL_CHIKV_Asian/member/ncbi-curated/OP615962	OP615962	Asian	-	Argentina	2015

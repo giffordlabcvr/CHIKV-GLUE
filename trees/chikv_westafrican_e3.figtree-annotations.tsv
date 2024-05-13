@@ -1,0 +1,42 @@
+taxon	sequenceID	genotype	isolate	country	collection_year
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated/AY726732	AY726732	WestAfr	37997	Senegal	-
+alignment/AL_CHIKV_WestAfr/member/ncbi-refseqs/HM045785	HM045785	WestAfr	PM2951	Senegal	1966
+alignment/AL_CHIKV_WestAfr/member/ncbi-refseqs/HM045786	HM045786	WestAfr	IbH35	Nigeria	1964
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated/HM045798	HM045798	WestAfr	SH2830	Senegal	1966
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated/HM045804	HM045804	WestAfr	IPD/A SH 2807	Senegal	-
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated/HM045807	HM045807	WestAfr	IbAn4824	Nigeria	1965
+alignment/AL_CHIKV_WestAfr/member/ncbi-refseqs/HM045815	HM045815	WestAfr	ArD 30237	Senegal	1979
+alignment/AL_CHIKV_WestAfr/member/ncbi-refseqs/HM045816	HM045816	WestAfr	SH 3013	Senegal	1966
+alignment/AL_CHIKV_WestAfr/member/ncbi-refseqs/HM045817	HM045817	WestAfr	HD 180760	Senegal	2005
+alignment/AL_CHIKV_WestAfr/member/ncbi-refseqs/HM045818	HM045818	WestAfr	ArA 2657	Ivory	1981
+alignment/AL_CHIKV_WestAfr/member/ncbi-refseqs/HM045819	HM045819	WestAfr	ArD 93229	Senegal	1993
+alignment/AL_CHIKV_WestAfr/member/ncbi-refseqs/HM045820	HM045820	WestAfr	ArA 30548	Ivory	1993
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated-short/HW799203	HW799203	WestAfr	-	-	-
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated/KX262986	KX262986	WestAfr	CHIKV/Aedes furcifer/SEN/37937/1983	Senegal: Kedougou	1983
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated/KX262995	KX262995	WestAfr	CHIKV/Aedes furcifer/SEN/37950/1983	Senegal: Kedougou	1983
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated-short/LF654935	LF654935	WestAfr	-	-	-
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated-short/LG175006	LG175006	WestAfr	-	-	-
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated-short/LQ317138	LQ317138	WestAfr	-	-	-
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated-short/LQ423144	LQ423144	WestAfr	-	-	-
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated-short/MA132422	MA132422	WestAfr	-	-	-
+alignment/AL_CHIKV_WestAfr/member/ncbi-curated-short/OF338498	OF338498	WestAfr	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Cote-d_Ivoire_HM045818_1981-09-01	Cote-d_Ivoire_HM045818_1981-09-01	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Cote-d_Ivoire_HM045820_1993-12-01	Cote-d_Ivoire_HM045820_1993-12-01	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Nigeria_HM045786_1964-07-07	Nigeria_HM045786_1964-07-07	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Nigeria_HM045807_1965-04-13	Nigeria_HM045807_1965-04-13	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_HM045785_1966-11-01	Senegal_HM045785_1966-11-01	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_HM045798_1966-11-01	Senegal_HM045798_1966-11-01	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_HM045815_1979-02-01	Senegal_HM045815_1979-02-01	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_HM045816_1966-11-23	Senegal_HM045816_1966-11-23	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_HM045817_2005-11-01	Senegal_HM045817_2005-11-01	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_HM045819_1993-02-01	Senegal_HM045819_1993-02-01	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_IRESSEF_CHIK0056_Ndiourmi_2023-08-25	Senegal_IRESSEF_CHIK0056_Ndiourmi_2023-08-25	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_IRESSEF_CHIK0092_Ndiormi_2023-08-24	Senegal_IRESSEF_CHIK0092_Ndiormi_2023-08-24	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_IRESSEF_CHIK0136_Bandafassi_2023-08-21	Senegal_IRESSEF_CHIK0136_Bandafassi_2023-08-21	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_IRESSEF_CHIK0179_Ndiourmi_2023-08-24	Senegal_IRESSEF_CHIK0179_Ndiourmi_2023-08-24	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_IRESSEF_CHIK0250_Bandafassi_2023-08-21	Senegal_IRESSEF_CHIK0250_Bandafassi_2023-08-21	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_IRESSEF_CHIK0398_Ndiourmi_2023-08-17	Senegal_IRESSEF_CHIK0398_Ndiourmi_2023-08-17	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_IRESSEF_CHIK0443_Bandafassi_2023-08-23	Senegal_IRESSEF_CHIK0443_Bandafassi_2023-08-23	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_IRESSEF_CHIK0470_Bandafassi_2023-08-21	Senegal_IRESSEF_CHIK0470_Bandafassi_2023-08-21	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_KX262986_1983-01-01	Senegal_KX262986_1983-01-01	-	-	-	-
+alignment/AL_CHIKV_WestAfr/member/senegal-fasta/Senegal_KX262995_1983-07-10	Senegal_KX262995_1983-07-10	-	-	-	-
