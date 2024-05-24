@@ -18,7 +18,7 @@ project chikv
   module chikvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated-short'"
 
   # Import genotype data
-  run file glue/loadGenotypesCurated.glue
+  run file glue/chikvLoadGenotypesCurated.glue
 
   # Import genotype data
   run file glue/chikvAlignmentTreeCurated.glue
