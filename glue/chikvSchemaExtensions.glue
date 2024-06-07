@@ -1,5 +1,13 @@
 schema-project chikv
 
+
+  #~# Custom tables
+  
+  create custom-table isolate_data
+  create custom-table chikv_replacement
+  create custom-table chikv_replacement_sequence --idFieldLength 200
+
+
   #~# Extensions to sequence table
 
   table sequence
