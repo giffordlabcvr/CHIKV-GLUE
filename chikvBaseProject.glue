@@ -9,6 +9,9 @@ project chikv
   run file glue/chikvProjectSettings.glue
   run file glue/chikvModules.glue
 
+  # Set up ISO countries  
+  run file glue/m49_countries/populateM49All.glue
+
   # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
   import source sources/ncbi-refseqs
  
