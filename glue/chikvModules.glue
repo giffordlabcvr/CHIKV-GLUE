@@ -1,7 +1,15 @@
-# Basic modules
-create module --fileName modules/chikvGenbankXmlPopulator.xml
-create module --fileName modules/unconstrainedAlignmentImporter.xml
 
-create module -f modules/chikvTabularUtility.xml
-create module -f modules/chikvSideDataImporter.xml
+	# Basic modules
+	create module -f modules/chikvTabularUtility.xml
+	create module -f modules/tabularUtilityCsv.xml
+	create module -f modules/tabularUtilityTab.xml
 
+	# Import modules
+	create module --fileName modules/chikvGenbankXmlPopulator.xml
+	create module --fileName modules/unconstrainedAlignmentImporter.xml
+	create module -f modules/chikvSideDataImporter.xml
+
+    # AA replacement analysis modules
+	create module -f modules/chikvMiyata1979DistanceCalculator.xml
+	create module -f modules/chikvHanada2006ReplacementClassifier.xml
+	create module -f modules/chikvGrantham1974DistanceCalculator.xml

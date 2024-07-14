@@ -36,8 +36,6 @@ schema-project chikv
 
   #~# Create schema extension for virus isolates
   
-  create custom-table isolate_data
-
   table isolate_data
   
     create field isolate VARCHAR 100
@@ -75,20 +73,18 @@ schema-project chikv
     create field parent_codon_label VARCHAR
     exit
 
-
-  create link sequence isolate_data
-
-  create link variation chikv_replacement -m ONE_TO_ONE
-  create link chikv_replacement chikv_replacement_sequence -m ONE_TO_MANY
-  create link sequence chikv_replacement_sequence -m ONE_TO_MANY
-
-  create link sequence isolate_data
-
-
   #~# m49 country/region extension
   
   run file glue/m49_countries/m49SchemaExtension.glue 
+
+
+  #~# Link tables
+
   create link sequence m49_country -m MANY_TO_ONE
+  create link sequence isolate_data
+  create link variation chikv_replacement -m ONE_TO_ONE
+  create link chikv_replacement chikv_replacement_sequence -m ONE_TO_MANY
+  create link sequence chikv_replacement_sequence -m ONE_TO_MANY
   
   
   exit
