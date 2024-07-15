@@ -58,6 +58,8 @@
 				<matchPattern>^.*:(.*)$</matchPattern>
 				<outputTemplate>${g1?trim}</outputTemplate>
 			</propertyPopulator>
+			<isoCountryPropertyPopulator property="isolate_data.m49_country" codeStyle="ALPHA_3">
+			</isoCountryPropertyPopulator>
 		</gbQualifier>
 
 		
