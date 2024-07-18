@@ -17,20 +17,18 @@ schema-project chikv
     create field pubmed_id INTEGER
     create field gb_create_date DATE
     create field gb_update_date DATE
-
+    create field variation_present BOOLEAN # true if variations are present in the sequence
     exit
 
   table alignment
   
     create field clade_category VARCHAR 20
-    create field phylogeny CLOB
-    
+    create field phylogeny CLOB 
     exit
 
   table member_floc_note
   
-    create field ref_nt_coverage_pct DOUBLE
-    
+    create field ref_nt_coverage_pct DOUBLE    
     exit
 
 
