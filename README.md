@@ -10,17 +10,6 @@ GLUE is an open, integrated software toolkit designed for storing and interpreti
 
 Projects are loaded into the GLUE "engine," forming a relational database that represents the semantic relationships between data items. This foundation supports systematic comparative analyses and the development of sequence-based resources.
 
-## Table of Contents
-
-- [Key Features](#key-features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Genotyping](#genotyping)
-- [Mutation frequencies](#mutation-frequencies)
-- [Data Sources](#data-sources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Key Features
 
