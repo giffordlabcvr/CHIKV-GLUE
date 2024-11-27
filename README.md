@@ -10,6 +10,7 @@ GLUE is an open, integrated software toolkit designed for storing and interpreti
 
 Projects are loaded into the GLUE "engine," forming a relational database that represents the semantic relationships between data items. This foundation supports systematic comparative analyses and the development of sequence-based resources.
 
+* * * * * 
 
 ## Key Features
 
@@ -21,6 +22,7 @@ Projects are loaded into the GLUE "engine," forming a relational database that r
 
 - **Automated Genotyping**: CHIKV-GLUE can perform automated genotyping of CHIKV sequences (including subgenomic sequences) via GLUE's [maximum likelihood clade assignment (MLCA) algorithm](https://doi.org/10.1186/s12859-018-2459-9). 
 
+* * * * * 
 
 ## Installation
 
@@ -43,11 +45,15 @@ GLUE> run file buildChikvProject.glue
 
 This will build the base project, which contains a minimal set of feature definitions, clade categories, reference sequences, and alignments.
 
+* * * * * 
+
 ## Usage
 
 GLUE contains an interactive command line environment focused on the development and use of GLUE projects by bioinformaticians. This provides a range of productivity-oriented features such as automatic command completion, command history and interactive paging through tabular data. 
 
 For detailed instructions on how to use CHIKV-GLUE for your comparative genomic analysis, refer to the GLUE's [reference documentation](http://glue-tools.cvr.gla.ac.uk/).
+
+* * * * * 
 
 ## Genotyping
 
@@ -67,6 +73,8 @@ Please note the above command sequence is equivalent to the following:
 Mode path: /
 GLUE> project chikv module chikvMaxLikelihoodGenotyper genotype file -f path/to/sequences/CHIKV.fasta 
 ```
+
+* * * * * 
 
 ## Mutation frequencies
 
@@ -120,6 +128,7 @@ Specifies the location within the feature to be analyzed. Here, it focuses on a 
 - **numMembers**: The number of sequences in the alignment containing the specified amino acid at the given position.
 - **pctMembers**: The percentage of sequences in the alignment containing the specified amino acid at the given position.
 
+* * * * * 
 
 ## Data Sources
 
@@ -127,18 +136,24 @@ CHIKV-GLUE relies on the following data sources:
 
 - [NCBI Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore)
 
+* * * * * 
+
 ## Contributing
 
 We welcome contributions from the community! If you're interested in contributing to CHIKV-GLUE, please review our [Contribution Guidelines](./md/CONTRIBUTING.md).
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./md/code_of_conduct.md)
 
+* * * * * 
 
 ## License
 
 The project is licensed under the [GNU Affero General Public License v. 3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
+* * * * * 
+
 ## Contact
 
 For questions, issues, or feedback, please open an issue on the [GitHub repository](https://github.com/giffordlabcvr/CHIKV-GLUE/issues).
 
+* * * * * 
