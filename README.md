@@ -10,6 +10,9 @@ GLUE is an open, integrated software toolkit designed for storing and interpreti
 
 Projects are loaded into the GLUE "engine," forming a relational database that represents the semantic relationships between data items. This foundation supports systematic comparative analyses and the development of sequence-based resources.
 
+Please see the **[User Guide](https://github.com/giffordlabcvr/CHIKV-GLUE/wiki)** for more details.
+
+
 * * * * * 
 
 ## Key Features
