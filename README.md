@@ -1,6 +1,6 @@
 # CHIKV-GLUE
 
-<img src="md/chikv-glue-logo.png" align="right" alt="" width="280" />
+<img src="md/chikv-glue-logo.png" align="right" alt="" width="240" />
 
 Welcome to the GitHub repository for **CHIKV-GLUE**!
 
