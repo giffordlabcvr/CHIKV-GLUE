@@ -1,4 +1,4 @@
-# CHIKV-GLUE: Phylogenomic Analysis of Chikungunya Virus
+# CHIKV-GLUE
 
 <img src="md/chikv-glue-logo.png" align="right" alt="" width="280" />
 
