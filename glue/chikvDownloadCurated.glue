@@ -1,0 +1,16 @@
+
+  # Clean-up
+  delete module chikvNcbiImporterGenBankLong
+  delete module chikvNcbiImporterGenBankShort
+
+  # Create modules
+  create module -f modules/chikvNcbiImporterGenBankShort.xml
+  create module -f modules/chikvNcbiImporterGenBankLong.xml
+
+  # Download NCBI sequences 
+  module chikvNcbiImporterGenBankLong import
+  module chikvNcbiImporterGenBankShort import
+
+  # Export sources
+  export source ncbi-curated
+  export source ncbi-curated-short

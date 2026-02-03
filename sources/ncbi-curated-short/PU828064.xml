@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>PU828064</GBSeq_locus>
+    <GBSeq_length>3747</GBSeq_length>
+    <GBSeq_strandedness>double</GBSeq_strandedness>
+    <GBSeq_moltype>DNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>PAT</GBSeq_division>
+    <GBSeq_update-date>30-SEP-2025</GBSeq_update-date>
+    <GBSeq_create-date>30-SEP-2025</GBSeq_create-date>
+    <GBSeq_definition>Sequence 149 from patent US 12168675 B2</GBSeq_definition>
+    <GBSeq_primary-accession>PU828064</GBSeq_primary-accession>
+    <GBSeq_accession-version>PU828064.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|PU828064.1|</GBSeqid>
+      <GBSeqid>pat|US|12168675|149</GBSeqid>
+      <GBSeqid>gi|3069762903</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Chikungunya virus</GBSeq_source>
+    <GBSeq_organism>Chikungunya virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Alsuviricetes; Martellivirales; Togaviridae; Alphavirus; Alphavirus chikungunya</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..3747</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Nabel,G.</GBAuthor>
+          <GBAuthor>Rao,S.</GBAuthor>
+          <GBAuthor>Akahata,W.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Virus-like particles and methods of use</GBReference_title>
+        <GBReference_journal>US12168675-B2 149 17-DEC-2024 The United States of America, as represented by the Secretary, Department of Health and Human Services; Bethesda, MD</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..3747</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>3747</GBInterval_to>
+            <GBInterval_accession>PU828064.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Chikungunya virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic DNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:37124</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>atggagttcatcccgacgcaaactttctataacagaaggtaccaaccccgaccctgggccccacgccctacaattcaagtaattagacctagaccacgtccacagaggcaggctgggcaactcgcccagctgatctccgcagtcaacaaattgaccatgcgcgcggtacctcaacagaagcctcgcagaaatgcgaaaaacaagaagcaaaggcagaagaagcaggcgccgcaaaacgacccaaagcaaaagaagcaaccaccacaaaagaagccggctcaaaagaagaagaaaccaggccgtagggagagaatgtgcatgaaaattgaaaatgattgcatcttcgaagtcaagcatgaaggcaaagtgatgggctacgcatgcctggtgggggataaagtaatgaaaccagcacatgtgaagggaactatcgacaatgccgatctggctaaactggcctttaagcggtcgtctaaatacgatcttgaatgtgcacagataccggtgcacatgaagtctgatgcctcgaagtttacccacgagaaacccgaggggtactataactggcatcacggagcagtgcagtattcaggaggccggttcactatcccgacgggtgcaggcaagccgggagacagcggcagaccgatcttcgacaacaaaggacgggtggtggccatcgtcctaggaggggccaacgaaggtgcccgcacggccctctccgtggtgacgtggaacaaagacatcgtcacaaaaattacccctgagggagccgaagagtggagcctcgccctcccggtcttgtgcctgttggcaaacactacattcccctgctctcagccgccttgcacaccctgctgctacgaaaaggaaccggaaagcaccttgcgcatgcttgaggacaacgtgatgagacccggatactaccagctactaaaagcatcgctgacttgctctccccaccgccaaagacgcagtactaaggacaattttaatgtctataaagccacaagaccatatctagctcattgtcctgactgcggagaagggcattcgtgccacagccctatcgcattggagcgcatcagaaatgaagcaacggacggaacgctgaaaatccaggtctctttgcagatcgggataaagacagatgacagccacgattggaccaagctgcgctatatggatagccatacgccagcggacgcggagcgagccggattgcttgtaaggacttcagcaccgtgcacgatcaccgggaccatgggacactttattctcgcccgatgcccgaaaggagagacgctgacagtgggatttacggacagcagaaagatcagccacacatgcacacacccgttccatcatgaaccacctgtgataggtagggagaggttccactctcgaccacaacatggtaaagagttaccttgcagcacgtacgtgcagagcaccgctgccactgctgaggagatagaggtgcatatgcccccagatactcctgaccgcacgctgatgacgcagcagtctggcaacgtgaagatcacagttaatgggcagacggtgcggtacaagtgcaactgcggtggctcaaacgagggactgacaaccacagacaaagtgatcaataactgcaaaattgatcagtgccatgctgcagtcactaatcacaagaattggcaatacaactcccctttagtcccgcgcaacgctgaactcggggaccgtaaaggaaagatccacatcccattcccattggcaaacgtgacttgcagagtgccaaaagcaagaaaccctacagtaacttacggaaaaaaccaagtcaccatgctgctgtatcctgaccatccgacactcttgtcttaccgtaacatgggacaggaaccaaattaccacgaggagtgggtgacacacaagaaggaggttaccttgaccgtgcctactgagggtctggaggtcacttggggcaacaacgaaccatacaagtactggccgcagatgtctacgaacggtactgctcatggtcacccacatgagataatcttgtactattatgagctgtaccccactatgactgtagtcattgtgtcggtggcctcgttcgtgcttctgtcgatggtgggcacagcagtgggaatgtgtgtgtgcgcacggcgcagatgcattacaccatatgaattaacaccaggagccactgttcccttcctgctcagcctgctatgctgcgtcagaacgaccaaggcggccacatattacgaggctgcggcatatctatggaacgaacagcagcccctgttctggttgcaggctcttatcccgctggccgccttgatcgtcctgtgcaactgtctgaaactcttgccatgctgctgtaagaccctggcttttttagccgtaatgagcatcggtgcccacactgtgagcgcgtacgaacacgtaacagtgatcccgaacacggtgggagtaccgtataagactcttgtcaacagaccgggttacagccccatggtgttggagatggagctacaatcagtcaccttggaaccaacactgtcacttgactacatcacgtgcgagtacaaaactgtcatcccctccccgtacgtgaagtgctgtggtacagcagagtgcaaggacaagagcctaccagactacagctgcaaggtctttactggagtctacccatttatgtggggcggcgcctactgcttttgcgacgccgaaaatacgcaattgagcgaggcacatgtagagaaatctgaatcttgcaaaacagagtttgcatcggcctacagagcccacaccgcatcggcgtcggcgaagctccgcgtcctttaccaaggaaacaacattaccgtagctgcctacgctaacggtgaccatgccgtcacagtaaaggacgccaagtttgtcgtgggcccaatgtcctccgcctggacaccttttgacaacaaaatcgtggtgtacaaaggcgacgtctacaacatggactacccaccttttggcgcaggaagaccaggacaatttggtgacattcaaagtcgtacaccggaaagtaaagacgtttatgccaacactcagttggtactacagaggccagcagcaggcacggtacatgtaccatactctcaggcaccatctggcttcaagtattggctgaaggaacgaggagcatcgctacagcacacggcaccgttcggttgccagattgcgacaaacccggtaagagctgtaaattgcgctgtggggaacataccaatttccatcgacataccggatgcggcctttactagggttgtcgatgcaccctctgtaacggacatgtcatgcgaagtaccagcctgcactcactcctccgactttgggggcgtcgccatcatcaaatacacagctagcaagaaaggtaaatgtgcagtacattcgatgaccaacgccgttaccattcgagaagccgacgtagaagtagaggggaactcccagctgcaaatatccttctcaacagccctggcaagcgccgagtttcgcgtgcaagtgtgctccacacaagtacactgcgcagccgcatgccaccctccaaaggaccacatagtcaattacccagcatcacacaccacccttggggtccaggatatatccacaacggcaatgtcttgggtgcagaagattacgggaggagtaggattaattgttgctgttgctgccttaattttaattgtggtgctatgcgtgtcgtttagcaggcactaa</GBSeq_sequence>
+  </GBSeq>

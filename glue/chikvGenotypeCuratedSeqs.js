@@ -1,5 +1,4 @@
-
-//Do serotype recognition for all ncbi curated sequences
+// Do MLCA genotyping for all ncbi curated sequences
 
 var ncbiCurated;
 var whereClause = "source.name = 'ncbi-curated' and genotype = null";
